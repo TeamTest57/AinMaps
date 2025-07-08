@@ -38,7 +38,7 @@ export.syns = {
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "カㇻク:kárku((H))" },
 	["Soya"]	= { "カㇻク:kárku, -hu((H))" },
-	["Teshio"]	= { "マㇰタイㇻワㇰ:maktairwak(-i)((C3))" },
+	["Teshio"]	= { "マㇰタイㇼワㇰ:maktairwak(-i)((C3))" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },

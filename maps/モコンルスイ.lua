@@ -66,7 +66,7 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "モコンルスイランコロ:mokon rusuy ran (an-)koro", "モコンライキランコロ:mokonrayki ran (an-)koro", "モコンライキ:mokonrayki(-an)", "モコンルスイ:mokonrusuy(-an)", "エトㇵセライキ:etohserayki(-an)((C3))" },
+	["Maoka"]	= { "モコンルスイランコロ:mokon rusuy ran (an-)koro", "モコンライキランコロ:mokonrayki ran (an-)koro", "モコンライキ:mokonrayki(-an)", "モコンルスイ:mokonrusuy(-an)", "エトㇹセライキ:etohserayki(-an)((C3))" },
 	["Raichishka"]	= { "モコンライキ:mokonrayki [自]", "ヘノイェ:henoye [自]《いねむりする》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
@@ -80,7 +80,7 @@ export.syns = {
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "モコンルスイランコロ:mokon rusuy ran (an-)koro", "モコンライキランコロ:mokonrayki ran (an-)koro", "モコンライキ:mokonrayki(-an)", "モコンルスイ:mokonrusuy(-an)((C3))" },
 	["Taraika"]	= { "" },
-	["Tonnai"]	= { "エトㇵセライキ:etohserayki(-an)((C3))" },
+	["Tonnai"]	= { "エトㇹセライキ:etohserayki(-an)((C3))" },
 	["Yamambetsu"]	= { "" },
 
 	-- Kuril: Northern

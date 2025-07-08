@@ -67,10 +67,10 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ポㇵペアシン:pohpe 'asin [自]", "ポㇵペチョココㇵセ:pohpe cokokohse《だらだら流れる》((H))" },
+	["Raichishka"]	= { "ポㇹペアシン:pohpe 'asin [自]", "ポㇹペチョココㇹセ:pohpe cokokohse《だらだら流れる》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "ポㇵペアシン:pohpeasin(-an)((C3))" },
+	["Usoro"]	= { "ポㇹペアシン:pohpeasin(-an)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

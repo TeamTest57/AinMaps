@@ -66,10 +66,10 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "ナンナ:nanna((C3))" },
-	["Maoka"]	= { "ナンナ:nanna((HC))", "トㇵト:tohto((C3))" },
+	["Maoka"]	= { "ナンナ:nanna((HC))", "トㇹト:tohto((C3))" },
 	["Raichishka"]	= { "オンモ:onmo, -ho《おかあさん》(呼ぶ時にも)", "ウヌ:'unu, -hu((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ナンナ:nanna((HC))", "トㇵト:tohto((C3))" },
+	["Tarantomari"]	= { "ナンナ:nanna((HC))", "トㇹト:tohto((C3))" },
 	["Usoro"]	= { "ナンナ:nanna", "オㇺモ:ommo((C3))" },
 
 	-- Sakhalin: East Coast

@@ -66,8 +66,8 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "クンネチュㇵ:kunne cuh((HC))" },
-	["Raichishka"]	= { "チュㇵ:cuh((HC))" },
+	["Maoka"]	= { "クンネチュㇷ:kunne cuh((HC))" },
+	["Raichishka"]	= { "チュㇷ:cuh((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "トンピ:(kunne)tonpi((HC))" },
 	["Usoro"]	= { "" },
@@ -76,9 +76,9 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "チュㇷ゚:(kunne)cup((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "クネチュㇵ:kuɴnecuh((HC))" },
+	["Ochiho"]	= { "クネチュㇷ:kuɴnecuh((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "チュㇵ:cuh((HC))" },
+	["Shiraura"]	= { "チュㇷ:cuh((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "シㇻキヌチュㇷ゚プ:sirkinu=cuppu(月)((V))" },
+	["Shumshu"]	= { "シㇼキヌチュㇷ゚プ:sirkinu=cuppu(月)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

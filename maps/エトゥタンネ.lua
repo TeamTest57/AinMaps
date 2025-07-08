@@ -37,19 +37,19 @@ export.syns = {
 	["Asahikawa"]	= { "エトゥタンネ:etútanne((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "エトゥタンネ:etútanne((H))" },
-	["Soya"]	= { "エトゥタンネキキㇻ:etútanne kikír", "ヘタㇷ゚タポキキㇻ:hetáptapo kikír((H))" },
+	["Soya"]	= { "エトゥタンネキキㇼ:etútanne kikír", "ヘタㇷ゚タポキキㇼ:hetáptapo kikír((H))" },
 	["Teshio"]	= { "エトゥタンネ:etutanne((C2))" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
-	["Ashoro"]	= { "エトゥタンネキキㇻ:etutannekikir", "キキㇻ:kikir((C2))" },
-	["Bihoro"]	= { "エトゥタンネ:etutanne((H))", "キキㇻ:kikir((C2))" },
-	["Biroo"]	= { "キキㇻ:kikir((C2))" },
+	["Ashoro"]	= { "エトゥタンネキキㇼ:etutannekikir", "キキㇼ:kikir((C2))" },
+	["Bihoro"]	= { "エトゥタンネ:etutanne((H))", "キキㇼ:kikir((C2))" },
+	["Biroo"]	= { "キキㇼ:kikir((C2))" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "エトゥタンネ:etutanne((C2))" },
-	["Harutori"]	= { "エトゥタンネキキㇻ:etutannekikir((C2))" },
+	["Harutori"]	= { "エトゥタンネキキㇼ:etutannekikir((C2))" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ウーネㇵ:uuneh, -pihi((H))" },
+	["Raichishka"]	= { "ウーネㇸ:uuneh, -pihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -77,7 +77,7 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ウネㇵ:uneh(蚊)((CW))" },
+	["Shirahama"]	= { "ウネㇸ:uneh(蚊)((CW))" },
 	["Shiraura"]	= { "" },
 	["Taraika"]	= { "ウネㇷ゚:unep((C2))" },
 	["Tonnai"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "エトゥタニ:etu-tani(蚊)", "カチュ:kacu(ユスリカ)", "カチュイキㇻ:kacu=ikir(ユスリカ)((V))" },
+	["Shumshu"]	= { "エトゥタニ:etu-tani(蚊)", "カチュ:kacu(ユスリカ)", "カチュイキㇼ:kacu=ikir(ユスリカ)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

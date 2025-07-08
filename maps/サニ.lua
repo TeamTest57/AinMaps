@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "サンテㇰ:sántek, -e", "サニキㇻ:sánikir, -i((H))", "アイヌライケㇷ゚サニ:aynuraykepsani", "ライクㇻサニ:raykursani", "ウェイセタサニ:weysetasani((C3))" },
+	["Horobetsu"]	= { "サンテㇰ:sántek, -e", "サニキㇼ:sánikir, -i((H))", "アイヌライケㇷ゚サニ:aynuraykepsani", "ライクㇽサニ:raykursani", "ウェイセタサニ:weysetasani((C3))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "サン:sán, -í", "サンテケヘ:sántekehe", "タイペ:táype [悪]", "サピキㇻ:sápikir, -i《系統》((H))", "イロンヌプイペ:ironnupuype", "イトゥイパプイペ:ituypapuype((C3))" },
+	["Saru"]	= { "サン:sán, -í", "サンテケヘ:sántekehe", "タイペ:táype [悪]", "サピキㇼ:sápikir, -i《系統》((H))", "イロンヌプイペ:ironnupuype", "イトゥイパプイペ:ituypapuype((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -66,7 +66,7 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "ムニㇺペサニ:munimpesani", "ウエㇵサニ:uehsani", "ウェㇺペサニ:wempesani((C3))" },
+	["Maoka"]	= { "ムニㇺペサニ:munimpesani", "ウエㇸサニ:uehsani", "ウェㇺペサニ:wempesani((C3))" },
 	["Raichishka"]	= { "マㇵタミトゥタㇵ:mahtamitutah, -rikehe((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },

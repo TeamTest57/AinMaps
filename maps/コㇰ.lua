@@ -31,10 +31,10 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "サポココウ:sápo koków", "ココウネクㇻ:kokównekur", "ユポ:yúpo((H))" },
+	["Yakumo"]	= { "サポココウ:sápo koków", "ココウネクㇽ:kokównekur", "ユポ:yúpo((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "コㇰネクㇻ:kóknekur (N), kóxnekur (H)((H))" },
+	["Asahikawa"]	= { "コㇰネクㇽ:kóknekur (N), kóxnekur (H)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "コㇰ:kók((H))" },
 	["Soya"]	= { "コㇰニㇱパケ:kóknispake", "コㇰ:kók, -o(ho) (妹むこも)((H))" },

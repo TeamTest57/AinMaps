@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "チュㇵ:cuh((H))" },
+	["Raichishka"]	= { "チュㇷ:cuh((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "シㇻキヌチュㇷ゚プ:sirkinu=cuppu(月)((V))" },
+	["Shumshu"]	= { "シㇼキヌチュㇷ゚プ:sirkinu=cuppu(月)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

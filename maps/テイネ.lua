@@ -76,7 +76,7 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "トイレ:toyre((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "ペㇵネ:pehne((HC))" },
+	["Ochiho"]	= { "ペㇸネ:pehne((HC))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "トイレ:toyre((HC))" },
 	["Taraika"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "サㇱヒケネ:sashikene《濕》((M1892))", "リカンウワ:rikan=uwa([彼は？]びしょ濡れになった)", "リカンイチャクリ:rikan=icakuri(濡れている)", "リカンペ:rikan=pe(濡れた)((V))" },
+	["Shumshu"]	= { "サシケネ:sashikene《濕》((M1892))", "リカンウワ:rikan=uwa([彼は？]びしょ濡れになった)", "リカンイチャクリ:rikan=icakuri(濡れている)", "リカンペ:rikan=pe(濡れた)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

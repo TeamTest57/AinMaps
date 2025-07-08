@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チキラサㇺ:cikírasam, -a", "チキㇻポㇰ:cikírpok, -i", "ウレアサㇺ:'uré'asam, -a((H))" },
+	["Horobetsu"]	= { "チキラサㇺ:cikírasam, -a", "チキㇼポㇰ:cikírpok, -i", "ウレアサㇺ:'uré'asam, -a((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ウレコトㇻ:urékotor, -o", "ウレアサㇺ:'uré'asam, -a((H))" },
+	["Saru"]	= { "ウレコトㇿ:urékotor, -o", "ウレアサㇺ:'uré'asam, -a((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ウレコトㇻ:urekótor, -o", "ウレアサㇺ:'ure'ásam", "ウレポㇰ:'urepók, -i (指の下)((H))" },
+	["Yakumo"]	= { "ウレコトㇿ:urekótor, -o", "ウレアサㇺ:'ure'ásam", "ウレポㇰ:'urepók, -i (指の下)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "チキリウレアサマ:cikíri 'uré'asáma((H))" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "ウレアサㇺ:ureasam, -a(足の裏|[足の下])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "パラウレコトㇻ:paráwrekotor((H))" },
+	["Obihiro"]	= { "パラウレコトㇿ:paráwrekotor((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -78,9 +78,9 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "ケマアサㇺ:kema-asam(足裏、あしうら),kemera(足裏),ure-poh(足裏、あしうら)((CW))" },
-	["Shiraura"]	= { "ケマアサン:kemaasan(m-a)", "ケマオシㇱタ:kemaosista", "ウレポㇵ:urepoh(k-i)((C3))" },
+	["Shiraura"]	= { "ケマアサン:kemaasan(m-a)", "ケマオシㇱタ:kemaosista", "ウレポㇹ:urepoh(k-i)((C3))" },
 	["Taraika"]	= { "" },
-	["Tonnai"]	= { "ウレポㇵ:urepoh(k-i)((C3))" },
+	["Tonnai"]	= { "ウレポㇹ:urepoh(k-i)((C3))" },
 	["Yamambetsu"]	= { "" },
 
 	-- Kuril: Northern

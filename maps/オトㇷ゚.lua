@@ -70,7 +70,7 @@ export.syns = {
 	["Raichishka"]	= { "ルウシㇱ:ruusis, -cihi", "サパヌマ:sapanuma, -ha((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "サパヌマ:sapanuma((C3))" },
-	["Usoro"]	= { "サパトゥ:sapatu", "サパトゥㇵチ:sapatuhci((C3))" },
+	["Usoro"]	= { "サパトゥ:sapatu", "サパトゥㇷチ:sapatuhci((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "サパル:saparu(-he)((C3))" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "ル:ru(頭髪)((CW))" },
-	["Shiraura"]	= { "オトㇵ:otoh(p-i)((C3))" },
+	["Shiraura"]	= { "オトㇹ:otoh(p-i)((C3))" },
 	["Taraika"]	= { "サパヌマ:sapanuma", "サパカヌマ:sapakanuma((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

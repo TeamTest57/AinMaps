@@ -67,20 +67,20 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "オスケㇵ:osukeh, -pihi((H))" },
+	["Raichishka"]	= { "オスケㇸ:osukeh, -pihi((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "オスケㇵ:osukeh((C2))" },
+	["Tarantomari"]	= { "オスケㇸ:osukeh((C2))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
-	["Aihama"]	= { "オスケㇵ:osukeh((C2))" },
+	["Aihama"]	= { "オスケㇸ:osukeh((C2))" },
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "オスケㇵ:osukeh", "リクンカムイ:rikunkamuy((C2))" },
+	["Shiraura"]	= { "オスケㇸ:osukeh", "リクンカムイ:rikunkamuy((C2))" },
 	["Taraika"]	= { "オスケㇷ゚:osukep((C2))" },
-	["Tonnai"]	= { "オスケㇵ:osukeh((C2))" },
+	["Tonnai"]	= { "オスケㇸ:osukeh((C2))" },
 	["Yamambetsu"]	= { "" },
 
 	-- Kuril: Northern

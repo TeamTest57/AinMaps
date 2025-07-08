@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "オハイネ:'ohayne,'eyaytupare((HC))" },
-	["Raichishka"]	= { "エオハヨハイネㇵ:'e'ohayohayneh((HC))" },
+	["Raichishka"]	= { "エオハヨハイネㇸ:'e'ohayohayneh((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "オハイネ:'ohayne,'eyaytupare((HC))" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ㇰオㇻキパワ:k=orkipax=wa(怖いです)((V))" },
+	["Shumshu"]	= { "ㇰオㇿキパワ:k=orkipax=wa(怖いです)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

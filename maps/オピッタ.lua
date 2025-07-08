@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "アナイキクㇻ:anayki=kur(みんな)", "アナイキン:anayki=n(すべて)((V))" },
+	["Shumshu"]	= { "アナイキクㇽ:anayki=kur(みんな)", "アナイキン:anayki=n(すべて)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -66,8 +66,8 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "シネㇵ:sineh((HC))" },
-	["Raichishka"]	= { "シネㇵ:sineh((HC))" },
+	["Maoka"]	= { "シネㇸ:sineh((HC))" },
+	["Raichishka"]	= { "シネㇸ:sineh((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "シネㇷ゚:sinep((HC))" },
 	["Usoro"]	= { "" },
@@ -76,9 +76,9 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "シネㇷ゚:sinep((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "シネㇵ:sineh((HC))" },
+	["Ochiho"]	= { "シネㇸ:sineh((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "シネㇵ:sineh((HC))" },
+	["Shiraura"]	= { "シネㇸ:sineh((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ㇱヒネ:shiné (124)", "ㇱヒネㇷ゚:shinep (169)((H))", "シネㇷ゚:sine-p(1)((BS))", "セネプ:senepu(一)((M1892))" },
+	["Shumshu"]	= { "シネ:shiné (124)", "シネㇷ゚:shinep (169)((H))", "セネプ:senepu(一)((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

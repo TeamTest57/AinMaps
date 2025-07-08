@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "オンネクㇻ:ónnekur, 'ónne'utar", "パポロクㇻ:páporokur, páporo'utar((H))" },
+	["Yakumo"]	= { "オンネクㇽ:ónnekur, 'ónne'utar", "パポロクㇽ:páporokur, páporo'utar((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "オンネアイヌウタㇻ:ónne 'áynu 'utár((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オンネㇷ゚:ónnep", "オンネウタㇻ:'ónne'utár (老人たち)((H))" },
-	["Soya"]	= { "オンネクㇻ:ónne kur((H))" },
+	["Soya"]	= { "オンネクㇽ:ónne kur((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

@@ -49,7 +49,7 @@ export.syns = {
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
-	["Harutori"]	= { "サロルンチㇻ:saroruncir((C2))" },
+	["Harutori"]	= { "サロルンチㇼ:saroruncir((C2))" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "サロルンチカㇷ゚:saroruncikap(丹頂鶴)((K2021))" },
 	["Kussharo"]	= { "サロルン:sarorun", "サロルンカムイ:sarorunkamuy((C2))" },
@@ -60,14 +60,14 @@ export.syns = {
 	["Obihiro"]	= { "サロルン:sarórun((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
-	["Shiranuka"]	= { "サロルンチㇻ:saroruncir((C2))" },
+	["Shiranuka"]	= { "サロルンチㇼ:saroruncir((C2))" },
 	["Tokachi"]	= { "" },
 	["Tooro"]	= { "" },
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ヌㇵカ:nuhka((H))" },
+	["Raichishka"]	= { "ヌㇷカ:nuhka((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -80,7 +80,7 @@ export.syns = {
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
-	["Tonnai"]	= { "ヌㇵカ:nuhka", "サルルン:sarurun((C2))" },
+	["Tonnai"]	= { "ヌㇷカ:nuhka", "サルルン:sarurun((C2))" },
 	["Yamambetsu"]	= { "" },
 
 	-- Kuril: Northern

@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "ソヤチセ:soyacise, ikankikircise, icohcakikiscise", "ソヤ:soya((C2))" },
-	["Horobetsu"]	= { "ソヤイ:soyáy《蜜蜂》((H))", "チカㇷ゚ポキキㇻ:cikappokikir" },
+	["Horobetsu"]	= { "ソヤイ:soyáy《蜜蜂》((H))", "チカㇷ゚ポキキㇼ:cikappokikir" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ソヤ:soyá", "カソヤ:kásoya 《\"スガリバチ\"》", "トイソヤ:tóysoya 《地蜂》", "ヘペㇻソヤ:hepér soya 《熊蜂》((H))" },
+	["Yakumo"]	= { "ソヤ:soyá", "カソヤ:kásoya 《\"スガリバチ\"》", "トイソヤ:tóysoya 《地蜂》", "ヘペㇾソヤ:hepér soya 《熊蜂》((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ソヤ:soyá", "カソヤ:kásoya《蜜蜂》", "シソヤ:sísoya《熊蜂》((H))" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "ソワ:sowa((C2))" },
-	["Bihoro"]	= { "イカンキキㇻ:ikankikir", "モユㇰスワ:moyuksuwa《蜜蜂》((H))", "ソヤチセ:soyacise, ikankikircise, icohcakikiscise", "ソヤ:soya((C2))" },
+	["Bihoro"]	= { "イカンキキㇼ:ikankikir", "モユㇰスワ:moyuksuwa《蜜蜂》((H))", "ソヤチセ:soyacise, ikankikircise, icohcakikiscise", "ソヤ:soya((C2))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -52,7 +52,7 @@ export.syns = {
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "" },
-	["Kussharo"]	= { "イカンキキㇻ:ikankikir((C2))" },
+	["Kussharo"]	= { "イカンキキㇼ:ikankikir((C2))" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
@@ -66,21 +66,21 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "イチョㇵチャキキリ:icohcakikiri((C2))" },
+	["Maoka"]	= { "イチョㇹチャキキリ:icohcakikiri((C2))" },
 	["Raichishka"]	= { "トマカアチ:tomakaaci((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "イチョㇵチャキキリ:icohcakikiri((C2))" },
+	["Tarantomari"]	= { "イチョㇹチャキキリ:icohcakikiri((C2))" },
 	["Usoro"]	= { "トモンカチ:tomonkaci((C2))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "イチョㇵチャキキリ:icohcakikiri", "ソヤチセ:soyacise, ikankikircise, icohcakikiscise((C2))" },
+	["Ochiho"]	= { "イチョㇹチャキキリ:icohcakikiri", "ソヤチセ:soyacise, ikankikircise, icohcakikiscise((C2))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "" },
-	["Taraika"]	= { "イチョㇵチャキキリ:icohcakikiri((C2))" },
-	["Tonnai"]	= { "イチョㇵチャキキリ:icohcakikiri((C2))" },
+	["Taraika"]	= { "イチョㇹチャキキリ:icohcakikiri((C2))" },
+	["Tonnai"]	= { "イチョㇹチャキキリ:icohcakikiri((C2))" },
 	["Yamambetsu"]	= { "" },
 
 	-- Kuril: Northern

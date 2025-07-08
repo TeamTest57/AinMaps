@@ -34,17 +34,17 @@ export.syns = {
 	["Yakumo"]	= { "ケㇱパ:késpa (kés̱pa) ('an ko)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ケㇱパアンコㇻ:késpa 'an kor((H))" },
+	["Asahikawa"]	= { "ケㇱパアンコㇿ:késpa 'an kor((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ケㇱパアンコㇻ:késpa 'an kor", "パピㇱノ:pá pisno((H))" },
-	["Soya"]	= { "ケㇱパアンコㇻ:késpa 'ánkor((H))" },
+	["Nayoro"]	= { "ケㇱパアンコㇿ:késpa 'an kor", "パピㇱノ:pá pisno((H))" },
+	["Soya"]	= { "ケㇱパアンコㇿ:késpa 'ánkor((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ケㇱパアンコㇻ:kespa 'an kor((H))" },
+	["Bihoro"]	= { "ケㇱパアンコㇿ:kespa 'an kor((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

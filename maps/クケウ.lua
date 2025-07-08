@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "クケウェ:kúkewe((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "クケウ:kúkew, -e((H))", "タクㇷ゚:takup(-i)((C3))" },
-	["Soya"]	= { "タㇷ゚ケㇻケウ:tapkérkew, -ehe((H))" },
+	["Soya"]	= { "タㇷ゚ケㇾケウ:tapkérkew, -ehe((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -52,7 +52,7 @@ export.syns = {
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "タㇷ゚:tap(腕、肩),tapsutu(肩(かた))((K2021))" },
-	["Kussharo"]	= { "タプトゥㇻ:taputur(-u)((C3))" },
+	["Kussharo"]	= { "タプトゥㇽ:taputur(-u)((C3))" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "タㇷ゚スㇱ:tapsus, -u?(肩|[取った物を担ぐ])((F2016))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "タクㇵ:takuh, -pihi((H))" },
+	["Raichishka"]	= { "タクㇷ:takuh, -pihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

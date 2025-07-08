@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "セクㇵケ:sekuhke((HC))" },
-	["Raichishka"]	= { "セクㇵケ:sekuhke((HC))" },
+	["Maoka"]	= { "セクㇷケ:sekuhke((HC))" },
+	["Raichishka"]	= { "セクㇷケ:sekuhke((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "セクㇰケ:sekukke((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "セクㇵケ:sekuhke((HC))" },
+	["Nairo"]	= { "セクㇷケ:sekuhke((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "セクㇵケ:sekuhke(おなかなど)((HC))" },
+	["Ochiho"]	= { "セクㇷケ:sekuhke(おなかなど)((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "セクㇵケ:sekuhke((HC))" },
+	["Shiraura"]	= { "セクㇷケ:sekuhke((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

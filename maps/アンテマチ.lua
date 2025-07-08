@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "アンテホク:antehoku [雅](男)", "アンテマチ:'antemaci [雅](女)((H))", "マッコシクㇷ゚ペ:matkosikuppe", "セㇺピㇻサマエトゥㇻサㇰカ:sempirsama etursakka((C3))" },
+	["Horobetsu"]	= { "アンテホク:antehoku [雅](男)", "アンテマチ:'antemaci [雅](女)((H))", "マッコシクㇷ゚ペ:matkosikuppe", "セㇺピㇼサマエトゥㇽサㇰカ:sempirsama etursakka((C3))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "アウコレㇱクㇻ:a'ukóreskur", "アウコレスタㇻ:'a'ukóres 'utar((H))" },
+	["Yakumo"]	= { "アウコレㇱクㇽ:a'ukóreskur", "アウコレスタㇻ:'a'ukóres 'utar((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "アヌコレㇱカウタㇻ:anúkoreska 'utár((H))" },

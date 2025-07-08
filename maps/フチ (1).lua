@@ -43,7 +43,7 @@ export.syns = {
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
-	["Ashoro"]	= { "コㇻフチ:korhuci((C3))" },
+	["Ashoro"]	= { "コㇿフチ:korhuci((C3))" },
 	["Bihoro"]	= { "フチ:húci((H))", "コㇱスチ:kossuci((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
@@ -75,8 +75,8 @@ export.syns = {
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "" },
-	["Niitoi"]	= { "スチ:suci", "メㇺペ:mempe", "スㇵチ:suhci((C3))" },
-	["Ochiho"]	= { "アㇵチ:ahci", "スㇵチ:suhci((C3))" },
+	["Niitoi"]	= { "スチ:suci", "メㇺペ:mempe", "スㇷチ:suhci((C3))" },
+	["Ochiho"]	= { "アㇵチ:ahci", "スㇷチ:suhci((C3))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "アㇵチ:ahci", "スチ:suci((C3))" },
 	["Taraika"]	= { "スチ:suci", "アチ:aci", "アッチ:atci((C3))" },

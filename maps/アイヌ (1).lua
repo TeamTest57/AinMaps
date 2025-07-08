@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "アイヌ:'áynu((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "アイヌ:'áynu((HC))" },
-	["Saru"]	= { "アイヌ:áynu", "クㇻ:kur 《…ひと》", "ウタㇻ:'utár 《人々》((H))", "アイヌピト:aynupito((C3))" },
+	["Saru"]	= { "アイヌ:áynu", "クㇽ:kur 《…ひと》", "ウタㇻ:'utár 《人々》((H))", "アイヌピト:aynupito((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,9 +34,9 @@ export.syns = {
 	["Yakumo"]	= { "アイヌ:'áynu((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "アイヌ:'áynu((HC))", "クㇻ:-kur", "アイヌウタㇻ:'áynu 'utár 《はらから》((H))" },
+	["Asahikawa"]	= { "アイヌ:'áynu((HC))", "クㇽ:-kur", "アイヌウタㇻ:'áynu 'utár 《はらから》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "アイヌ:'áynu((HC))", "クㇻ:-kur", "ウタㇻ:'utár 《人々》((H))" },
+	["Nayoro"]	= { "アイヌ:'áynu((HC))", "クㇽ:-kur", "ウタㇻ:'utár 《人々》((H))" },
 	["Soya"]	= { "アイヌ:'áynu((HC))", "トノ:tonó《上の人》((H))" },
 	["Teshio"]	= { "" },
 

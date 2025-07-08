@@ -67,10 +67,10 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ヘロㇵキ:herohki", "チライ:ciray 《方言：イト》((H))" },
+	["Raichishka"]	= { "ヘロㇹキ:herohki", "チライ:ciray 《方言：イト》((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ヘロㇵキヘロㇵキ:5)herohki　herohki", "ヘロキ:heroki((C2))" },
-	["Usoro"]	= { "ヘロㇵ:heroh((C2))" },
+	["Tarantomari"]	= { "ヘロㇹキヘロㇹキ:5)herohki　herohki", "ヘロキ:heroki((C2))" },
+	["Usoro"]	= { "ヘロㇹ:heroh((C2))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
@@ -78,9 +78,9 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "ヘロㇵキヘロㇵキ:5)herohki　herohki((C2))" },
+	["Shiraura"]	= { "ヘロㇹキヘロㇹキ:5)herohki　herohki((C2))" },
 	["Taraika"]	= { "ヘロㇰキ:herokki((C2))" },
-	["Tonnai"]	= { "ペレㇵ:pereh((C2))" },
+	["Tonnai"]	= { "ペレㇸ:pereh((C2))" },
 	["Yamambetsu"]	= { "" },
 
 	-- Kuril: Northern

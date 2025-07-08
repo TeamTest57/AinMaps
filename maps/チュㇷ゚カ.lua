@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チュㇷ゚カ:cúpka", "モシㇻカ:mosírka((H))" },
+	["Horobetsu"]	= { "チュㇷ゚カ:cúpka", "モシㇼカ:mosírka((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "シルㇻ:sirur(東)((BS))", "ㇱヒルルクスラマト:shirurukusuramato(東)((M1892))" },
+	["Shumshu"]	= { "シルㇽ:sirur(東)((BS))", "シルルクスラマト:shirurukusuramato(東)((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

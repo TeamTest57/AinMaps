@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "チホマㇷ゚:cihomap", "チヨマㇷ゚:ciyomap((C2))" },
-	["Horobetsu"]	= { "キナストゥンクㇻ:kinásutunkur((HC))", "タンネカムイ:tannekamuy((C2))" },
+	["Horobetsu"]	= { "キナストゥンクㇽ:kinásutunkur((HC))", "タンネカムイ:tannekamuy((C2))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "トㇰコニウ:tókkoniw((HC))", "ムノルンペ:múnorunpe", "キナストゥンペ:kinasútunpe", "オヤウ:ʼoyáw(-kamuy) [古](トカゲの大きいので羽があると言う. 祈の中に出る)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "キナストゥンクㇻ:kinásut'unkur《青大将》", "トㇰコニ:tókkoni《マムシ》((H))" },
+	["Asahikawa"]	= { "キナストゥンクㇽ:kinásut'unkur《青大将》", "トㇰコニ:tókkoni《マムシ》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "キナストゥンカムイ:kinásutun kamúy((HC))", "トㇰコニ:tókkoni《マムシ》", "ムントゥムンペ:múntumunpe《''》((H))" },
 	["Soya"]	= { "フンコㇰコ:húnkokko((HC))" },

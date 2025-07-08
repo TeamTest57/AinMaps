@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ホク:hokú((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ホク:hokú((HC))" },
-	["Saru"]	= { "ホク:hokú, (-hu)", "コㇻクㇻ:kór kur((H))" },
+	["Saru"]	= { "ホク:hokú, (-hu)", "コㇿクㇽ:kór kur((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "オク:'okú((HC))", "ホク:hóku", "クコンニㇱパ:kukónnispa (私の)((H))" },
 	["Chikabumi"]	= { "エアㇰニㇱパ:eaknispa", "ホクニㇱパ:hokunispa", "コンニㇱパ:konnispa", "オク:oku((C3))" },
-	["Nayoro"]	= { "オク:'okú((HC))", "クコㇻクㇻ:kukórkur 《うちの亭主》((H))" },
+	["Nayoro"]	= { "オク:'okú((HC))", "クコㇿクㇽ:kukórkur 《うちの亭主》((H))" },
 	["Soya"]	= { "ホク:hokú((HC))" },
 	["Teshio"]	= { "" },
 
@@ -49,7 +49,7 @@ export.syns = {
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
-	["Harutori"]	= { "ヘコテクㇻ:hekotekur((C3))" },
+	["Harutori"]	= { "ヘコテクㇽ:hekotekur((C3))" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "オク:'okú((HC))", "ホク:hoku(夫),oku(夫、亭主)((K2021))" },
 	["Kussharo"]	= { "コライヌ:koraynu", "オク:oku((C3))" },

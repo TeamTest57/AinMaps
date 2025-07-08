@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "エトゥ:'etú((HC))", "エンコㇻ:'énkor(《鼻腔》の意味もある)((H))" },
+	["Horobetsu"]	= { "エトゥ:'etú((HC))", "エンコㇿ:'énkor(《鼻腔》の意味もある)((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "エトゥ:'etú((HC))", "エンコㇻ:'énkor('énkorsak《鼻のない》等で)((H))" },
+	["Yakumo"]	= { "エトゥ:'etú((HC))", "エンコㇿ:'énkor('énkorsak《鼻のない》等で)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "エトゥ:'etú((HC))", "エンコㇻ:('etú) 'enkor《鼻腔》", "エトゥスイ:'etú suy《鼻孔》((H))" },
+	["Asahikawa"]	= { "エトゥ:'etú((HC))", "エンコㇿ:('etú) 'enkor《鼻腔》", "エトゥスイ:'etú suy《鼻孔》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "エトゥ:'etú((HC))", "エンコㇻ:'enkor《鼻腔》", "エトゥプイ:'etúpuy, -e 《鼻孔》((H))" },
+	["Nayoro"]	= { "エトゥ:'etú((HC))", "エンコㇿ:'enkor《鼻腔》", "エトゥプイ:'etúpuy, -e 《鼻孔》((H))" },
 	["Soya"]	= { "エトゥ:'etú((HC))" },
 	["Teshio"]	= { "" },
 

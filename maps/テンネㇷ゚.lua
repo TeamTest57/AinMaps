@@ -35,7 +35,7 @@ export.syns = {
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ポンシㇱペポイシㇱペ:pón síspe〜póysispe", "ヤㇻペ:yárpe (3, 4歳まで)((H))" },
-	["Chikabumi"]	= { "ヌマットムㇱペ:numattomuspe", "ポㇺポㇱタ:pomposta", "ポノペㇻケ:ponoperke", "ポイシ:poysi", "ポイシオンタㇰ:poysiontak(-u)", "ポイヤㇻペ:poyyarpe", "シオンタㇰ:siontak(-i)", "ヤㇻペ:yarpe((C3))" },
+	["Chikabumi"]	= { "ヌマットムㇱペ:numattomuspe", "ポㇺポㇱタ:pomposta", "ポノペㇾケ:ponoperke", "ポイシ:poysi", "ポイシオンタㇰ:poysiontak(-u)", "ポイヤㇻペ:poyyarpe", "シオンタㇰ:siontak(-i)", "ヤㇻペ:yarpe((C3))" },
 	["Nayoro"]	= { "ヤㇻペ:yárpe", "テイネㇷ゚:téynep", "シオン:si'ón", "オスㇱ:'osús", "ポンペ:pónpeは《小さなもの》((H))", "ポイシオン:poysion" },
 	["Soya"]	= { "テンネㇷ゚:ténnep((H))" },
 	["Teshio"]	= { "ポポ:popo", "ポイシオン:poysion", "シオン:sion", "テンネㇷ゚:tennep((C3))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "アㇵカポ:ahkapo", "オハㇺペ:ohampe", "チシナㇵ:cisinah(p-i)((C3))" },
-	["Raichishka"]	= { "ウフアシンペ:uhu'asinpe", "ポンテンネㇵポ:pontennehpo [老]", "ポンケンネㇵポ:ponkennehpo [老]((H))" },
+	["Raichishka"]	= { "ウフアシンペ:uhu'asinpe", "ポンテンネㇸポ:pontennehpo [老]", "ポンケンネㇸポ:ponkennehpo [老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "アㇵカポ:ahkapo", "オハㇺペ:ohampe", "ポノハㇺペ:ponohampe((C3))" },
 	["Usoro"]	= { "アㇵカポ:ahkapo((C3))" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "オハㇺペ:ohampe", "チシナㇵ:cisinah(p-i)((C3))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "ケンネㇵ:kenneh(p-i)", "ポンケネ:ponkene", "ポンケンネㇵ:ponkenneh", "ライサㇵペ:raysahpe((C3))" },
+	["Shiraura"]	= { "ケンネㇸ:kenneh(p-i)", "ポンケネ:ponkene", "ポンケンネㇸ:ponkenneh", "ライサㇵペ:raysahpe((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

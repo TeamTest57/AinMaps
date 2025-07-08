@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "シッテノ:sitteno((HC))" },
-	["Raichishka"]	= { "エシㇱテㇵ:esisteh((HC))" },
+	["Raichishka"]	= { "エシㇱテㇸ:esisteh((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "シッテノ:sitteno((HC))" },
 	["Usoro"]	= { "" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "シㇱテノ:sisteno((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "エシㇱテㇵ:esisteh((HC))" },
+	["Shiraura"]	= { "エシㇱテㇸ:esisteh((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

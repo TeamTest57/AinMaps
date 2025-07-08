@@ -7,7 +7,7 @@ export.syns = {
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
 	["Biratori"]	= { "" },
-	["Chitose"]	= { "ウㇷ゚ソㇻ:upsor(-o)((C3))" },
+	["Chitose"]	= { "ウㇷ゚ソㇿ:upsor(-o)((C3))" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ㇺㇺ:(kór) 'ḿ'm", "ポㇰ:他方言の pók, -í は非常に悪い言葉だと言う((H))", "ウㇺマサマㇺペ:ummasamampe", "ウㇷ゚ソㇻ:upsor(-o)((C3))" },
+	["Saru"]	= { "ㇺㇺ:(kór) 'ḿ'm", "ポㇰ:他方言の pók, -í は非常に悪い言葉だと言う((H))", "ウㇺマサマㇺペ:ummasamampe", "ウㇷ゚ソㇿ:upsor(-o)((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ポㇰ:pók, -í", "コㇻペ:kórpe[俗]((H))" },
+	["Yakumo"]	= { "ポㇰ:pók, -í", "コㇿペ:kórpe[俗]((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ポキヒ:pokíhi((H))" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "カㇰカ:kakka((H))", "チチ:cici", "チㇷ゚:cip(-i)", "コㇻペオㇱケ:korpeoske", "オンコ:onko", "パナケ:panake((C3))" },
+	["Bihoro"]	= { "カㇰカ:kakka((H))", "チチ:cici", "チㇷ゚:cip(-i)", "コㇿペオㇱケ:korpeoske", "オンコ:onko", "パナケ:panake((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -66,21 +66,21 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "ポㇵ:poh(ki)((C3))" },
+	["Maoka"]	= { "ポㇹ:poh(ki)((C3))" },
 	["Raichishka"]	= { "コロペ:korope, -he((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "チオンナイケ:cionnayke((C3))" },
 
 	-- Sakhalin: East Coast
-	["Aihama"]	= { "ポㇵ:poh(ki)((C3))" },
+	["Aihama"]	= { "ポㇹ:poh(ki)((C3))" },
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ポㇵ:poh(女陰部)((CW))" },
-	["Shiraura"]	= { "ポㇵ:poh(ki)((C3))" },
+	["Shirahama"]	= { "ポㇹ:poh(女陰部)((CW))" },
+	["Shiraura"]	= { "ポㇹ:poh(ki)((C3))" },
 	["Taraika"]	= { "" },
-	["Tonnai"]	= { "ポㇵ:poh(ki)((C3))" },
+	["Tonnai"]	= { "ポㇹ:poh(ki)((C3))" },
 	["Yamambetsu"]	= { "" },
 
 	-- Kuril: Northern

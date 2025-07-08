@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ウッ:út, -cíhi", "ポヌッ:pón'ut(一番下の遊離したもの)((H))" },
 	["Chikabumi"]	= { "ウッ:ut(c-i)((C3))" },
-	["Nayoro"]	= { "ウッポネ:útpone", "テフㇻ:tehúr(魚の)((H))" },
+	["Nayoro"]	= { "ウッポネ:útpone", "テフㇽ:tehúr(魚の)((H))" },
 	["Soya"]	= { "ウッポネ:útpone, -he((H))" },
 	["Teshio"]	= { "" },
 
@@ -66,8 +66,8 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "ウㇵ:uh(c-i)", "ウㇵポニ:uhponi", "ウトゥㇱポニ:utusponi((C3))" },
-	["Raichishka"]	= { "ウㇵ:uh, -cihi(一本)", "ウㇵニソロ:'uhnisoro, -ho(全体)((H))" },
+	["Maoka"]	= { "ウㇷ:uh(c-i)", "ウㇷポニ:uhponi", "ウトゥㇱポニ:utusponi((C3))" },
+	["Raichishka"]	= { "ウㇷ:uh, -cihi(一本)", "ウㇷニソロ:'uhnisoro, -ho(全体)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ウトゥㇱポニ:utusponi((C3))" },
 	["Usoro"]	= { "" },
@@ -78,8 +78,8 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "テフル:tehuru(肋骨、あばら),tehuru-poni(肋骨、あばらぼね)((CW))" },
-	["Shiraura"]	= { "ウㇵ:uh(c-i)", "ウㇵポニ:uhponi", "テフル:tehuru", "テフルポニ:tehuruponi((C3))" },
-	["Taraika"]	= { "テウㇻ:teur(-i)", "テウㇻポネ:teurpone((C3))" },
+	["Shiraura"]	= { "ウㇷ:uh(c-i)", "ウㇷポニ:uhponi", "テフル:tehuru", "テフルポニ:tehuruponi((C3))" },
+	["Taraika"]	= { "テウㇽ:teur(-i)", "テウㇽポネ:teurpone((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
 

@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "パリラ:párira" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "パㇻ:('úsey-)par", "パリㇻ:párir(少し出ている)((H))" },
+	["Nayoro"]	= { "パㇻ:('úsey-)par", "パリㇼ:párir(少し出ている)((H))" },
 	["Soya"]	= { "パ:pá((H))" },
 	["Teshio"]	= { "" },
 
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "パリㇻ:parir((H))" },
+	["Bihoro"]	= { "パリㇼ:parir((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "パリリ:pariri《気|[息が立ちのぼる]》((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "パリㇻ:párir((H))" },
+	["Obihiro"]	= { "パリㇼ:párir((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "セエセㇵマウ:seesehmaw((H))" },
+	["Raichishka"]	= { "セエセㇸマウ:seesehmaw((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "サㇱヒケネ:sashikene《濕》", "リカㇺマウ:rikammau《濕気》((M1892))" },
+	["Shumshu"]	= { "サシケネ:sashikene《濕》", "リカㇺマウ:rikammau《濕気》((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

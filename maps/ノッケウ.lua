@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ノッキㇻ:nótkir, -i((H))" },
+	["Horobetsu"]	= { "ノッキㇼ:nótkir, -i((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ノㇵキリ:nohkiri, -hi", "ノㇵケウ:nohkew, -ehe〜notapuru, -hu(魚の)((H))" },
+	["Raichishka"]	= { "ノㇹキリ:nohkiri, -hi", "ノㇹケウ:nohkew, -ehe〜notapuru, -hu(魚の)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

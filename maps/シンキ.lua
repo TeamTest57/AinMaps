@@ -70,7 +70,7 @@ export.syns = {
 	["Raichishka"]	= { "シンカ:sinka[自]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "エタㇱカスㇵ:etaskasuh", "ノイテㇵ:noyteh(k-an)((C3))" },
+	["Usoro"]	= { "エタㇱカスㇷ:etaskasuh", "ノイテㇸ:noyteh(k-an)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

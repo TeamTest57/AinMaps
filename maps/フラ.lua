@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "フラ:húra,(-ha)", "フラピㇻカ:húra pírka《匂が良い》", "フラウェン:húra wén《匂が悪い》((H))" },
+	["Saru"]	= { "フラ:húra,(-ha)", "フラピㇼカ:húra pírka《匂が良い》", "フラウェン:húra wén《匂が悪い》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,10 +31,10 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "フラ:húra", "フラピㇻカ:húra pírka《匂が良い》", "フラウェン:húra wén《匂が悪い》((H))" },
+	["Yakumo"]	= { "フラ:húra", "フラピㇼカ:húra pírka《匂が良い》", "フラウェン:húra wén《匂が悪い》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "フラ:húra", "ピㇻカフラ:pírka húra《良い匂》", "ウェンフラ:wén húra《悪い匂》", "フラピㇻカ:húra pírka《匂が良い》", "フラウェン:húra wén《匂が悪い》((H))" },
+	["Asahikawa"]	= { "フラ:húra", "ピㇼカフラ:pírka húra《良い匂》", "ウェンフラ:wén húra《悪い匂》", "フラピㇼカ:húra pírka《匂が良い》", "フラウェン:húra wén《匂が悪い》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "フラ:húra((H))" },
 	["Soya"]	= { "フラ:hurá, -ha", "フラハユㇷ゚ケ:huráha yúpke《匂がする》((H))" },

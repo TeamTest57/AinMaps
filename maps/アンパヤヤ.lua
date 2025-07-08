@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "アンパヤヤ:ánpayaya", "ホテㇺテㇺ:hotémtem 《タラバガニ》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "テクンペコㇻペ:tekúnpekorpe 《“河のカニ”》((H))" },
+	["Asahikawa"]	= { "テクンペコㇿペ:tekúnpekorpe 《“河のカニ”》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "アンパヤヤ:ánpayaya", "アムㇱペ:'amúspe((H))", "タカパイ:takapay((C2))" },
 	["Soya"]	= { "タカㇰカ:takákka", "シラ:sirá 《タラカニ》((H))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "タカㇵカ:takahka", "レㇵナシララ:rehnasirara 《タラバガニ》((H))" },
+	["Raichishka"]	= { "タカㇵカ:takahka", "レㇸナシララ:rehnasirara 《タラバガニ》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

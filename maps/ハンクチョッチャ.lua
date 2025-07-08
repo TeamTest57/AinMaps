@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "ハンクチョッチャㇷ゚:hankucotcap((C2))" },
-	["Horobetsu"]	= { "ハンクチョッチャ:hánkucotca((H))", "ハンクチョッチャㇷ゚:hankucotcap", "イユタキキㇻ:iyutakikir((C2))" },
+	["Horobetsu"]	= { "ハンクチョッチャ:hánkucotca((H))", "ハンクチョッチャㇷ゚:hankucotcap", "イユタキキㇼ:iyutakikir((C2))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -67,10 +67,10 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ハンカプイチョㇵチャ:hankapuycohca((H))" },
+	["Raichishka"]	= { "ハンカプイチョㇹチャ:hankapuycohca((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "ハンカプチョㇵチャ:hankapu cohca", "ハンコチョㇵチャ:hanko cohca((C2))" },
+	["Usoro"]	= { "ハンカプチョㇹチャ:hankapu cohca", "ハンコチョㇹチャ:hanko cohca((C2))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

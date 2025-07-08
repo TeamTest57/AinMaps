@@ -34,10 +34,10 @@ export.syns = {
 	["Yakumo"]	= { "ヤイコシラㇺスイェ:yáykosiramsuye((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ヤイコペケㇻ:yáykopeker,yáynu((HC))" },
+	["Asahikawa"]	= { "ヤイコペケㇾ:yáykopeker,yáynu((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "エヤイコウウェペケㇻ:'eyáyko'uwepeker((HC))" },
-	["Soya"]	= { "ヤイコペペケㇻ:yáykopepeker((HC))" },
+	["Nayoro"]	= { "エヤイコウウェペケㇾ:'eyáyko'uwepeker((HC))" },
+	["Soya"]	= { "ヤイコペペケㇾ:yáykopepeker((HC))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -55,9 +55,9 @@ export.syns = {
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "ヌプㇻスルタㇻ:nupursurutar《僧|[考えて当たる者]》((F2016))" },
+	["Nemuro"]	= { "ヌプㇽスルタㇻ:nupursurutar《僧|[考えて当たる者]》((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ヤイコペペケㇻ:yáykopepeker,yaykosanniyo((HC))" },
+	["Obihiro"]	= { "ヤイコペペケㇾ:yáykopepeker,yaykosanniyo((HC))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ヤイククピキㇻ:yay=ku=kupikir(考える )", "エラミカㇻパリ:e=rami=kar=pari(考える )((V))" },
+	["Shumshu"]	= { "ヤイククピキㇼ:yay=ku=kupikir(考える )", "エラミカㇻパリ:e=rami=kar=pari(考える )((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

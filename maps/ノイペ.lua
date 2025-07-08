@@ -66,11 +66,11 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "ケオロㇵ:keoroh(p-i)((C3))" },
-	["Raichishka"]	= { "ケヨロㇵ:keyoroh, -pihi((H))" },
+	["Maoka"]	= { "ケオロㇹ:keoroh(p-i)((C3))" },
+	["Raichishka"]	= { "ケヨロㇹ:keyoroh, -pihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "ケオロㇵ:keoroh(p-i)((C3))" },
+	["Usoro"]	= { "ケオロㇹ:keoroh(p-i)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

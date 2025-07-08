@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "ハチコポㇺペㇵ:hacikopompeh(c-i)((C3))" },
-	["Raichishka"]	= { "ハㇵコモンペㇵ:hahkomonpeh, -cihi((H))" },
+	["Maoka"]	= { "ハチコポㇺペㇸ:hacikopompeh(c-i)((C3))" },
+	["Raichishka"]	= { "ハㇵコモンペㇸ:hahkomonpeh, -cihi((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ハチコポㇺペㇵ:hacikopompeh(c-i)((C3))" },
-	["Usoro"]	= { "ハチコモㇺペㇵ:hacikomompeh(c-i)((C3))" },
+	["Tarantomari"]	= { "ハチコポㇺペㇸ:hacikopompeh(c-i)((C3))" },
+	["Usoro"]	= { "ハチコモㇺペㇸ:hacikomompeh(c-i)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ハチコモㇺペㇵ:haciko-mompeh(小指),háhka-mompeh(小指)((CW))" },
-	["Shiraura"]	= { "ハチコモㇺペㇵ:hacikomompeh(c-i)", "ハㇵカモㇺペㇵ:hahkamompeh(c-i)", "ポンモㇺペㇵ:ponmompeh(c-i)((C3))" },
+	["Shirahama"]	= { "ハチコモㇺペㇸ:haciko-mompeh(小指),háhka-mompeh(小指)((CW))" },
+	["Shiraura"]	= { "ハチコモㇺペㇸ:hacikomompeh(c-i)", "ハㇵカモㇺペㇸ:hahkamompeh(c-i)", "ポンモㇺペㇸ:ponmompeh(c-i)((C3))" },
 	["Taraika"]	= { "ハㇰカモㇺペッ:hakkamompet(c-i)((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "オノナㇱヒケㇷ゚:ononashi kep (139)((H))", "オノノㇱケペッ:onono==[a]ske=pet(小指)((V))" },
+	["Shumshu"]	= { "オノナシケㇷ゚:ononashi kep (139)((H))", "オノノㇱケペッ:onono==[a]ske=pet(小指)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

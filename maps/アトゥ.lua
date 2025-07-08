@@ -22,7 +22,7 @@ export.syns = {
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "アトゥ:'atú((HC))" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "アクㇻ:'akur((HC))" },
+	["Samani"]	= { "アクㇽ:'akur((HC))" },
 	["Saru"]	= { "アトゥ:atú[自]", "エアトゥ:'e'átu[他]", "エヘッコサンパ:'ehétkosanpa(急に)((H))", "オハヨッケ:ohayotke(-an)((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "アトゥ:'atú((HC))" },
-	["Raichishka"]	= { "アトゥ:'atú((HC))", "アトゥㇵ:'atuh,-pihi《へど》((H))" },
+	["Raichishka"]	= { "アトゥ:'atú((HC))", "アトゥㇷ:'atuh,-pihi《へど》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "アトゥ:'atú((HC))" },
 	["Usoro"]	= { "" },

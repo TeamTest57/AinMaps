@@ -67,10 +67,10 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "アシㇱペ:asispe", "ウェトゥ:wetu((C3))" },
-	["Raichishka"]	= { "アシㇱペ:asispe(細かい)", "フㇵペ:huhpe(大きな)((H))" },
+	["Raichishka"]	= { "アシㇱペ:asispe(細かい)", "フㇷペ:huhpe(大きな)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "アシㇱペ:asispe", "エハタスㇺペ:ehatasumpe", "フㇵペ:huhpe", "エチㇱネタマタスㇺペ:ecisnetamatasumpe", "エルㇺタスㇺペ:erumtasumpe", "エサマンタスㇺペ:esamantasumpe", "ヘウンナイフㇵペ:heunnayhuhpe", "イムキナタスㇺペ:imukinatasumpe", "ケピテンキフㇵペ:kepitenkihuhpe", "モㇺペヘトコタスㇺペ:mompehetokotasumpe", "スマリタスㇺペ:sumaritasumpe", "トモンカチチセフㇵペ:tomonkacicisehuhpe", "ウクルペフㇵペ:ukurupehuhpe", "ウクルペタスㇺペ:ukurupetasumpe((C3))" },
+	["Usoro"]	= { "アシㇱペ:asispe", "エハタスㇺペ:ehatasumpe", "フㇷペ:huhpe", "エチㇱネタマタスㇺペ:ecisnetamatasumpe", "エルㇺタスㇺペ:erumtasumpe", "エサマンタスㇺペ:esamantasumpe", "ヘウンナイフㇷペ:heunnayhuhpe", "イムキナタスㇺペ:imukinatasumpe", "ケピテンキフㇷペ:kepitenkihuhpe", "モㇺペヘトコタスㇺペ:mompehetokotasumpe", "スマリタスㇺペ:sumaritasumpe", "トモンカチチセフㇷペ:tomonkacicisehuhpe", "ウクルペフㇷペ:ukurupehuhpe", "ウクルペタスㇺペ:ukurupetasumpe((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "アシㇱペ:asispe(ねぶと、癤),húhpe(腫れ物)((CW))" },
-	["Shiraura"]	= { "アシㇱペ:asispe", "エハタスㇺペ:ehatasumpe", "フㇵペ:huhpe", "イチョㇵチャキキリチセアシㇱペ:icohcakikiriciseasispe", "ヌマスㇵ:numasuh", "タカㇵケフㇵペ:takahkehuhpe((C3))" },
+	["Shiraura"]	= { "アシㇱペ:asispe", "エハタスㇺペ:ehatasumpe", "フㇷペ:huhpe", "イチョㇹチャキキリチセアシㇱペ:icohcakikiriciseasispe", "ヌマスㇷ:numasuh", "タカㇵケフㇷペ:takahkehuhpe((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ㇱヒリ:shiri (腫物 140)((H))" },
+	["Shumshu"]	= { "シリ:shiri (腫物 140)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -35,7 +35,7 @@ export.syns = {
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "チュㇷ゚カラㇷ゚:cúpkarap (H)((H))" },
-	["Chikabumi"]	= { "チュㇷ゚コㇻ:cupkor(-an)", "オフレ:ohure(-an)((C3))" },
+	["Chikabumi"]	= { "チュㇷ゚コㇿ:cupkor(-an)", "オフレ:ohure(-an)((C3))" },
 	["Nayoro"]	= { "" },
 	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
@@ -49,7 +49,7 @@ export.syns = {
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
-	["Harutori"]	= { "チュㇷ゚ペ:cuppe", "プリコㇻ:purikor(-an)((C3))" },
+	["Harutori"]	= { "チュㇷ゚ペ:cuppe", "プリコㇿ:purikor(-an)((C3))" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },

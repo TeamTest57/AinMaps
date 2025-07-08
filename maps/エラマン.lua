@@ -51,7 +51,7 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "エラムアン:'erámu'an((HC))", "アㇺキㇻ:amkir(･に覚えがある、･･･を知っている),eamkir(･･･に覚えがある、･･･を知っている),paste(･･･がわかる)((K2021))" },
+	["Kushiro"]	= { "エラムアン:'erámu'an((HC))", "アㇺキㇼ:amkir(･に覚えがある、･･･を知っている),eamkir(･･･に覚えがある、･･･を知っている),paste(･･･がわかる)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "エチャㇺキㇻ:[y]ecam=kir(知っている)", "エネナㇺキㇻ:[y]ene=namkir(あなた/彼は知っていますか？)", "ㇰオㇻワッイエワ:k=orwatie=wa(知っている)", "オロワテ:orowate(知っている)((V))" },
+	["Shumshu"]	= { "エチャㇺキㇼ:[y]ecam=kir(知っている)", "エネナㇺキㇼ:[y]ene=namkir(あなた/彼は知っていますか？)", "ㇰオㇿワッイエワ:k=orwatie=wa(知っている)", "オロワテ:orowate(知っている)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

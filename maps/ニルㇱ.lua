@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "レ:(mimák-)re, (-he)((H))", "ニマㇰクㇻスッ:nimakkursut(-u)", "ニマㇰレヘ:nimakrehe", "ニマㇰトゥㇻ:nimaktur(-i)((C3))" },
+	["Saru"]	= { "レ:(mimák-)re, (-he)((H))", "ニマㇰクㇽスッ:nimakkursut(-u)", "ニマㇰレヘ:nimakrehe", "ニマㇰトゥㇽ:nimaktur(-i)((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -35,7 +35,7 @@ export.syns = {
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ニウリ:niwri((H))" },
-	["Chikabumi"]	= { "ニウㇻ:niur(-i)((C3))" },
+	["Chikabumi"]	= { "ニウㇽ:niur(-i)((C3))" },
 	["Nayoro"]	= { "ニマㇰルㇱ:nimákrus", "ニマコウㇱ:nimáko'us《歯の根もと》((H))" },
 	["Soya"]	= { "ニルㇱ:nírus, -ihi((H))" },
 	["Teshio"]	= { "" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ニウㇻ:ni'ur, -i((H))" },
+	["Bihoro"]	= { "ニウㇽ:ni'ur, -i((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

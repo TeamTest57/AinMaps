@@ -66,8 +66,8 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "ルウェポㇺペㇵ:ruwepompeh(c-i)((C3))" },
-	["Raichishka"]	= { "ポロモンペㇵ:poro monpeh, -cihi((H))" },
+	["Maoka"]	= { "ルウェポㇺペㇸ:ruwepompeh(c-i)((C3))" },
+	["Raichishka"]	= { "ポロモンペㇸ:poro monpeh, -cihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -77,8 +77,8 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ポロモㇺペㇵ:poro-mompeh(拇指)((CW))" },
-	["Shiraura"]	= { "ポロモㇺペㇵ:poromompeh(c-i)", "ルウェモㇺペㇵ:ruwemompeh(c-i)((C3))" },
+	["Shirahama"]	= { "ポロモㇺペㇸ:poro-mompeh(拇指)((CW))" },
+	["Shiraura"]	= { "ポロモㇺペㇸ:poromompeh(c-i)", "ルウェモㇺペㇸ:ruwemompeh(c-i)((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ポラㇱヒキイッ:pora shikibit (139)((H))", "ポㇻイㇱキペッ:por=iskipet(親指)((V))" },
+	["Shumshu"]	= { "ポラシキイッ:pora shikibit (139)((H))", "ポㇿイㇱキペッ:por=iskipet(親指)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

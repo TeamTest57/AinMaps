@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "キサㇻ:kisár((HC))", "アスㇻペ:'asúrpe [雅](人間には使わぬ)((H))" },
+	["Horobetsu"]	= { "キサㇻ:kisár((HC))", "アスㇽペ:'asúrpe [雅](人間には使わぬ)((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "キサㇻ:kisár((HC))", "アスㇻペ:'asúrpe (熊の)((H))" },
+	["Yakumo"]	= { "キサㇻ:kisár((HC))", "アスㇽペ:'asúrpe (熊の)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "キサㇻ:kisár((HC))", "キサㇻスイキサㇱスイ:kisársuy～kisássuy 《耳のあな》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "キサㇻ:kisár((HC))", "アスㇻペ:'asúrpe (熊等の)", "キサㇻスイキサㇱスイ:kisársuy～kisássuy 《耳のあな》((H))" },
+	["Nayoro"]	= { "キサㇻ:kisár((HC))", "アスㇽペ:'asúrpe (熊等の)", "キサㇻスイキサㇱスイ:kisársuy～kisássuy 《耳のあな》((H))" },
 	["Soya"]	= { "キサㇻ:kisár((HC))" },
 	["Teshio"]	= { "" },
 

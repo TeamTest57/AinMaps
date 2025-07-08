@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "カイヌ:kaynu", "ポネカチ:ponekaci", "カト:kato", "ポンカイヌ:ponkaynu((C3))" },
-	["Raichishka"]	= { "オㇵカヨヘカチ:ohkayohekaci (10-15 歳)((H))" },
+	["Raichishka"]	= { "オㇹカヨヘカチ:ohkayohekaci (10-15 歳)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "カイヌ:kaynu", "ポネカチ:ponekaci", "イマネㇵポ:imanehpo", "カイノ:kayno((C3))" },
+	["Shiraura"]	= { "カイヌ:kaynu", "ポネカチ:ponekaci", "イマネㇸポ:imanehpo", "カイノ:kayno((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "ポネカチ:ponekaci((C3))" },
 	["Yamambetsu"]	= { "" },

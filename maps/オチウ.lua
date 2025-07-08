@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "ホイヨチㇱテ:hoiyociste((C3))" },
-	["Horobetsu"]	= { "ウコㇻ:ukór(人間)", "ウコッ:'ukót(人間以外)((H))", "セㇱ:ses", "スクㇷ゚クㇻプリコㇻ:sukupkurpurikor(-an)", "ウコホッケ:ukohotke(-an)((C3))" },
+	["Horobetsu"]	= { "ウコㇿ:ukór(人間)", "ウコッ:'ukót(人間以外)((H))", "セㇱ:ses", "スクㇷ゚クㇽプリコㇿ:sukupkurpurikor(-an)", "ウコホッケ:ukohotke(-an)((C3))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "オチウ:ociw(人間)", "キニン:kinín[良](人間)", "ウヌプレ:'unúpure(動物)", "ウウェラマス:'uwéramasu(動物)", "トゥマㇺ:tumám[他]《抱いてねる》((H))", "ホクコヌトゥㇱテㇰノイクパパ:hoku konutustekno ikupapa", "ホクコヌトゥㇱテㇰノチㇱ:hoku konutusteknocis", "イラマッコスイェイウェンテマッ:iramatkosuyeiwentemat", "イロㇻコピウェイウェンテマッ:irorkopiweiwentemat", "イシケライケイウェンテマッ:isikeraykeiwentemat", "ケロリㇺセイウェンテマッ:kerorimseiwentemat", "セタパㇻコアッ:setaparkoat", "スクㇷ゚クㇻプリコㇻ:sukupkurpurikor(-an)", "スクㇷ゚プリコㇻ:sukuppurikor", "スクㇷ゚プリコレ:sukuppurikore", "ウコニポㇷ゚ケウコホㇻセ:ukonipopke ukohorse", "ウコサッテㇰ:ukosattek(-an)", "ウヲエ:uwoe((C3))" },
+	["Saru"]	= { "オチウ:ociw(人間)", "キニン:kinín[良](人間)", "ウヌプレ:'unúpure(動物)", "ウウェラマス:'uwéramasu(動物)", "トゥマㇺ:tumám[他]《抱いてねる》((H))", "ホクコヌトゥㇱテㇰノイクパパ:hoku konutustekno ikupapa", "ホクコヌトゥㇱテㇰノチㇱ:hoku konutusteknocis", "イラマッコスイェイウェンテマッ:iramatkosuyeiwentemat", "イロㇿコピウェイウェンテマッ:irorkopiweiwentemat", "イシケライケイウェンテマッ:isikeraykeiwentemat", "ケロリㇺセイウェンテマッ:kerorimseiwentemat", "セタパㇻコアッ:setaparkoat", "スクㇷ゚クㇽプリコㇿ:sukupkurpurikor(-an)", "スクㇷ゚プリコㇿ:sukuppurikor", "スクㇷ゚プリコレ:sukuppurikore", "ウコニポㇷ゚ケウコホㇿセ:ukonipopke ukohorse", "ウコサッテㇰ:ukosattek(-an)", "ウヲエ:uwoe((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "ウラム:uramu((C3))" },
 	["Takae"]	= { "" },
@@ -34,17 +34,17 @@ export.syns = {
 	["Yakumo"]	= { "ウカウン:uká'un", "ウコッ:'ukót(動物)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ウトゥマㇺワモコㇻ:utúmam wa mokór", "クマチクトゥマㇺクモコㇻ:夫が言う場合 kumáci kutúmam kumókor((H))" },
+	["Asahikawa"]	= { "ウトゥマㇺワモコㇿ:utúmam wa mokór", "クマチクトゥマㇺクモコㇿ:夫が言う場合 kumáci kutúmam kumókor((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ウトゥラホㇰケ:utúra hókke((H))" },
-	["Soya"]	= { "オモエコㇻ:omó(h)ekor《方言:へっぺする》((H))" },
+	["Soya"]	= { "オモエコㇿ:omó(h)ekor《方言:へっぺする》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "コㇻ:kor(a-an-)", "オアトゥワㇰカ:oatuwakka", "オテッテㇷ゚:otettep(-i)", "パウチチㇱテ:pawciciste", "パウチコㇻ:pawcikor(-an)", "パウチコッワチㇱ:pawcikot wa cis", "ロㇱキワウコピㇻカㇷ゚コㇻ:roskiwa ukopirkapkor", "サマㇰキホㇰケワウキ:samakki hokke wa uki", "ウエ:ue(-an)", "ウカタアン:ukataan", "ウカウン:ukaun(-an)", "ウキ:uki(-an)", "ウコパウチコㇻ:ukopawcikor(-an)", "ウコピㇻカㇷ゚コㇻ:ukopirkapkor(-an)", "ウコピㇻカポマン:ukopirkapoman", "ウコプリコㇻ:ukopurikor(-an)", "ウラム:uramu", "ウトゥラホㇰケ:uturahokke(-an)", "ウトゥイコトゥㇰカ:utuykotukka(-an)((C3))" },
+	["Bihoro"]	= { "コㇿ:kor(a-an-)", "オアトゥワㇰカ:oatuwakka", "オテッテㇷ゚:otettep(-i)", "パウチチㇱテ:pawciciste", "パウチコㇿ:pawcikor(-an)", "パウチコッワチㇱ:pawcikot wa cis", "ロㇱキワウコピㇼカㇷ゚コㇿ:roskiwa ukopirkapkor", "サマㇰキホㇰケワウキ:samakki hokke wa uki", "ウエ:ue(-an)", "ウカタアン:ukataan", "ウカウン:ukaun(-an)", "ウキ:uki(-an)", "ウコパウチコㇿ:ukopawcikor(-an)", "ウコピㇼカㇷ゚コㇿ:ukopirkapkor(-an)", "ウコピㇼカポマン:ukopirkapoman", "ウコプリコㇿ:ukopurikor(-an)", "ウラム:uramu", "ウトゥラホㇰケ:uturahokke(-an)", "ウトゥイコトゥㇰカ:utuykotukka(-an)((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,10 +67,10 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "キイ:kii[他]", "オチウ:'ociw[自][卑]", "ウラアヌㇵ:'uraanuh, -p〜-k[自][老]", "ウラムノオ:'uramunoo[老]((H))" },
+	["Raichishka"]	= { "キイ:kii[他]", "オチウ:'ociw[自][卑]", "ウラアヌㇷ:'uraanuh, -p〜-k[自][老]", "ウラムノオ:'uramunoo[老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "チョアウテㇱパレチョヨㇺパレ:coawtespare coyompare", "マㇵテクㇵラㇺポコンテ:mahtekuhrampokonte", "オㇵカヨラㇺポコンテ:ohkayo rampo konte", "ウトロㇵケ:utorohke(-an)", "ウトゥルキ:uturuki(-an)", "ウヲコㇵ:uwokoh(t-an)((C3))" },
+	["Usoro"]	= { "チョアウテㇱパレチョヨㇺパレ:coawtespare coyompare", "マㇵテクㇷラㇺポコンテ:mahtekuhrampokonte", "オㇹカヨラㇺポコンテ:ohkayo rampo konte", "ウトロㇹケ:utorohke(-an)", "ウトゥルキ:uturuki(-an)", "ウヲコㇹ:uwokoh(t-an)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

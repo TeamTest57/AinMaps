@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "メノコ:menokó,mát((HC))", "マッ:mát", "クㇻマッ:kurmat (和人の)((H))", "モイレマッ:moyremat(-i＞ci)", "シウェンテㇷ゚:siwentep(-i)((C3))" },
+	["Horobetsu"]	= { "メノコ:menokó,mát((HC))", "マッ:mát", "クㇽマッ:kurmat (和人の)((H))", "モイレマッ:moyremat(-i＞ci)", "シウェンテㇷ゚:siwentep(-i)((C3))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "メノコ:menokó((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "メノコ:menokó((HC))" },
-	["Saru"]	= { "メノコ:menóko", "マッ:mát", "クㇻマッ:kúrmat (和人の)((H))", "メノコアイヌ:menokoaynu", "ウタㇻケㇱ:utarkes(-i)((C3))" },
+	["Saru"]	= { "メノコ:menóko", "マッ:mát", "クㇽマッ:kúrmat (和人の)((H))", "メノコアイヌ:menokoaynu", "ウタㇻケㇱ:utarkes(-i)((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "メノコ:menokó,mátnekur((HC))", "マッネクㇻ:mátnekur", "マタイヌ:matáynu((H))" },
+	["Yakumo"]	= { "メノコ:menokó,mátnekur((HC))", "マッネクㇽ:mátnekur", "マタイヌ:matáynu((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "メノコ:menokó,matáynu((HC))", "マタイヌ:matáynu (成年の女子)((H))" },
@@ -66,17 +66,17 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "マㇵテクㇵ:mahtekuh((HC))", "カㇵケマㇵ:kahkemah(t-i＞ci)((C3))" },
-	["Raichishka"]	= { "マㇵテクㇵ:mahtekuh, -rihi((H))" },
+	["Maoka"]	= { "マㇵテクㇷ:mahtekuh((HC))", "カㇵケマㇵ:kahkemah(t-i＞ci)((C3))" },
+	["Raichishka"]	= { "マㇵテクㇷ:mahtekuh, -rihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "マイネポ:maynepo((HC))" },
-	["Usoro"]	= { "マㇵテクㇵ:mahtekuh(ru/-ru)((C3))" },
+	["Usoro"]	= { "マㇵテクㇷ:mahtekuh(ru/-ru)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "マㇵネクㇵ:mahnekuh((HC))" },
-	["Niitoi"]	= { "マㇵネクㇵ:mahnekuh(ru-ru)((C3))" },
-	["Ochiho"]	= { "マㇵネクㇵ:mahnekuh((HC))" },
+	["Nairo"]	= { "マㇵネクㇷ:mahnekuh((HC))" },
+	["Niitoi"]	= { "マㇵネクㇷ:mahnekuh(ru-ru)((C3))" },
+	["Ochiho"]	= { "マㇵネクㇷ:mahnekuh((HC))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "マㇵネク:mahneku((HC))", "メロコ:meroko((C3))" },
 	["Taraika"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "トゥレㇱㇵ:turesh, mat (136)", "マヒ:machi (162)((H))", "マッ:mat(女)((BS))" },
+	["Shumshu"]	= { "トゥレㇱㇸ:turesh, mat (136)", "マヒ:machi (162)((H))", "マッ:mat(女)((BS))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

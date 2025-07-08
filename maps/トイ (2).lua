@@ -31,10 +31,10 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "トイ:tóy", "トヨㇻ:tóyor((H))" },
+	["Yakumo"]	= { "トイ:tóy", "トヨㇿ:tóyor((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "トヨㇻ:tóy'or((H))" },
+	["Asahikawa"]	= { "トヨㇿ:tóy'or((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "" },
 	["Soya"]	= { "" },

@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ノㇵ:noh, -kihi《陰嚢》", "ノㇵヌㇺ:nohnum, -ihi《睾丸》((H))" },
+	["Raichishka"]	= { "ノㇹ:noh, -kihi《陰嚢》", "ノㇹヌㇺ:nohnum, -ihi《睾丸》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -77,9 +77,9 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ノㇵ:noh(睾丸),nóhpi(睾丸)((CW))" },
-	["Shiraura"]	= { "ノㇵピ:nohpi(-he)", "ノキアシンケ:nokiasinke((C3))" },
-	["Taraika"]	= { "ノㇵ:noh(k-i)((C3))" },
+	["Shirahama"]	= { "ノㇹ:noh(睾丸),nóhpi(睾丸)((CW))" },
+	["Shiraura"]	= { "ノㇹピ:nohpi(-he)", "ノキアシンケ:nokiasinke((C3))" },
+	["Taraika"]	= { "ノㇹ:noh(k-i)((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
 

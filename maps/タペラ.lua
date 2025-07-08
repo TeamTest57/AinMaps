@@ -69,7 +69,7 @@ export.syns = {
 	["Maoka"]	= { "タペラ:tapera", "タペラポニ:taperaponi((C3))" },
 	["Raichishka"]	= { "タペラ:tapera, -ha((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "タクㇵポニ:takuhponi((C3))" },
+	["Tarantomari"]	= { "タクㇷポニ:takuhponi((C3))" },
 	["Usoro"]	= { "タㇵリポニ:tahriponi((C3))" },
 
 	-- Sakhalin: East Coast

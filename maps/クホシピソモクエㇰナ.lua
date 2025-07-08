@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "タネソモエㇰナンコㇻ:tané somó 'ék nankor. 《...だろう》(彼が)((H))" },
+	["Horobetsu"]	= { "タネソモエㇰナンコㇿ:tané somó 'ék nankor. 《...だろう》(彼が)((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "クホシピソモクエㇰナ:kuhósipi somó ku'ék na.((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "タネエㇰソモキ:tané 'ék somóki.((H))" },
-	["Soya"]	= { "タネオㇻワノソモエㇰワ:tané 'órwano somo 'ék wa. (彼が)((H))" },
+	["Soya"]	= { "タネオㇿワノソモエㇰワ:tané 'órwano somo 'ék wa. (彼が)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "スイハンネㇵカクエㇵクス:suy hannehka ku'eh kusu.((H))" },
+	["Raichishka"]	= { "スイハンネㇸカクエㇸクス:suy hannehka ku'eh kusu.((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

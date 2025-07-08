@@ -4,14 +4,14 @@ export.gloss = "octopus"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
-	["Abuta"]	= { "アッコㇻカムイ:atkorkamuy((C2))" },
+	["Abuta"]	= { "アッコㇿカムイ:atkorkamuy((C2))" },
 	["Azuma"]	= { "" },
 	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
-	["Hobetsu"]	= { "アッコㇻカムイ:atkorkamuy", "アッコッカムイ:atkotkamuy((C2))" },
+	["Hobetsu"]	= { "アッコㇿカムイ:atkorkamuy", "アッコッカムイ:atkotkamuy((C2))" },
 	["Horobetsu"]	= { "" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
@@ -20,7 +20,7 @@ export.syns = {
 	["Niikappu"]	= { "" },
 	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "アッコㇻ:atkor(kamuy)", "アッコッカムイ:atkotkamuy", "トㇺトㇺ:tomtom(-i)((C2))" },
+	["Oshamambe"]	= { "アッコㇿ:atkor(kamuy)", "アッコッカムイ:atkotkamuy", "トㇺトㇺ:tomtom(-i)((C2))" },
 	["Rebun"]	= { "アッコッカムイ:atkotkamuy", "トㇺトㇺ:tomtom((C2))" },
 	["Samani"]	= { "アトゥナウ:atunaw((C2))" },
 	["Saru"]	= { "アトゥインネ:atú'inne((H))" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "アッコㇻペ:átkorpe", "アッコㇻチェㇷ゚:'átkorcep", "アトゥインネ:'atu'ínne((H))" },
+	["Yakumo"]	= { "アッコㇿペ:átkorpe", "アッコㇿチェㇷ゚:'átkorcep", "アトゥインネ:'atu'ínne((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "アㇵコイペ:ahkoype", "ホマルㇵ:homaruh, -pihi [老]((H))" },
+	["Raichishka"]	= { "アㇵコイペ:ahkoype", "ホマルㇷ:homaruh, -pihi [老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "オマリポ:omaripo((C2))" },
 	["Usoro"]	= { "" },

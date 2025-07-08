@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "サㇰ:sák", "サㇰパ:sákpa", "サカッパ:sákatpa《初夏(6月から7月初)》", "サㇰノㇱキ:sáknoski《盛夏(7月半ばから8月)》", "サㇰケㇱ:sákkes《晩夏(9月初)》", "シㇻサㇰ:sírsák《夏になる》((H))" },
+	["Saru"]	= { "サㇰ:sák", "サㇰパ:sákpa", "サカッパ:sákatpa《初夏(6月から7月初)》", "サㇰノㇱキ:sáknoski《盛夏(7月半ばから8月)》", "サㇰケㇱ:sákkes《晩夏(9月初)》", "シㇼサㇰ:sírsák《夏になる》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "サクノスキ:sakunosuki (133)", "サㇰノㇱヒケ:saknoshike (168)((H))", "サカン:sakan(夏)((M1892))", "サㇰアン:sak=an(夏)((V))" },
+	["Shumshu"]	= { "サクノスキ:sakunosuki (133)", "サㇰノシケ:saknoshike (168)((H))", "サカン:sakan(夏)((M1892))", "サㇰアン:sak=an(夏)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

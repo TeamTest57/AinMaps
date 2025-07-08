@@ -67,9 +67,9 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ハㇵコモンペㇵナンナハ:hahkomonpeh nannaha((H))" },
+	["Raichishka"]	= { "ハㇵコモンペㇸナンナハ:hahkomonpeh nannaha((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "イノㇱコㇵトゥタヌポㇺペㇵ:inoskohtutanupompeh(c-i)((C3))" },
+	["Tarantomari"]	= { "イノㇱコㇹトゥタヌポㇺペㇸ:inoskohtutanupompeh(c-i)((C3))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
@@ -77,8 +77,8 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ユトゥルウモㇺペㇵ:yúturubu-mompeh(薬指)((CW))" },
-	["Shiraura"]	= { "ユトゥルフモㇺペㇵ:yuturuhumompeh(c-i)((C3))" },
+	["Shirahama"]	= { "ユトゥルウモㇺペㇸ:yúturubu-mompeh(薬指)((CW))" },
+	["Shiraura"]	= { "ユトゥルフモㇺペㇸ:yuturuhumompeh(c-i)((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ハㇱヒコンケㇷ゚:hashikonkep(139)((H))" },
+	["Shumshu"]	= { "ハシコンケㇷ゚:hashikonkep(139)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ニサㇷ゚メㇰカ:nisápmekka (N)", "ウッチカマメㇰカシン:'útcikama mékkasi (N, H)《膝頭からくるぶしまでの骨の上》((H))" },
 	["Chikabumi"]	= { "ニサㇷ゚メㇰカ:nisapmekka((C3))" },
-	["Nayoro"]	= { "ウッチカマ:útcikama", "ニサㇷ゚:nisáp", "キㇻケウ:kírkew《膝を含めて膝から下の部分》((H))" },
+	["Nayoro"]	= { "ウッチカマ:útcikama", "ニサㇷ゚:nisáp", "キㇼケウ:kírkew《膝を含めて膝から下の部分》((H))" },
 	["Soya"]	= { "ケマメㇰカㇱケ:kemámekkàske, -he((H))" },
 	["Teshio"]	= { "" },
 
@@ -69,7 +69,7 @@ export.syns = {
 	["Maoka"]	= { "" },
 	["Raichishka"]	= { "ニサㇵ:nisah, -puhu((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ニチㇵ:nicih(p-i)", "ウトニン:utonin(-i)((C3))" },
+	["Tarantomari"]	= { "ニチㇶ:nicih(p-i)", "ウトニン:utonin(-i)((C3))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "メチㇱ:mecis(前脛部 向ふ脛),nisah(脛、すね),utonin(脛、すね),utunin(脛、すね)((CW))" },
-	["Shiraura"]	= { "メチㇵ:mecih(p-i)", "メチㇱ:mecis(p-i)", "ニサㇵ:nisah(p-i)((C3))" },
+	["Shiraura"]	= { "メチㇶ:mecih(p-i)", "メチㇱ:mecis(p-i)", "ニサㇵ:nisah(p-i)((C3))" },
 	["Taraika"]	= { "メチㇷ゚:mecip(-i)", "ウトゥニン:utunin(-i)((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ㇱヒヒリオニ:shihiriboni (脛139)((H))" },
+	["Shumshu"]	= { "シヒリオニ:shihiriboni (脛139)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

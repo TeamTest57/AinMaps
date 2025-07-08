@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "タスㇺ:tasúm《重病》", "トゥムウェン:tumúwen(寝たり起きたりの状態)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "タスㇺ:tasúm《ねこんでいる》", "シイェイ:siyéy 《(一般に) 病気》((H))" },
-	["Soya"]	= { "シエエ:sié'e 《なが病気》((H))" },
+	["Soya"]	= { "シエー:sié'e 《なが病気》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ウショカッ:ushoka't (病人 137)((H))", "アㇻカ:arka(病気)((BS))", "アㇻカクㇻ:arka=kur《病気の[人]》", "ㇰアㇻカワ:k=arka=wa《私は病気です》((V))" },
+	["Shumshu"]	= { "ウショカッ:ushoka't (病人 137)((H))", "アㇻカ:arka(病気)((BS))", "アㇻカクㇽ:arka=kur《病気の[人]》", "ㇰアㇻカワ:k=arka=wa《私は病気です》((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

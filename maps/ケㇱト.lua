@@ -34,9 +34,9 @@ export.syns = {
 	["Yakumo"]	= { "ケㇱト:késto (késto) ('an ko)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ケㇱタアンコㇻ:kesta 'an kor", "ケㇱタアントタ:kesta 'an to ta((H))" },
+	["Asahikawa"]	= { "ケㇱタアンコㇿ:kesta 'an kor", "ケㇱタアントタ:kesta 'an to ta((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ケㇱトアンコㇻ:késto 'ánkor((H))" },
+	["Nayoro"]	= { "ケㇱトアンコㇿ:késto 'ánkor((H))" },
 	["Soya"]	= { "ケㇱタアシンコ:kestá 'asinko((H))" },
 	["Teshio"]	= { "" },
 
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ケㇱトアンコㇻ:kesto 'an kor((H))" },
+	["Bihoro"]	= { "ケㇱトアンコㇿ:kesto 'an kor((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ケㇱトアンコㇻ:késto 'an kor((H))" },
+	["Obihiro"]	= { "ケㇱトアンコㇿ:késto 'an kor((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },

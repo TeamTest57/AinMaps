@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "キサㇻプサ:kisárpusa", "キサㇻモㇺ:kisármom, -i((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "キサㇻサラハ:kisársaraha", "キサㇻパルㇻケ:kisárpárurke《耳のへり》((H))" },
+	["Asahikawa"]	= { "キサㇻサラハ:kisársaraha", "キサㇻパルㇽケ:kisárpárurke《耳のへり》((H))" },
 	["Chikabumi"]	= { "キサッテパ:kisattepa((C3))" },
 	["Nayoro"]	= { "キサㇻラㇷ゚キサンラㇷ゚:kisárrap〜kisánrap((H))" },
 	["Soya"]	= { "キサㇻペチ:kisárpecì((H))" },

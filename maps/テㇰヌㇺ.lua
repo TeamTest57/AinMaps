@@ -52,7 +52,7 @@ export.syns = {
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "" },
-	["Kussharo"]	= { "アㇱコㇻ:askor(-i)((C3))" },
+	["Kussharo"]	= { "アㇱコㇿ:askor(-i)((C3))" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "モヌタプテㇵ:monutapu(re) teh, -kihi((H))" },
+	["Raichishka"]	= { "モヌタプテㇸ:monutapu(re) teh, -kihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

@@ -17,13 +17,13 @@ export.syns = {
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "ニレウェウェ:nirewewe(-an)", "ニヨㇻカㇻ:niyorkar(-an)((C3))" },
+	["Niikappu"]	= { "ニレウェウェ:nirewewe(-an)", "ニヨㇿカㇻ:niyorkar(-an)((C3))" },
 	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "チㇱ:cís [自]", "ラヤヤイセ:rayáyayse [自] (ワアワア)", "パラパラㇰ:paráparak [自] 《泣きわめく》((H))", "ライキリㇻセ:raykirirse", "シエヤイカパㇻ:sieyaykapar((C3))" },
+	["Saru"]	= { "チㇱ:cís [自]", "ラヤヤイセ:rayáyayse [自] (ワアワア)", "パラパラㇰ:paráparak [自] 《泣きわめく》((H))", "ライキリㇼセ:raykirirse", "シエヤイカパㇻ:sieyaykapar((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "チㇱ:cís", "ピチㇱ:pícis (声を立てないで)", "ラヤヤイセ:rayáyayse (子供がワアワアと)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "チㇱ:cís", "セㇱセㇻケ:sésserke 《すすり泣く》", "パラパラㇰ:páraparak (ワンワン)", "ライチㇱカㇻ:ráyciskar (葬式の時)((H))" },
+	["Asahikawa"]	= { "チㇱ:cís", "セㇱセㇾケ:sésserke 《すすり泣く》", "パラパラㇰ:páraparak (ワンワン)", "ライチㇱカㇻ:ráyciskar (葬式の時)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "チㇱ:cís", "パラパラㇰ:paráparak (大声で)((H))" },
 	["Soya"]	= { "チㇱ:cís((H))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "チㇱ:cis [自]", "ラヤヤイセ:rayayayse (子供が大声で)", "セノㇵノㇵキチㇱキイ:senohnohkicis kii [他]《泣きじゃくる》((H))" },
+	["Raichishka"]	= { "チㇱ:cis [自]", "ラヤヤイセ:rayayayse (子供が大声で)", "セノㇹノㇹキチㇱキイ:senohnohkicis kii [他]《泣きじゃくる》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

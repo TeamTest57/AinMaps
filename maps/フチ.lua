@@ -66,8 +66,8 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "イコンノㇵ:ikonnoh((C3))" },
-	["Raichishka"]	= { "ルㇵネマㇵ:ruhne mah (50-60 歳)", "アㇵチ:'ahci (60-80 歳)", "スㇵ:suh, -cihi (90-100 歳)((H))" },
+	["Maoka"]	= { "イコンノㇹ:ikonnoh((C3))" },
+	["Raichishka"]	= { "ルㇷネマㇵ:ruhne mah (50-60 歳)", "アㇵチ:'ahci (60-80 歳)", "スㇷ:suh, -cihi (90-100 歳)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "アㇵチ:ahci((C3))" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "アㇵチ:ahci((C3))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "アㇵチ:ahci", "イコンノㇵ:ikonnoh((C3))" },
+	["Shiraura"]	= { "アㇵチ:ahci", "イコンノㇹ:ikonnoh((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

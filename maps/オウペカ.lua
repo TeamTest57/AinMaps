@@ -18,7 +18,7 @@ export.syns = {
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
 	["Niikappu"]	= { "オウペカ:'ówpeka((HC))" },
-	["Nukkibetsu"]	= { "オオペカ:'o'ópeka((HC))" },
+	["Nukkibetsu"]	= { "オーペカ:'o'ópeka((HC))" },
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "オウペカ:'o'upéka((HC))" },
 	["Rebun"]	= { "" },
@@ -74,11 +74,11 @@ export.syns = {
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "オイㇵトゥㇱノ:'o'ihtusno(…に)((HC))" },
+	["Nairo"]	= { "オイㇶトゥㇱノ:'o'ihtusno(…に)((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "クアノ:ku'aɴno,'ukuruhne((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "イクルㇵネ:'ikuruhne((HC))" },
+	["Shiraura"]	= { "イクルㇷネ:'ikuruhne((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

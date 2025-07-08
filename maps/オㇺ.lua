@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "オㇺ:óm", "オㇺメㇰカ:'ómmekka (上側)", "オㇺポネ:'ómpone《大腿骨》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オㇺ:óm, -íhi", "オㇺカㇺ:'ómkam《腿肉》", "ピンキスッ:pínkisut《鼠蹊部》((H))" },
-	["Soya"]	= { "オㇺ:óm", "オㇺカㇱケ:'om(mek)kaske, -he (外)", "オㇺコトㇻ:'ómkotor, -oho~'ómkotorke, -he (内)((H))" },
+	["Soya"]	= { "オㇺ:óm", "オㇺカㇱケ:'om(mek)kaske, -he (外)", "オㇺコトㇿ:'ómkotor, -oho~'ómkotorke, -he (内)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "オムンヤ:omunya (大腿 139)", "ヒンコトル:chinkotoru (股 139)((H))", "オㇺ:om(大腿)", "オㇺイキㇻ:om=ikir(大腿)((V))" },
+	["Shumshu"]	= { "オムンヤ:omunya (大腿 139)", "ヒンコトル:chinkotoru (股 139)((H))", "オㇺ:om(大腿)", "オㇺイキㇼ:om=ikir(大腿)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

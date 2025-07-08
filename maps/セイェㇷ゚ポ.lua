@@ -7,7 +7,7 @@ export.syns = {
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
 	["Biratori"]	= { "" },
-	["Chitose"]	= { "オㇱシキキㇻ:ossikikir(-i)", "セイェㇷ゚ポ:seyeppo((C2))" },
+	["Chitose"]	= { "オㇱシキキㇼ:ossikikir(-i)", "セイェㇷ゚ポ:seyeppo((C2))" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ポンモコㇻイ:pónmokor(i,í)r((H))" },
+	["Yakumo"]	= { "ポンモコㇿイ:pónmokor(i,í)r((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "セウニキキリ:séwni kikíri((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "セイノキキㇻ:séyno kikír((H))", "セイェㇷ゚ポ:seyeppo((C2))" },
-	["Soya"]	= { "セノキキㇻ:senó kikír((H))" },
+	["Nayoro"]	= { "セイノキキㇼ:séyno kikír((H))", "セイェㇷ゚ポ:seyeppo((C2))" },
+	["Soya"]	= { "セノキキㇼ:senó kikír((H))" },
 	["Teshio"]	= { "ケメトゥンケ:kemetunke((C2))" },
 
 	-- Hokkaido: Eastern

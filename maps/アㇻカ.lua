@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "アラカ:áraka(身体の内部が)", "タスㇺ:tasúm(,,)", "イウニン:'i'únin(たたかれて, ぶつかって)", "タサラ:tásara《うずく》", "イウㇱマオコロ:'i'úsma'okóro《さしこんでくる》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "アㇻカ:árka", "イウニン:i'únin(たたかれて, ころんで)((H))" },
-	["Soya"]	= { "アㇻカ:árka", "ホニアㇻカ:honí 'árka 《腰が痛い》", "ノイポㇻコニ:nóypor koní 《頭が痛い》((H))" },
+	["Soya"]	= { "アㇻカ:árka", "ホニアㇻカ:honí 'árka 《腰が痛い》", "ノイポㇿコニ:nóypor koní 《頭が痛い》((H))" },
 	["Teshio"]	= { "シカユㇱ:sikayus((C3))" },
 
 	-- Hokkaido: Eastern
@@ -70,7 +70,7 @@ export.syns = {
 	["Raichishka"]	= { "アラカ:araka[自](急に)", "ユウニン:yuunin[自](ひどくないが永続的に)", "タスㇺ:tasum[自](骨等ひどくキリキリと)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "チカㇵカウカㇵカアラカ:cikahkaukahkaaraka", "エコモアラカ:ekomoaraka", "エクㇵクルアラカ:ekuhkuruaraka", "ヘラリアラカ:herariaraka", "ナㇱテナㇱテアラカ:nastenastearaka", "ニウサラカ:niusaraka", "タサシケアラカ:tasasikearaka", "ウコユプ:ukoyupu(-an)((C3))" },
+	["Usoro"]	= { "チカㇵカウカㇵカアラカ:cikahkaukahkaaraka", "エコモアラカ:ekomoaraka", "エクㇷクルアラカ:ekuhkuruaraka", "ヘラリアラカ:herariaraka", "ナㇱテナㇱテアラカ:nastenastearaka", "ニウサラカ:niusaraka", "タサシケアラカ:tasasikearaka", "ウコユプ:ukoyupu(-an)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

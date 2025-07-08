@@ -67,18 +67,18 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ヤラケポㇵ:yarakepoh, -kihi((H))" },
+	["Raichishka"]	= { "ヤラケポㇹ:yarakepoh, -kihi((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ヤイトゥポㇵ:yaytupoh(k-i)((C3))" },
-	["Usoro"]	= { "ヤラポㇵ:yarapoh(k-i)((C3))" },
+	["Tarantomari"]	= { "ヤイトゥポㇹ:yaytupoh(k-i)((C3))" },
+	["Usoro"]	= { "ヤラポㇹ:yarapoh(k-i)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ヤラポㇵ:yara-poh(腋、わき),yariki-puy(腋窩),yátu(腋、わき),yátu-poh(腋窩)((CW))" },
-	["Shiraura"]	= { "ヤラポㇵ:yarapoh(k-i)", "ヤトゥ:yatu", "シアラキポㇵ:siarakipoh(k-i)", "ヤラキポㇵ:yarakipoh(k-i)", "ヤリキプイ:yarikipuy(-he)", "ヤトゥポㇵ:yatupoh(k-i)((C3))" },
+	["Shirahama"]	= { "ヤラポㇹ:yara-poh(腋、わき),yariki-puy(腋窩),yátu(腋、わき),yátu-poh(腋窩)((CW))" },
+	["Shiraura"]	= { "ヤラポㇹ:yarapoh(k-i)", "ヤトゥ:yatu", "シアラキポㇹ:siarakipoh(k-i)", "ヤラキポㇹ:yarakipoh(k-i)", "ヤリキプイ:yarikipuy(-he)", "ヤトゥポㇹ:yatupoh(k-i)((C3))" },
 	["Taraika"]	= { "ヤトゥ:yatu((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

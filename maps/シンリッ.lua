@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "マクネカシ:makunekasi((C3))" },
-	["Bihoro"]	= { "シンリッ:sinrit((H))", "マㇰタエカシ:maktaekasi", "ウコシンリッコㇻ:ukosinritkor((C3))" },
+	["Bihoro"]	= { "シンリッ:sinrit((H))", "マㇰタエカシ:maktaekasi", "ウコシンリッコㇿ:ukosinritkor((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -55,7 +55,7 @@ export.syns = {
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "セㇻマㇰ:sermak(先祖|[代々の影])((F2016))" },
+	["Nemuro"]	= { "セㇾマㇰ:sermak(先祖|[代々の影])((F2016))" },
 	["Nijibetsu"]	= { "" },
 	["Obihiro"]	= { "シンリッ:sínrit((H))" },
 	["Otofuke"]	= { "" },
@@ -76,7 +76,7 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "マㇵタエカシ:mahtaekasi((C3))" },
-	["Ochiho"]	= { "マㇵタスㇵ:mahtasuh(t-i＞c-i)((C3))" },
+	["Ochiho"]	= { "マㇵタスㇷ:mahtasuh(t-i＞c-i)((C3))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "マㇵタエカシ:mahtaekasi((C3))" },
 	["Taraika"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "エカㇱヒ:eka'shi (先祖 136)((H))" },
+	["Shumshu"]	= { "エカシ:eka'shi (先祖 136)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

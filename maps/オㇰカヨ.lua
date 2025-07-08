@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "オㇰカイ:'ókkay((HC))", "ルコッチャコㇻクㇻ:rukotcakorkur((C3))" },
+	["Bihoro"]	= { "オㇰカイ:'ókkay((HC))", "ルコッチャコㇿクㇽ:rukotcakorkur((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "オㇵカヨ:'ohkayo((HC))", "オㇵカウ:ohkaw(-he)((C3))" },
-	["Raichishka"]	= { "オㇵカヨ:'ohkayo((HC))" },
+	["Maoka"]	= { "オㇹカヨ:'ohkayo((HC))", "オㇹカウ:ohkaw(-he)((C3))" },
+	["Raichishka"]	= { "オㇹカヨ:'ohkayo((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "オㇰカウ:'okkaw((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "オㇵカヨ:'ohkayo((HC))" },
+	["Nairo"]	= { "オㇹカヨ:'ohkayo((HC))" },
 	["Niitoi"]	= { "アイヌ:aynu((C3))" },
-	["Ochiho"]	= { "オㇵカヨ:'ohkayo((HC))" },
+	["Ochiho"]	= { "オㇹカヨ:'ohkayo((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "オㇵカヨ:'ohkayo((HC))", "オㇵカイ:ohkay(-o)((C3))" },
+	["Shiraura"]	= { "オㇹカヨ:'ohkayo((HC))", "オㇹカイ:ohkay(-o)((C3))" },
 	["Taraika"]	= { "オㇰカイ:okkay(-o)((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

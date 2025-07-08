@@ -65,12 +65,12 @@ export.syns = {
 	["Tooro"]	= { "" },
 
 	-- Sakhalin: West Coast
-	["Chirai"]	= { "オㇵトゥリ:ohturi", "オキキ:okiki(-he)((C3))" },
+	["Chirai"]	= { "オㇹトゥリ:ohturi", "オキキ:okiki(-he)((C3))" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "オㇵルル:ohruru, -hu((H))" },
+	["Raichishka"]	= { "オㇹルル:ohruru, -hu((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "オㇵプイ:ohpuy(-he)((C3))" },
-	["Usoro"]	= { "オㇵルル:ohruru(-he)((C3))" },
+	["Tarantomari"]	= { "オㇹプイ:ohpuy(-he)((C3))" },
+	["Usoro"]	= { "オㇹルル:ohruru(-he)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "オㇰシッ:okśit(うなじ、首の根),óhkew(首の骨、うなじ)((CW))" },
-	["Shiraura"]	= { "オㇵ:oh(k-i)", "オㇵケウ:ohkew(-he)", "オㇵスㇵ:ohsuh(t-u)((C3))" },
+	["Shiraura"]	= { "オㇹ:oh(k-i)", "オㇹケウ:ohkew(-he)", "オㇹスㇷ:ohsuh(t-u)((C3))" },
 	["Taraika"]	= { "オㇰトゥㇱ:oktus(-u)((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

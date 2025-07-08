@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "シㇻシモイェ:sírsimoye((H))" },
+	["Horobetsu"]	= { "シㇼシモイェ:sírsimoye((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "シㇻシモイェ:sírsimoye((H))" },
+	["Saru"]	= { "シㇼシモイェ:sírsimoye((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "シㇻシモイェ:sírsimoye((H))" },
+	["Yakumo"]	= { "シㇼシモイェ:sírsimoye((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "シㇱシモイェ:síssimoye", "シㇱシスイェ:síssisuye", "トイシルトゥ:tóy si-rútu 《地すべり》((H))" },
@@ -55,9 +55,9 @@ export.syns = {
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "シㇻスムイ:sirsumuy?(地震|[地が動く])((F2016))" },
+	["Nemuro"]	= { "シㇼスムイ:sirsumuy?(地震|[地が動く])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "シㇻスㇺ:sírsum((H))" },
+	["Obihiro"]	= { "シㇼスㇺ:sírsum((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ㇱヒリシュミイ:shiri shumii (130)((H))", "ㇱヒルスムイ:shirusumui(地震)((M1892))", "シㇻシム:sir=simuj(地震)((V))" },
+	["Shumshu"]	= { "シリシュミイ:shiri shumii (130)((H))", "シルスムイ:shirusumui(地震)((M1892))", "シㇼシム:sir=simuj(地震)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

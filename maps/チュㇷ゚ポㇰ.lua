@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チュㇷ゚ポㇰ:cúppok", "モシㇻケㇱ:mosírkes((H))" },
+	["Horobetsu"]	= { "チュㇷ゚ポㇰ:cúppok", "モシㇼケㇱ:mosírkes((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -55,7 +55,7 @@ export.syns = {
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "スㇺクㇻ:sumkur《西の蝦夷|[西の者]》,sumrera《酉(西風落海二湧立)|[湧く風]》((F2016))" },
+	["Nemuro"]	= { "スㇺクㇽ:sumkur《西の蝦夷|[西の者]》,sumrera《酉(西風落海二湧立)|[湧く風]》((F2016))" },
 	["Nijibetsu"]	= { "" },
 	["Obihiro"]	= { "エペライ:epéray《川上の方へ》", "オペライ:'opéray《川上の方から》((H))" },
 	["Otofuke"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "マカンルㇻケソヤ:makan-rur-kes oya?(西)((BS))", "ヲヤウンㇱヒヤンロコ:woyaunshiyanroko(西)((M1892))" },
+	["Shumshu"]	= { "マカンルㇽケソヤ:makan-rur-kes oya?(西)((BS))", "ヲヤウンシヤンロコ:woyaunshiyanroko(西)((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

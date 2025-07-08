@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "エピッチェ:epítce", "エトントネ:'etóntone", "カㇷ゚ケ:kápke (面と向かって悪く言う時)", "ケㇷ゚ネ:képne", "エトイ:'etóy", "ロㇺコㇻ:rómkor((H))" },
+	["Horobetsu"]	= { "エピッチェ:epítce", "エトントネ:'etóntone", "カㇷ゚ケ:kápke (面と向かって悪く言う時)", "ケㇷ゚ネ:képne", "エトイ:'etóy", "ロㇺコㇿ:rómkor((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -34,10 +34,10 @@ export.syns = {
 	["Yakumo"]	= { "エフレ:ehúre, sapahúre", "カㇷ゚ケ:kápke, 'erúsne, 'eképne [悪]《丸はげ》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ケㇷ゚ネ:képne", "エピッチェ:'epítce 《はげ》", "ユㇰケㇻコㇻ:yúkker kor 《はげ上がっている》((H))" },
+	["Asahikawa"]	= { "ケㇷ゚ネ:képne", "エピッチェ:'epítce 《はげ》", "ユㇰケㇾコㇿ:yúkker kor 《はげ上がっている》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "トントネ:tóntone,'etóntone,'etóy", "ケㇷ゚ネ:képne《ところどころはげている》", "ロㇺコㇻ:rómkor《うすはげ》", "エピッチェ:'epítce[悪]", "エカㇷ゚ケ:'ekápke[悪]((H))" },
-	["Soya"]	= { "ケㇷ゚ネ:képne", "ロンコㇻ:rónkor(?)((H))" },
+	["Nayoro"]	= { "トントネ:tóntone,'etóntone,'etóy", "ケㇷ゚ネ:képne《ところどころはげている》", "ロㇺコㇿ:rómkor《うすはげ》", "エピッチェ:'epítce[悪]", "エカㇷ゚ケ:'ekápke[悪]((H))" },
+	["Soya"]	= { "ケㇷ゚ネ:képne", "ロンコㇿ:rónkor(?)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "リサラ:risara [自]", "サパエウェン:sapa'ewen[自]《方々はげている》", "オラアピㇱテㇵロンコロ:'oraapisteh ronkoro《丸はげ》", "リサラトンピ:risaratonpi《小さいはげ》((H))" },
+	["Raichishka"]	= { "リサラ:risara [自]", "サパエウェン:sapa'ewen[自]《方々はげている》", "オラアピㇱテㇸロンコロ:'oraapisteh ronkoro《丸はげ》", "リサラトンピ:risaratonpi《小さいはげ》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

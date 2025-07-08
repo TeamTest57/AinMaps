@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ウタリ:utarí《同朋》", "イㇻワクタㇻ:'írwak 'utár", "アパ:'apá,(-há)", "イㇻコㇻペ:'írkorpe((H))" },
+	["Yakumo"]	= { "ウタリ:utarí《同朋》", "イㇼワクタㇻ:'írwak 'utár", "アパ:'apá,(-há)", "イㇼコㇿペ:'írkorpe((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ウタㇻ:utar《同族, 同じ部落の人》", "アイシラㇺコレクㇻ:'aysíramkore kur《遠くにいる知人》((H))" },
+	["Asahikawa"]	= { "ウタㇻ:utar《同族, 同じ部落の人》", "アイシラㇺコレクㇽ:'aysíramkore kur《遠くにいる知人》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ウタリ:utári", "アパウタリ:'apá 'utari", "シラㇺコレウタリ:sirámkore 'utári((H))" },
-	["Soya"]	= { "ウタリ:utári, -hi", "アパウタリ:'apá'utari", "イカッコㇻ:'ikátkor《同じ姿をしている》((H))" },
+	["Soya"]	= { "ウタリ:utári, -hi", "アパウタリ:'apá'utari", "イカッコㇿ:'ikátkor《同じ姿をしている》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "エユㇵペウタリケヘ:eyuhpe'utarikehe", "シランコレウタㇵ:sirankore 'utah((H))" },
+	["Raichishka"]	= { "エユㇷペウタリケヘ:eyuhpe'utarikehe", "シランコレウタㇵ:sirankore 'utah((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

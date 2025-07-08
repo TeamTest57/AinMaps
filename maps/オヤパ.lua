@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "オヤパ:oyápa", "アシㇻパアウㇰヤクン:'asírpa 'a'úk yakun 《年が変われば》((H))" },
+	["Saru"]	= { "オヤパ:oyápa", "アシㇼパアウㇰヤクン:'asírpa 'a'úk yakun 《年が変われば》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -36,8 +36,8 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "オヤパ:oyápa((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "オヤパ:oyápa", "アシㇻパ:'asírpa [新]((H))" },
-	["Soya"]	= { "エヤシㇻパ:eyásirpa", "オヤパ:'oyápa((H))" },
+	["Nayoro"]	= { "オヤパ:oyápa", "アシㇼパ:'asírpa [新]((H))" },
+	["Soya"]	= { "エヤシㇼパ:eyásirpa", "オヤパ:'oyápa((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "テㇵクチケ:tehkuci(ke, -he)((H))" },
+	["Raichishka"]	= { "テㇸクチケ:tehkuci(ke, -he)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "モシㇱペ:mosispe(手首),ték-ahkučih(手くび、腕関節部),teh-kučih(手首。)((CW))" },
-	["Shiraura"]	= { "テㇵクチ:tehkuci", "テㇵクチキ:tehkuciki", "テカㇵクチ:tekahkuci", "テカㇵクチキ:tekahkuciki((C3))" },
+	["Shiraura"]	= { "テㇸクチ:tehkuci", "テㇸクチキ:tehkuciki", "テカㇵクチ:tekahkuci", "テカㇵクチキ:tekahkuciki((C3))" },
 	["Taraika"]	= { "テㇰクチ:tekkuci((C3))" },
 	["Tonnai"]	= { "テカㇵクチ:tekahkuci", "テカㇵクチキ:tekahkuciki((C3))" },
 	["Yamambetsu"]	= { "" },

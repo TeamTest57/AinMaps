@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "マウソㇵ:mawsoh, -kihi((H))" },
+	["Raichishka"]	= { "マウソㇹ:mawsoh, -kihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -77,8 +77,8 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "マイスㇵ:máisuh(欠伸する)((CW))" },
-	["Shiraura"]	= { "マウスㇵ:mawsuh(k-an)((C3))" },
+	["Shirahama"]	= { "マイスㇷ:máisuh(欠伸する)((CW))" },
+	["Shiraura"]	= { "マウスㇷ:mawsuh(k-an)((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "エヤコマウㇱヒケ:eyakomaushike (140)((H))", "エマウイアㇰ:e=mau=giak(あくび)", "イマウサㇰエン:i=mawsak=en(あくび)", "マウサㇰエン:mawsak=en(私はあくびをする)((V))" },
+	["Shumshu"]	= { "エヤコマウシケ:eyakomaushike (140)((H))", "エマウイアㇰ:e=mau=giak(あくび)", "イマウサㇰエン:i=mawsak=en(あくび)", "マウサㇰエン:mawsak=en(私はあくびをする)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

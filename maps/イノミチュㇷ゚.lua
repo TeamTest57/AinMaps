@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "イノミチュㇷ゚:inómicup 《1 月》", "アシㇻパ:'asírpa 《新年》((H))" },
+	["Saru"]	= { "イノミチュㇷ゚:inómicup 《1 月》", "アシㇼパ:'asírpa 《新年》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "イノミチュㇷ゚:inomicup(?)", "アシㇻパ:'asirpa 《新年》((H))" },
+	["Bihoro"]	= { "イノミチュㇷ゚:inomicup(?)", "アシㇼパ:'asirpa 《新年》((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ルウチュㇵ:ruucuh (日本の 2 月に当たる)((H))" },
+	["Raichishka"]	= { "ルウチュㇷ:ruucuh (日本の 2 月に当たる)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "アㇱヒヌエキチュㇷ゚:ashinueki chup(133)((H))", "ヒヨロプ:chiyoropu(一月)((M1892))" },
+	["Shumshu"]	= { "アシヌエキチュㇷ゚:ashinueki chup(133)((H))", "ヒヨロプ:chiyoropu(一月)((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

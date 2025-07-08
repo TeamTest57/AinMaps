@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "カパㇻペン:kapar pen(沼の水)", "カパㇻㇷ゚ソイ:kaparpsoy(水たまり)", "オプㇻシ:opursi(沼地)((V))" },
+	["Shumshu"]	= { "カパㇻペン:kapar pen(沼の水)", "カパㇻㇷ゚ソイ:kaparpsoy(水たまり)", "オプㇽシ:opursi(沼地)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

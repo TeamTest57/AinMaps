@@ -67,9 +67,9 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ラㇵ:rah, -puhu", "モㇵラㇵ:mohrah, -puhu((H))" },
+	["Raichishka"]	= { "ラㇵ:rah, -puhu", "モㇹラㇵ:mohrah, -puhu((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "イトムㇱポニ:itomusponi", "ノㇵケウモㇵラㇵ:nohkewmohrah(p-u)", "オチョㇵチョㇵ:ocohcoh", "サネコㇵ:sanekoh(p-i)((C3))" },
+	["Tarantomari"]	= { "イトムㇱポニ:itomusponi", "ノㇹケウモㇹラㇵ:nohkewmohrah(p-u)", "オチョㇹチョㇹ:ocohcoh", "サネコㇹ:sanekoh(p-i)((C3))" },
 	["Usoro"]	= { "アカウㇱポニ:akausponi", "アクㇱポニ:akusponi((C3))" },
 
 	-- Sakhalin: East Coast
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "アカウㇱポニ:akausponi", "アクㇱポニ:akusponi", "ホトㇵ:hotoh(k-i)", "モㇵラㇵポニ:mohrahponi", "サラクㇵ:sarakuh(p-i)", "タカㇺパラ:takampara((C3))" },
+	["Shiraura"]	= { "アカウㇱポニ:akausponi", "アクㇱポニ:akusponi", "ホトㇹ:hotoh(k-i)", "モㇹラㇵポニ:mohrahponi", "サラクㇷ:sarakuh(p-i)", "タカㇺパラ:takampara((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

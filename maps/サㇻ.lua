@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "サㇻ:sár((HC))", "オイシ:'o'ísi(鳥の)", "アㇰクチ:'ákkuci(魚の)((H))" },
 	["Chikabumi"]	= { "オイㇱ:ois(-i)((C3))" },
 	["Nayoro"]	= { "サㇻ:sár((HC))", "アッコチケ:'átkocike(魚の)", "オイシ:'o'ísi(鳥の)((H))" },
-	["Soya"]	= { "サㇻ:sár((HC))", "サレンココㇻ:sár'énkokor(短い)", "サㇻルクㇺコㇻ:sár rukumkor('')", "アㇰコッ:'akkót, -cihi(魚の)" },
+	["Soya"]	= { "サㇻ:sár((HC))", "サレンココㇿ:sár'énkokor(短い)", "サㇻルクㇺコㇿ:sár rukumkor('')", "アㇰコッ:'akkót, -cihi(魚の)" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -66,8 +66,8 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "オㇵチャラ:'ohcara((HC))" },
-	["Raichishka"]	= { "オㇵチャラ:ohcara, -ha~-ihi [丁](獣の)", "サラクㇵ:sarakuh, -pihi(魚の)((H))" },
+	["Maoka"]	= { "オㇹチャラ:'ohcara((HC))" },
+	["Raichishka"]	= { "オㇹチャラ:ohcara, -ha~-ihi [丁](獣の)", "サラクㇷ:sarakuh, -pihi(魚の)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "オッチャラ:'otcara((HC))" },
 	["Usoro"]	= { "" },
@@ -76,9 +76,9 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "オッチャラ:'otcara((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "オㇵチャラ:'ohcara((HC))" },
-	["Shirahama"]	= { "オㇵチャラ:óhčara(尾)((CW))" },
-	["Shiraura"]	= { "オㇵチャラ:'ohcara((HC))" },
+	["Ochiho"]	= { "オㇹチャラ:'ohcara((HC))" },
+	["Shirahama"]	= { "オㇹチャラ:óhčara(尾)((CW))" },
+	["Shiraura"]	= { "オㇹチャラ:'ohcara((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

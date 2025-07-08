@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "フンペ:húnpe", "ノコㇻフンペ:nokór húnpe (大きい)((H))" },
+	["Yakumo"]	= { "フンペ:húnpe", "ノコㇿフンペ:nokór húnpe (大きい)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
@@ -66,7 +66,7 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "クㇵタルㇺペ:kuhtarumpe((C2))" },
+	["Maoka"]	= { "クㇷタルㇺペ:kuhtarumpe((C2))" },
 	["Raichishka"]	= { "フンペ:hunpe((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "フタルㇺペ:hutarumpe((C2))" },
@@ -78,7 +78,7 @@ export.syns = {
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "クㇵタルㇺペ:kuhtarumpe((C2))" },
+	["Shiraura"]	= { "クㇷタルㇺペ:kuhtarumpe((C2))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

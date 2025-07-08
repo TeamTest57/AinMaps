@@ -66,8 +66,8 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "トゥヨロㇵ:tuyoroh,ramoro(腸)((HC))" },
-	["Raichishka"]	= { "トゥヨロㇵ:tuyoroh,cuporoh[老]((HC))" },
+	["Maoka"]	= { "トゥヨロㇹ:tuyoroh,ramoro(腸)((HC))" },
+	["Raichishka"]	= { "トゥヨロㇹ:tuyoroh,cuporoh[老]((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "トゥヲロㇷ゚:tuworop,ramoro(腸)((HC))" },
 	["Usoro"]	= { "ハヌカ:hanuka", "シオトゥイラモロ:siotuyramoro", "トゥイヘチノイパ:tuyhecinoypa((C3))" },
@@ -77,8 +77,8 @@ export.syns = {
 	["Nairo"]	= { "ラモロ:ramoro((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "ラモロ:ramoro((HC))" },
-	["Shirahama"]	= { "チュポロㇵ:čúporoh(内臓),ramor(小腸),ramoro-kay(腸),tuy(腸)((CW))" },
-	["Shiraura"]	= { "チュポロㇵ:cuporoh,tuyoroh((HC))", "ハヌカ:hanuka", "モトゥイ:motuy(-he)", "ピセハヌカ:pisehanuka", "ラモロ:ramoro", "ラモロアラカ:ramoroaraka", "シオトゥイ:siotuy(-he)((C3))" },
+	["Shirahama"]	= { "チュポロㇹ:čúporoh(内臓),ramor(小腸),ramoro-kay(腸),tuy(腸)((CW))" },
+	["Shiraura"]	= { "チュポロㇹ:cuporoh,tuyoroh((HC))", "ハヌカ:hanuka", "モトゥイ:motuy(-he)", "ピセハヌカ:pisehanuka", "ラモロ:ramoro", "ラモロアラカ:ramoroaraka", "シオトゥイ:siotuy(-he)((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
