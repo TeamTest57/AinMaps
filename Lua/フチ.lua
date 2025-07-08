@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "old woman"
+export.gloss = "wife's mother"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "フチ:('ónne-)húci", "オンネマッ:'onnemat", "スッ:sut [雅]", "ルㇷ゚ネマッ:rúpnemat [雅]((H))" },
+	["Horobetsu"]	= { "シウトハポ:síwtohapo((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "フチ:('ónne-)húci, rúpnemat((H))", "オンネフチ:onnehuci", "ルㇷ゚ネマッ:rupnemat((C3))" },
+	["Saru"]	= { "マチヒウヌフ:macíhi 'unúhu", "ハポ:hápo《母》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "フッチ:hútci((H))" },
+	["Yakumo"]	= { "シウトフッチ:síwtohutci((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "フチ:húci((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "フチ:húci", "ルㇷ゚ネマッ:rúpnemat((H))" },
-	["Soya"]	= { "フチ:húci((H))" },
+	["Nayoro"]	= { "" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "フチ:huci((H))" },
+	["Bihoro"]	= { "マチトット:maci totto((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "フチ:huci(祖母、おばあさん、老女)((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "フチ:húci", "ルㇰネマッ:rúknemat((H))" },
+	["Obihiro"]	= { "" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "イコンノㇹ:ikonnoh((C3))" },
-	["Raichishka"]	= { "ルㇷネマㇵ:ruhne mah (50-60 歳)", "アㇵチ:'ahci (60-80 歳)", "スㇷ:suh, -cihi (90-100 歳)((H))" },
+	["Maoka"]	= { "" },
+	["Raichishka"]	= { "マㇵムンチリペ:mahmunciripe, -he((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "アㇵチ:ahci((C3))" },
+	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "アㇵチ:ahci((C3))" },
+	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "アㇵチ:ahci", "イコンノㇹ:ikonnoh((C3))" },
+	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ウナエ:unabe (姥 136)((H))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

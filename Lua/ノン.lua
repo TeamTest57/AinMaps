@@ -1,29 +1,29 @@
 local export = {}
 
-export.gloss = "saliva, spit"
+export.gloss = "slobber"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "ノン:nón((HC))" },
+	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ノン:nón((HC))" },
+	["Horobetsu"]	= { "ノン:nón, -í((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "ノン:nón((HC))" },
-	["Nukkibetsu"]	= { "ノン:nón((HC))" },
+	["Niikappu"]	= { "" },
+	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "ノン:nón((HC))" },
+	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ノン:nón, -í((H))" },
+	["Saru"]	= { "ノン:nón, -í", "エラックㇱ:'erátkus<<よだれをたらす>>((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ノン:nón((HC))" },
+	["Yakumo"]	= { "ノン:nón, -í((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ノン:nón((H))" },
+	["Asahikawa"]	= { "ノニ:noní((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ノン:nón((H))" },
-	["Soya"]	= { "ノン:nón((H))" },
+	["Nayoro"]	= { "ノン:\"nonだろう\"((H))" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -51,13 +51,13 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "ヌン:nun((HC))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "" },
+	["Nemuro"]	= { "トㇷ゚セ:topse(涎|[急に吹き出す])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ノン:nón((HC))" },
+	["Obihiro"]	= { "ノン:nón, -í((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "ノン:non((HC))" },
-	["Raichishka"]	= { "ノン:non, -ihi((H))" },
+	["Maoka"]	= { "" },
+	["Raichishka"]	= { "エノンクㇱ:enonkus[自]<<よだれをたらす>>((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ノン:non((HC))" },
+	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "ノン:non((HC))" },
+	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "ノ:noɴ((HC))" },
-	["Shirahama"]	= { "クルキ:kuruki(唾)((CW))" },
-	["Shiraura"]	= { "ノン:non((HC))" },
+	["Ochiho"]	= { "" },
+	["Shirahama"]	= { "ノン:nón(涎、よだれ)((CW))" },
+	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ハラエコロ:bharabekoro (唾140)((H))", "クㇱカパㇻ:kus=kapar[a?]《唾を吐く》((V))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

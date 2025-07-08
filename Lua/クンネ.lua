@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "night, nighttime"
+export.gloss = "black"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -55,7 +55,7 @@ export.syns = {
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "アンチカㇻ:ancikar(夜|[夜に星があるだけ])((F2016))" },
+	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
 	["Obihiro"]	= { "クンネ:kúnne((HC))" },
 	["Otofuke"]	= { "" },
@@ -67,18 +67,18 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "クンネ:kunne((HC))" },
-	["Raichishka"]	= { "ウクラン:'ukuran, kunne((HC))" },
+	["Raichishka"]	= { "クラㇱノ:kurasno((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "クンネ:kunne((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "クンネ:kunne((HC))" },
+	["Nairo"]	= { "クラㇱノ:kurasno((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "クネ:kuɴne((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "クンネ:kunne((HC))" },
+	["Shiraura"]	= { "クラㇱノ:kurasno((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

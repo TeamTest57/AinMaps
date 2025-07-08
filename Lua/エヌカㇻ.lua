@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to be blunt; dull"
+export.gloss = "to be dull(-edged) : a dull knife"
 
 export.syns = {
 	-- Hokkaido: Southern/Central

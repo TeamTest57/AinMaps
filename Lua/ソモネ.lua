@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "not : This is not a dog."
+export.gloss = "I will not go."
 
 export.syns = {
 	-- Hokkaido: Southern/Central

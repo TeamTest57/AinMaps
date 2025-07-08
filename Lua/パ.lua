@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "steam"
+export.gloss = "age"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "パ:pá, (-ha)((H))" },
+	["Horobetsu"]	= { "パ:pá((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "パ:pá, (-ha)((H))" },
+	["Saru"]	= { "パ:pá, (-ha)", "エパハヘンパㇰパアン:'epáha hénpakpa 'án? 《お前の年はいくつか》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,30 +34,30 @@ export.syns = {
 	["Yakumo"]	= { "パ:pá, (-ha)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "パリラ:párira" },
+	["Asahikawa"]	= { "パ:pá, (-ha)", "エパハネㇷ゚カネワネイパケパアナ:'epáha népka ne wa? ～néypak 'epá 'aná? 《お前の年はいくつか》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "パㇻ:('úsey-)par", "パリㇼ:párir(少し出ている)((H))" },
-	["Soya"]	= { "パ:pá((H))" },
+	["Nayoro"]	= { "パ:pá((H))" },
+	["Soya"]	= { "シネパポロ:sinepa poro, tupa poro と数える((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "パリㇼ:parir((H))" },
+	["Bihoro"]	= { "パ:pa((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "" },
+	["Kushiro"]	= { "パ:pa(年、年齢),pakorkur(年をとった人)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "パリリ:pariri《気|[息が立ちのぼる]》((F2016))" },
+	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "パリㇼ:párir((H))" },
+	["Obihiro"]	= { "パ:pá, (-ha)((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "セエセㇸマウ:seesehmaw((H))" },
+	["Raichishka"]	= { "パア:paa", "エパアハヘンパㇵノエアニヒ:'epaaha henpahno 'e'anihi? 《お前の年はいくつか》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "サシケネ:sashikene《濕》", "リカㇺマウ:rikammau《濕気》((M1892))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

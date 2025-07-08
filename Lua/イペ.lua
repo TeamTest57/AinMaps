@@ -1,29 +1,29 @@
 local export = {}
 
-export.gloss = "meal"
+export.gloss = "to eat"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "" },
+	["Biratori"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "イペ:ipé((H))" },
+	["Horobetsu"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "" },
-	["Nukkibetsu"]	= { "" },
+	["Niikappu"]	= { "イペ:'ipé[自]((HC))" },
+	["Nukkibetsu"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "" },
+	["Oshamambe"]	= { "エ:'é[他]((HC))" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "" },
-	["Saru"]	= { "イペ:ipé((H))" },
+	["Samani"]	= { "エ:'é[他]((HC))" },
+	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "イペ:ipé((H))" },
+	["Yakumo"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "イペ:ipé((H))" },
+	["Asahikawa"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "イペ:ipé((H))" },
-	["Soya"]	= { "イペ:ipé((H))" },
+	["Nayoro"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
+	["Soya"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "イペ:ipe((H))" },
+	["Bihoro"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "" },
+	["Kushiro"]	= { "イペ:'ipé[自], 'é[他]((HC))", "エ:e(･･･を食べる)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "イペ:ipé((H))" },
+	["Obihiro"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "" },
-	["Raichishka"]	= { "イペ:ipe((H))" },
+	["Maoka"]	= { "イペ:'ipé[自], 'ee[他]((HC))" },
+	["Raichishka"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "" },
+	["Tarantomari"]	= { "イペ:'ipé[自]((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "" },
+	["Nairo"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "" },
+	["Ochiho"]	= { "イペ:'ipé[自]((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "" },
+	["Shiraura"]	= { "イペ:'ipé[自], 'é[他]((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "コニペ:kon ipe《食え》((BS))", "イㇷ゚イ:i=p=i(食べる)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to wake up, to awake [intr.]"
+export.gloss = "fly"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -11,8 +11,8 @@ export.syns = {
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
-	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "モㇱ:mós((H))" },
+	["Hobetsu"]	= { "ピチㇼペ:picirpe((C2))" },
+	["Horobetsu"]	= { "モㇱ:mós((H))", "ピチㇼペ:picirpe((C2))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "モㇱ:mós[自]((H))" },
+	["Saru"]	= { "ムㇱ:mús((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "モㇱ:mós((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "モㇱ:mós((H))" },
-	["Soya"]	= { "モㇱ:mós((H))" },
+	["Soya"]	= { "モㇱシ:mossí((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -51,7 +51,7 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "モㇱ:mos(目が覚める、目を覚ます)((K2021))" },
+	["Kushiro"]	= { "モㇱ:mos(ハエ)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "" },
-	["Raichishka"]	= { "モㇱ:mos[自]((H))" },
+	["Maoka"]	= { "オトゥムㇱ:otum(m)us(u)((C2))" },
+	["Raichishka"]	= { "トオムㇱ:toomus, -ihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "" },
+	["Usoro"]	= { "モソㇱペ:mosospe((C2))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "" },
-	["Niitoi"]	= { "" },
+	["Niitoi"]	= { "モㇱ:mos", "オトㇺムㇱ:otommus((C2))" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "モナㇱ:mónas《醒めてゐる、おきてる》((CW))" },
-	["Shiraura"]	= { "" },
+	["Shirahama"]	= { "" },
+	["Shiraura"]	= { "トモㇱ:tomos((C2))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

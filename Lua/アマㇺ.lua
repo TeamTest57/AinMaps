@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "grain"
+export.gloss = "rice-plant"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "アマㇺ:amám((H))" },
+	["Horobetsu"]	= { "シアマㇺ:siamam", "トノアマㇺ:tonoamam", "ワㇻ:war((C1))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "アマㇺ:amám（米・稲, 粟, 稗）((H))" },
+	["Saru"]	= { "シヤマㇺ:siyámam((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,27 +31,27 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "アマㇺ:'amam《米, 飯》", "トイハル:tóyharu《貯えてある作物》((H))" },
+	["Yakumo"]	= { "シヤマㇺ:siyamám((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "アマㇺ:amám（H）((H))" },
+	["Asahikawa"]	= { "シアマㇺ:si'ámam((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "" },
-	["Soya"]	= { "アマㇺ:'amámは《米》((H))" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "アマㇺ:'amamは《米》((H))" },
+	["Bihoro"]	= { "アマㇺ:amam((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "アマㇺ:amam(米穀物ごはん)((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ウサオカイペ:usa'oka 'ipe((H))" },
+	["Raichishka"]	= { "" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

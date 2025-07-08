@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "daughter-in-law"
+export.gloss = "elder brother's wife"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "コㇱマッ:kósmat, -ci((H))" },
+	["Yakumo"]	= { "サハ:sáha", "ユポウサㇻケ:yúpo 'usárke", "ユポマチ:yúpo mací", "ユポコㇱマッ:yúpo kósmat((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "コㇱマッ:kósmat, -ci(hi)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "コㇱマッ:kósmat((H))" },
-	["Soya"]	= { "コㇱマッ:kósmat, -cihi((H))" },
+	["Soya"]	= { "コㇱマッ:kósmat, -cihi(弟のでも子供のでもすべて「よめ」)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -51,7 +51,7 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "コㇱマチ:kosmaci(･･･の嫁),kosmat(嫁)((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "コㇱマㇵ:kosmah, -cihi((H))" },
+	["Raichishka"]	= { "コㇱマㇵ:(haciko) kosmah,-cihi《弟のよめ》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "アナンエマッ:anan=de=mat(花嫁)((V))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

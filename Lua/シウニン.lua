@@ -1,18 +1,18 @@
 local export = {}
 
-export.gloss = "yellow"
+export.gloss = "green or blue"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "シウニン:{síwnin, húre}((HC))" },
+	["Biratori"]	= { "シウニン:síwnin((HC))" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "シケㇾペプㇱ:sikérpepus((HC))" },
+	["Horobetsu"]	= { "シウニン:síwnin((HC))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -20,7 +20,7 @@ export.syns = {
 	["Niikappu"]	= { "シウニン:síwnin((HC))" },
 	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "" },
+	["Oshamambe"]	= { "シウニン:síwnin((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "シウニン:síwnin((HC))" },
 	["Saru"]	= { "" },
@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "シウニン:síwnin((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "" },
+	["Nayoro"]	= { "シウニン:síwnin((HC))" },
 	["Soya"]	= { "シウニン:síwnin((HC))" },
 	["Teshio"]	= { "" },
 
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "スイニン:{suynin, hure}((HC))" },
+	["Bihoro"]	= { "スイニン:suynin((HC))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "シウニン:{síwnin, húre}((HC))" },
+	["Obihiro"]	= { "シウニン:síwnin((HC))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -76,7 +76,7 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "シウニン:siwnin((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "シウニ:siwniɴ((HC))" },
+	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "シウニン:siwnin((HC))" },
 	["Taraika"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "カニㇷ゚スㇱ:kani=psus(黄色 )", "シロカネ:siro=kane(黄色 )((V))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

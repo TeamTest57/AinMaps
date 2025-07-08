@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to put on (trousers or shoes)"
+export.gloss = "to go out, to die out"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ウㇱ:ús[他]((H))" },
+	["Saru"]	= { "ウㇱ:ús [自]((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ウㇱ:ús[他]((H))" },
+	["Yakumo"]	= { "ウㇱ:ús((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ウㇱ:ús((H))" },
@@ -44,20 +44,20 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ウㇱ:us((H))" },
+	["Bihoro"]	= { "ウㇱ:us [自]((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "" },
+	["Kushiro"]	= { "イミンピ:iminpi(消滅)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ウㇱ:ús((H))" },
+	["Obihiro"]	= { "ウㇱ:ús [自]((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ウㇱ:us[他]((H))" },
+	["Raichishka"]	= { "ウㇱ:us [自]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

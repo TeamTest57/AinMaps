@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "evening, twilight"
+export.gloss = "evening, night"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "オヌマン:onúman", "トケㇱ:tókes((H))" },
+	["Saru"]	= { "オヌマン:onúman((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,31 +31,31 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "オヌマン:onúman((H))" },
+	["Yakumo"]	= { "クンネ:kúnne((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "トケサン:tókes 'an(3-6 時)", "オヌマン:'onúman((H))" },
+	["Asahikawa"]	= { "オヌマン:onúman((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オヌマン:onúman((H))" },
-	["Soya"]	= { "オヌマン:onúman((H))" },
+	["Soya"]	= { "オホラナㇱ:ohór'anas((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "トケㇱ:toˑkes((H))" },
+	["Bihoro"]	= { "オヌマン:onuman((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "オヌマン:onuman(夕方、晚方)((K2021))" },
+	["Kushiro"]	= { "オクラン:okuran(夕べ、晩、夜)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "シロヌマン:sir'onuman(夕方|[世界、地の暮れ方]),tokes(晚方|[日の末])((F2016))" },
+	["Nemuro"]	= { "ウクラン:ukuran(夜来|[越した晩])((F2016))" },
 	["Nijibetsu"]	= { "" },
 	["Obihiro"]	= { "オヌマン:onúman((H))" },
 	["Otofuke"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "オヌウマン:onuuman (tookes のあと)((H))" },
+	["Raichishka"]	= { "クンネ:kunne (夜半迄)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "オヌマナン:onumanan (夕134)((H))", "オヌマン:o=numan(夕方)((V))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

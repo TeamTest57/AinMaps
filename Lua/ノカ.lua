@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "picture, drawing"
+export.gloss = "form, shape"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ノカ:noká, (-ha)((H))" },
+	["Horobetsu"]	= { "ノカ:noká((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -31,27 +31,27 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ノカ:noká, (-há)((H))" },
+	["Yakumo"]	= { "ノカ:noká, (-há)", "カッ:kát, -ú 《姿》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ノカ:noká((H))" },
+	["Asahikawa"]	= { "ノカ:noká, (-ha)", "ク:kúɾ, -íhi((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ノカ:noká((H))" },
-	["Soya"]	= { "" },
+	["Soya"]	= { "ノカ:noká, -ha((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ノカ:nokaは<<形>>((H))" },
+	["Bihoro"]	= { "ノカ:noka((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "" },
+	["Kushiro"]	= { "ノカ:noka(形、像),nokapo(形、像),sirka((人の)姿・形)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ノカ:noka((H))" },
+	["Raichishka"]	= { "ノカ:noka (物の)", "カトゥフ:katuhu (体の恰好)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

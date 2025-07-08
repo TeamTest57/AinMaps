@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "in : It is made in Japan."
+export.gloss = "in : It is in Japan."
 
 export.syns = {
 	-- Hokkaido: Southern/Central

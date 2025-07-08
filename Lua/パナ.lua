@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "dust, dirt"
+export.gloss = "dust"
 
 export.syns = {
 	-- Hokkaido: Southern/Central

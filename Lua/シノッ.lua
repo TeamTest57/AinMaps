@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to play"
+export.gloss = "game, playing"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "シノッ:sinót [自]((H))" },
+	["Saru"]	= { "シノッ:sinót((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "シノッ:sinót((H))" },
+	["Yakumo"]	= { "シノッ:sinót", "ヘチリ:hecíri は《輪になって踊る》((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "シノッ:sinót((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "シノッ:sinót((H))" },
-	["Soya"]	= { "シノッ:sinót((H))" },
+	["Soya"]	= { "シノッ:sinót", "ヘチレ:hecíre は《熊踊り》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -51,7 +51,7 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "コシネウェ:kosinewe(･･･に遊びに行く),usinot(ともに遊ぶ)((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ヘチレ:hecire [自]((H))" },
+	["Raichishka"]	= { "ヘチレ:hecire", "シノㇹ:sinoh は《熊がおりの中で繰り返し歩く》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "シノッアイェル:sinot=ayeru(遊ぶ)", "シノッエリチ:sinot=erici(彼らは遊ぶ)((V))" },
+	["Shumshu"]	= { "シノッ:sinot《演劇》((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "shoulder"
+export.gloss = "collarbone, clavicle"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "タㇷ゚スッ:tápsut, -u((H))" },
+	["Horobetsu"]	= { "クケウ:kúkew, -e((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "タㇷ゚スッ:tápsut, -u((H))", "メリッ:merit((C3))" },
+	["Saru"]	= { "クケウ:kúkew, -e((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "クケウ:kúkew, -e", "タㇷ゚:táp((H))" },
+	["Yakumo"]	= { "ニンケウポネ:nínkewpone((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "クケウェ:kúkewe((H))" },
+	["Asahikawa"]	= { "イトゥラポネ:itúra poné((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "クケウ:kúkew, -e((H))", "タクㇷ゚:takup(-i)((C3))" },
-	["Soya"]	= { "タㇷ゚ケㇾケウ:tapkérkew, -ehe((H))" },
+	["Nayoro"]	= { "" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "クケウ:kukew, -e((H))" },
+	["Bihoro"]	= { "ムッチャㇻポネ:mutcarpone((H))", "クケウ:kukew(-e((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "タㇷ゚:tap(腕、肩),tapsutu(肩(かた))((K2021))" },
-	["Kussharo"]	= { "タプトゥㇽ:taputur(-u)((C3))" },
+	["Kushiro"]	= { "" },
+	["Kussharo"]	= { "クケウ:kukew(-e((C3))" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "タㇷ゚スㇱ:tapsus, -u?(肩|[取った物を担ぐ])((F2016))" },
+	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "クケウ:kúkew, -e((H))" },
+	["Obihiro"]	= { "イカポネ:íkapone((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,10 +66,10 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "" },
-	["Raichishka"]	= { "タクㇷ:takuh, -pihi((H))" },
+	["Maoka"]	= { "クケウポニ:kukewponi((C3))" },
+	["Raichishka"]	= { "タラㇵポニ:tarahponi, -hi((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "" },
+	["Tarantomari"]	= { "クケウポニ:kukewponi((C3))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
@@ -77,9 +77,9 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "タペラ:tapera(肩)((CW))" },
-	["Shiraura"]	= { "" },
-	["Taraika"]	= { "タㇷ゚スッ:tapsut(-u)((C3))" },
+	["Shirahama"]	= { "クケウ:ku-kew(鎖骨)((CW))" },
+	["Shiraura"]	= { "クケウ:kukew(-e((C3))" },
+	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
 

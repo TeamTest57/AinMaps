@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "government"
+export.gloss = "desert"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "クハイソ:kuháyso<<役所>>((H))" },
+	["Yakumo"]	= { "" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
@@ -55,7 +55,7 @@ export.syns = {
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "エントカムイ:Ento kamuy《公儀》((F2016))" },
+	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
 	["Obihiro"]	= { "" },
 	["Otofuke"]	= { "" },

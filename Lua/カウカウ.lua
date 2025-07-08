@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "sleet"
+export.gloss = "hail"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "カウカウ:káwkaw((H))" },
+	["Horobetsu"]	= { "ヌムㇱヌカウカウ:numúsnu káwkaw((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "カウカウ:káwkaw", "アㇱ:„ 'ás 《„が降る》((H))" },
+	["Saru"]	= { "コンル:kónru", "コンルラパㇷ゚セ:kónru rapápse 《雹が降る》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "カウカウ:(kónru) káwkaw", "アㇱ:„ 'ás 《„が降る》((H))" },
+	["Yakumo"]	= { "ルㇰネカウカウ:rúkne káwkaw", "ヌムㇱカウカウ:numús káwkaw", "ヌミルㇰネカウカウ:numí rúkne káwkaw((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "カウカウ:káwkaw((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "カウカウ:káwkaw((H))" },
-	["Soya"]	= { "カウカウ:káwkaw((H))" },
+	["Nayoro"]	= { "ヌムㇱカウカウ:numúskawkaw", "ポロカウカウ:porókawkaw((H))" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -51,13 +51,13 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "カウカウ:kawkaw(あられ),numnu-kawkaw(大粒のあられ)((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "カウカウ:kawkaw(あられ|[丸くころがる])((F2016))" },
+	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ピネウパㇱ:píne 'upas((H))" },
+	["Obihiro"]	= { "コンル:kónru", "コンルルイ:kónru rúy 《雹が降る》((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ルパイ:(pon-)rupay", "ハチコルパイ:hacikorupay((H))" },
+	["Raichishka"]	= { "ルパイ:(ruh-)rupay((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "アウアウ:gaugau(霰)((M1892))" },
+	["Shumshu"]	= { "ウアシユル:ubashiyuru (130)((H))", "ペソス:pesosu(雹)((M1892))", "カカウ:kakaw(雹)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "dripping from the nose"
+export.gloss = "nosebleed"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -55,7 +55,7 @@ export.syns = {
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "エトゥラワㇰカ:eturawakka(鼻汁(水)|[鼻水])((F2016))" },
+	["Nemuro"]	= { "エトゥケㇺ:etukem(鼻血|[出て顕わになり体が解る?])((F2016))" },
 	["Nijibetsu"]	= { "" },
 	["Obihiro"]	= { "エトゥペ:etúpe((H))" },
 	["Otofuke"]	= { "" },
@@ -77,7 +77,7 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "エスㇺ:esúm(鼻汁),etu-pe(水様鼻汁、水ばな),etu-waśka(水様鼻汁、水ばな)((CW))" },
+	["Shirahama"]	= { "エトゥケㇺ:etu-kem(鼻出血、はなぢ)((CW))" },
 	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },

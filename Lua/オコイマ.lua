@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to urinate"
+export.gloss = "urine"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "オクイマ:okúyma [自]", "ハンケア:hánke'a [自][良]((H))" },
+	["Saru"]	= { "クイワㇰカ:kúywakka((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "オソイネ:osóyne", "オクイマ:'okúyma((H))" },
+	["Yakumo"]	= { "クイ:kúy, -e((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "オコイマ:okóyma((H))" },
+	["Asahikawa"]	= { "シシ:sísi((H))" },
 	["Chikabumi"]	= { "オクイマ:okuyma(-an)((C3))" },
-	["Nayoro"]	= { "オコイマ:okóyma((H))" },
+	["Nayoro"]	= { "クイワㇰカ:kúywakka", "シシ:sísi [児]((H))" },
 	["Soya"]	= { "オコイマ:okóyma((H))" },
 	["Teshio"]	= { "" },
 
@@ -44,20 +44,20 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ヤイコシネカ:yaykosineka((H))", "オコイマ:okoyma(-an)((C3))" },
+	["Bihoro"]	= { "オコイマ:okoyma(-an)((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "オコイマ:okoyma(-an)((C3))" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "オコイマ:okoyma(小便する)((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "オコイマ:okoyma(-an)((C3))" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "" },
+	["Nemuro"]	= { "オコイマオクイマ:okoyma/okuyma(小便|[前に向かって続き出る])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "オクイマ:okúyma((H))" },
+	["Obihiro"]	= { "" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "オコイセ:okoyse [自]((H))" },
+	["Raichishka"]	= { "オンクイ:onkuy, -ehe((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -77,7 +77,7 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "" },
+	["Shirahama"]	= { "アモコイマ:amokoyma(夜尿症、寝小便※),ihoške(尿),kuy(小便),okoyma(小便)((CW))" },
 	["Shiraura"]	= { "オコイマ:okoyma(-an)((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "クイ:kuy《尿》((V))" },
+	["Shumshu"]	= { "クイ:kuy(尿)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
