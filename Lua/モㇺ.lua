@@ -66,7 +66,7 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "モ:moɴ((HC))" },
+	["Maoka"]	= { "モン:moɴ((HC))" },
 	["Raichishka"]	= { "モㇺ:mom((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "モㇺ:mom((HC))" },
@@ -76,7 +76,7 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "モㇺ:mom((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "モ:moɴ((HC))" },
+	["Ochiho"]	= { "モン:moɴ((HC))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "モㇺ:mom((HC))" },
 	["Taraika"]	= { "" },

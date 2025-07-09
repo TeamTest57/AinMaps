@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to be correct, to be right"
+export.gloss = "to be good"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -22,7 +22,7 @@ export.syns = {
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "ピㇼカ:pírka((HC))" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "" },
+	["Samani"]	= { "ピㇼカ:pírka((HC))" },
 	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
@@ -51,11 +51,11 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "" },
+	["Kushiro"]	= { "ピㇼカ:pírka((HC))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "" },
+	["Nemuro"]	= { "キロロピㇼカ:kiroropirka《本腹|[心持ちが良い]》((F2016))" },
 	["Nijibetsu"]	= { "" },
 	["Obihiro"]	= { "ピㇼカ:pírka((HC))" },
 	["Otofuke"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "カㇻ:kar(正しい)", "カㇻカㇻ:kar=kar(正しい)((V))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

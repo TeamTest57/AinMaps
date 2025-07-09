@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "teakettle"
+export.gloss = "iron pot [to cook rice]"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "" },
+	["Horobetsu"]	= { "カマ:kamá((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "カマ:kamá《鉄びん》", "エトゥヌㇷ゚:'etúnup《片口》((H))" },
+	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "カマ:kamá", "ユント:yúnto《塗りの大きなきゅうす》(酒を注ぐ)((H))" },
+	["Yakumo"]	= { "カマ:kamá((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ヤカン:yakán[日本語]((H))" },
+	["Obihiro"]	= { "カマ:kamá [日本語]((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "カマ:kama《やかん, どびん, きゅうす》((H))" },
+	["Raichishka"]	= { "スウ:suu, -wehe((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

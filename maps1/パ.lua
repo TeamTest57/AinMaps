@@ -1,0 +1,96 @@
+local export = {}
+
+export.gloss = "steam"
+
+export.syns = {
+	-- Hokkaido: Southern/Central
+	["Abuta"]	= { "" },
+	["Azuma"]	= { "" },
+	["Biratori"]	= { "" },
+	["Chitose"]	= { "" },
+	["Ebeotsu"]	= { "" },
+	["Hagino"]	= { "" },
+	["Hidaka"]	= { "" },
+	["Hobetsu"]	= { "" },
+	["Horobetsu"]	= { "パ:pá, (-ha)((H))" },
+	["Horoman"]	= { "" },
+	["Mitsuishi"]	= { "" },
+	["Mukawa"]	= { "" },
+	["Muroran"]	= { "" },
+	["Niikappu"]	= { "" },
+	["Nukkibetsu"]	= { "" },
+	["Ogifushi"]	= { "" },
+	["Oshamambe"]	= { "" },
+	["Rebun"]	= { "" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "パ:pá, (-ha)((H))" },
+	["Shiraoi"]	= { "" },
+	["Shizunai"]	= { "" },
+	["Takae"]	= { "" },
+	["Takashima"]	= { "" },
+	["Toyoura"]	= { "" },
+	["Urakawa"]	= { "" },
+	["Usu"]	= { "" },
+	["Yakumo"]	= { "パ:pá, (-ha)((H))" },
+
+	-- Hokkaido: Northern
+	["Asahikawa"]	= { "パリラ:párira" },
+	["Chikabumi"]	= { "" },
+	["Nayoro"]	= { "パㇻ:('úsey-)par", "パリㇻ:párir(少し出ている)((H))" },
+	["Soya"]	= { "パ:pá((H))" },
+	["Teshio"]	= { "" },
+
+	-- Hokkaido: Eastern
+	["Abashiri"]	= { "" },
+	["Akan"]	= { "" },
+	["Ashoro"]	= { "" },
+	["Bihoro"]	= { "パリㇻ:parir((H))" },
+	["Biroo"]	= { "" },
+	["Chirotto"]	= { "" },
+	["Fupushinai"]	= { "" },
+	["Fushiko"]	= { "" },
+	["Harutori"]	= { "" },
+	["Kitami"]	= { "" },
+	["Kushiro"]	= { "" },
+	["Kussharo"]	= { "" },
+	["Memuro"]	= { "" },
+	["Mokoto"]	= { "" },
+	["Nemuro"]	= { "パリリ:pariri《気|[息が立ちのぼる]》((F2016))" },
+	["Nijibetsu"]	= { "" },
+	["Obihiro"]	= { "パリㇻ:párir((H))" },
+	["Otofuke"]	= { "" },
+	["Shari"]	= { "" },
+	["Shiranuka"]	= { "" },
+	["Tokachi"]	= { "" },
+	["Tooro"]	= { "" },
+
+	-- Sakhalin: West Coast
+	["Chirai"]	= { "" },
+	["Maoka"]	= { "" },
+	["Raichishka"]	= { "セエセㇵマウ:seesehmaw((H))" },
+	["Shiranushi"]	= { "" },
+	["Tarantomari"]	= { "" },
+	["Usoro"]	= { "" },
+
+	-- Sakhalin: East Coast
+	["Aihama"]	= { "" },
+	["Nairo"]	= { "" },
+	["Niitoi"]	= { "" },
+	["Ochiho"]	= { "" },
+	["Shirahama"]	= { "" },
+	["Shiraura"]	= { "" },
+	["Taraika"]	= { "" },
+	["Tonnai"]	= { "" },
+	["Yamambetsu"]	= { "" },
+
+	-- Kuril: Northern
+	["Kuril"]	= { "" },
+	["Paramushir"]	= { "" },
+	["Shumshu"]	= { "サㇱヒケネ:sashikene《濕》", "リカㇺマウ:rikammau《濕気》((M1892))" },
+
+	-- Kuril: Southern
+	["Etorofu"]	= { "" },
+	["SouthKuril"]	= { "" },
+}
+
+return export

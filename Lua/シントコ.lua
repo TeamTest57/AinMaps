@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "rice bin"
+export.gloss = "rice serving bucket"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "シントコ:síntoko (木製. 5-6斗入る)((H))" },
+	["Saru"]	= { "パッチ:pátci 《鉢》", "シントコ:síntoko 《櫃》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,20 +31,20 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "アマモㇷ゚:amám'op", "ハルオㇷ゚:haru'óp((H))" },
+	["Yakumo"]	= { "ホㇰカイ:hókkay", "アマモㇷ゚:'amám'op", "ハルオㇷ゚:haru'óp((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "シントコ:síntoko (→19)((H))" },
+	["Asahikawa"]	= { "シントコトゥキ:síntoko (túki, 米, 酒等を入れる)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "シントコ:síntoko((H))" },
-	["Soya"]	= { "シントコ:síntoko((H))" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "シントコ:sintoko((H))" },
+	["Bihoro"]	= { "" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "アマㇺキチ:amámkici((H))" },
+	["Obihiro"]	= { "" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ハンカタ:hankata《カンビの皮の箱》((H))" },
+	["Raichishka"]	= { "アマモロオーニアトゥㇱ:amam 'oro'oo ni'atus, -ihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

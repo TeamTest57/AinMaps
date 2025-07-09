@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "bark"
+export.gloss = "leg and foot"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チキㇼ:cikír,kemá((HC))" },
+	["Horobetsu"]	= { "チキㇼ:cikír,kemá((HC))", "キㇼケウ:kirkew(-e)", "ポキンチキㇼ:pokincikir(-i)", "ポキシㇼケ:pokisirke((C3))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -51,11 +51,11 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "チキㇼ:cikír((HC))", "アッ:at(木の皮の糸),tat(ガンビの皮(樺の皮))((K2021))" },
-	["Kussharo"]	= { "" },
+	["Kushiro"]	= { "チキㇼ:cikír((HC))" },
+	["Kussharo"]	= { "キㇼケウ:kirkew(-e)((C3))" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "" },
+	["Nemuro"]	= { "ケマ:kema(足|[縹蹴る?]),cikir, -i(足|[我が居るのを任せる])((F2016))" },
 	["Nijibetsu"]	= { "" },
 	["Obihiro"]	= { "チキㇼ:cikír((HC))" },
 	["Otofuke"]	= { "" },
@@ -69,7 +69,7 @@ export.syns = {
 	["Maoka"]	= { "ケマ:kema((HC))" },
 	["Raichishka"]	= { "ケマ:kema((HC))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ケマ:kema((HC))" },
+	["Tarantomari"]	= { "ケマ:kema((HC))", "キロルシケ:kirorusike((C3))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
@@ -77,16 +77,16 @@ export.syns = {
 	["Nairo"]	= { "ケマ:kema((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "ケマ:kema((HC))" },
-	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "ケマ:kema((HC))" },
-	["Taraika"]	= { "" },
+	["Shirahama"]	= { "チン:čin(足),kema(足),kir( 脚※),-ure-(足)((CW))" },
+	["Shiraura"]	= { "ケマ:kema((HC))", "キリケウ:kirikew(-he)((C3))" },
+	["Taraika"]	= { "ケマキ:kemaki((C3))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
 
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "ケマ:kema(足)((BS))", "ケマキㇼ:kema=kir(足)", "ケモ:kemo(足)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

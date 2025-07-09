@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "tray"
+export.gloss = "container"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ポンニマ:pónnima((H))" },
+	["Horobetsu"]	= { "" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "シカリンパポンニマ:sikárinpa pón nimá((H))" },
+	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ニマ:nimá", "ニオッチキ:ni'ótciki((H))" },
+	["Yakumo"]	= { "イヨㇷ゚:iyóp", "アエポㇷ゚:'a'ép'op《食物入れ》", "セイヨㇷ゚:séyyop《食器入れ》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ニマ:nimá((H))" },
+	["Asahikawa"]	= { "" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ニマ:nimá", "ポンニマ:pónnima", "ポロニマ:porónima((H))" },
-	["Soya"]	= { "" },
+	["Nayoro"]	= { "" },
+	["Soya"]	= { "ニマ:nimá, síntoko, patcí, túki patcí, tekús patcí 等がある((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "イタ:ita((H))" },
+	["Bihoro"]	= { "" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "ニマ:nima((容器の)盆、おぼん)((K2021))" },
+	["Kushiro"]	= { "エプタカム:eputakamu(ふた付き入れ物),nima((容器の)盆、おぼん)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "" },
+	["Obihiro"]	= { "オㇱケコㇿ:óskekor((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "シカリオㇹチケㇸ:sikari'ohcikeh, -pihi((H))" },
+	["Raichishka"]	= { "イペオㇹ:ipe'oh, -pihi《食物入れ》(総称)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

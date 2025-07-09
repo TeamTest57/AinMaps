@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "[a kind of grasshopper]"
+export.gloss = "[a kind of locust]"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -11,8 +11,8 @@ export.syns = {
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
-	["Hobetsu"]	= { "カタカタㇷ゚:katakatap((C2))" },
-	["Horobetsu"]	= { "パッタキ:páttaki((H))", "パッタ:patta((C2))" },
+	["Hobetsu"]	= { "キチキチㇷ゚:kicikicip((C2))" },
+	["Horobetsu"]	= { "" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -21,9 +21,9 @@ export.syns = {
 	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "" },
-	["Rebun"]	= { "パッタ:patta((C2))" },
-	["Samani"]	= { "パッタキ:pattaki((C2))" },
-	["Saru"]	= { "パッタキパッタキキㇼ:páttaki~páttakikir(イナゴ・スズムシ・ウマオイ等々を含む)((H))" },
+	["Rebun"]	= { "" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "アマㇺパッタキキㇼ:amampattakikir((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,20 +31,20 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "パッタ:pátta", "オマキルㇱ:'omakírus《キリギリス》((H))" },
+	["Yakumo"]	= { "" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "パッタキ:páttaki((H))" },
+	["Asahikawa"]	= { "" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "パッタキ:páttaki((H))" },
-	["Soya"]	= { "パッタキ:pattáki((H))" },
+	["Nayoro"]	= { "" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "パッタキ:pattaki(沙に同じ)((H))" },
+	["Bihoro"]	= { "パッタキ:pattaki((H))", "チピチピㇷ゚:cipicipip", "シピシピ:sipisipi((C2))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -52,12 +52,12 @@ export.syns = {
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "" },
-	["Kussharo"]	= { "パッタキ:pattaki((C2))" },
+	["Kussharo"]	= { "シペシペッキ:sipesipetki", "シピシピ:sipisipi((C2))" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "パッタキ:páttaki(沙に同じ)((H))" },
+	["Obihiro"]	= { "パッタキ:páttaki((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,10 +67,10 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "パㇵタキ:pahtaki(?)《キリギリス(?)》(草の中でキリキリなく)((H))" },
+	["Raichishka"]	= { "パㇵタキ:pahtaki (?)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "パㇵタキ:pahtaki((C2))" },
+	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

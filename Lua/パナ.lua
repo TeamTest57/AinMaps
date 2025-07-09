@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "dust"
+export.gloss = "dust, dirt"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -76,7 +76,7 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "コオムン:koomun((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "コオム:koomuɴ((HC))" },
+	["Ochiho"]	= { "コオムン:koomuɴ((HC))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "シリマ:sirima((HC))" },
 	["Taraika"]	= { "" },

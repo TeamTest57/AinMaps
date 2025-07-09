@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "cultivated dry field"
+export.gloss = "field"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -31,10 +31,10 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "トイ:tóy", "トヨㇿ:tóyor((H))" },
+	["Yakumo"]	= { "トイ:tóy((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "トヨㇿ:tóy'or((H))" },
+	["Asahikawa"]	= { "トイ:tóy((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "" },
 	["Soya"]	= { "" },

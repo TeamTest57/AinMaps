@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "axe"
+export.gloss = "broad-axe"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ハンピロ:hánpiro((H))" },
+	["Horobetsu"]	= { "ムカㇻ:(niperpa-)mukar((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "パンチョムカㇻ:páncomukar((H))" },
+	["Saru"]	= { "ムカㇻ:mukár((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,20 +31,20 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ハンピㇼ:hánpir((H))" },
+	["Yakumo"]	= { "ムカㇻ:mukár((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ムカㇻ:mukár((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ムカㇻ:mukár((H))" },
-	["Soya"]	= { "パンチョムカㇻ:pánco mukár((H))" },
+	["Soya"]	= { "ムカㇻ:mukár((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ポンムカㇻ:ponmukar((H))" },
+	["Bihoro"]	= { "ムカㇻ:mukar((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ポンムカㇻ:pónmukar((H))" },
+	["Obihiro"]	= { "ムカㇻ:mukár((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },

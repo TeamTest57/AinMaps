@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "I will not go."
+export.gloss = "not : This is not a dog."
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -76,7 +76,7 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "ハンネ:hanne((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "ハネ:haɴne((HC))" },
+	["Ochiho"]	= { "ハンネ:haɴne((HC))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "ハンネㇸ:hanneh((HC))" },
 	["Taraika"]	= { "" },
