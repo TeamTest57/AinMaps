@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "three hundred"
+export.gloss = "three thousand"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "" },
+	["Horobetsu"]	= { "レイㇰ:re 'ík((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "レイㇰ:re'ík(?)((H))" },
+	["Yakumo"]	= { "" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "アシㇰネホッイカㇱマワンホッ:asíknehot 'ikásma wánhot((H))" },
+	["Nayoro"]	= { "" },
 	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "レイㇰ:re'ík((H))" },
+	["Obihiro"]	= { "" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "レタンク:retanku((H))" },
+	["Raichishka"]	= { "レワンタンク:rewantanku((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

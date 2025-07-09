@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "thousand"
+export.gloss = "ten thousand"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "シネイㇰ:siné 'ik((H))" },
+	["Horobetsu"]	= { "ワニㇰ:wán ik((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "アシㇰネワンホッ:asíkne wánhot(?)((H))" },
+	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ワニㇰ:wán'ik(?)((H))" },
+	["Yakumo"]	= { "" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ワニㇰ:waník((H))" },
+	["Obihiro"]	= { "" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "シネワンタンク:sinewantanku((H))" },
+	["Raichishka"]	= { "" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ワンホツト:wanhotsuto(千)((M1892))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "small knife"
+export.gloss = "butcher knife"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "マキリ:makíri((H))" },
+	["Horobetsu"]	= { "ホイチョ:hóyco((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "マキリ:makíri", "タシロ:tasíro, (-ho)は《短剣》(腰に下げる. 山を歩く時笹を切る. また熊も殺す)((H))" },
+	["Saru"]	= { "ホイチョ:hóyco (でば)", "マキリ:makíri (肉切り)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ポンマキリ:pónmakiri((H))" },
+	["Yakumo"]	= { "ホイチョ:hóyco", "マキリ:makirí((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "マキリ:makíri《小刀》", "タシロ:tasíro《山刀》((H))" },
+	["Asahikawa"]	= { "マキリ:makíri", "エピリケㇷ゚:'epírikep《ニシン裂きに使うような小刀》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "マキリ:makíri", "エピㇼケㇷ゚:'epírkep(ニシンを裂くのに使う)((H))" },
-	["Soya"]	= { "マキリ:makíri(魚を切る. 男用. 帯にさす)", "エピㇼケㇷ゚:'epírkep(女用)", "タシロ:tasíro《山刀》((H))" },
+	["Nayoro"]	= { "マキリ:makíri", "エピㇼケㇷ゚:'epírkep (ニシンを裂くのに使う)((H))" },
+	["Soya"]	= { "マキリ:makíri(魚に用いる。男用)", "エピㇼケㇷ゚:'epírkep (女用)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -51,13 +51,13 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "マキリ:makiri(小刀)((K2021))" },
+	["Kushiro"]	= { "マキリ:makiri《小刀》((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "マキリ:makíri", "タシロ:tasíro((H))" },
+	["Obihiro"]	= { "ホチョ:hóco((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ポンマキリ:ponmakiri", "タシロ:tasiro は《なた》((H))" },
+	["Raichishka"]	= { "エキリケㇸ:ekirikeh, -pihi ('epiripeh は真岡・白浦方言)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "エペラニキ:eperaniki(147)((H))", "エピラ:epira(小さなナイフ)((V))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
