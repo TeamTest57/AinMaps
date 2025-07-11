@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ウコㇿ:ukór", "ウヘコテ:'uhekóte (“漢語的”)", "アフㇷ゚カㇻ:'ahúpkar", "ホクコㇿ:hokukór", "マッコㇿ:mátkor((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "コㇱマチアウㇷ゚カㇻ:kósmaci (~kóknekur) 'a'úpkar (N)((H))" },
+	["Asahikawa"]	= { "コㇱマチアウㇷ゚カㇻ:kósmaci (;kóknekur) 'a'úpkar (N)((H))" },
 	["Chikabumi"]	= { "エチセネ:ecisene(an-)", "エコテ:ekote(an-)", "エソケㇱネ:esokesne(an-)", "エトㇺヌカㇻ:etomnukar(-an)", "イトㇺヌカㇻ:itomnukar(-an)", "ウトㇺヌカㇻ:utomnukar(-an)((C3))" },
 	["Nayoro"]	= { "マッコㇿ:mátkor《妻をめとる》", "オクコㇿ:'okúkor《嫁に行く》", "チセコㇿ:cisékor《世帯を持つ》((H))" },
 	["Soya"]	= { "ウムレㇰ:umúrek《結婚している》((H))" },

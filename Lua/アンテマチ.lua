@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "アヌコレㇱカウタㇻ:anúkoreska 'utár((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ウセンピルレㇱカ:usénpir 'uréska 《いいなずけ同志》((H))" },
-	["Soya"]	= { "アンテホクアンテ:“'ante hoku (~maci) はもらってからの話. 'ante は位”((H))" },
+	["Soya"]	= { "アンテホクアンテ:“'ante hoku (;maci) はもらってからの話. 'ante は位”((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

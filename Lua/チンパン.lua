@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "チンパン:cínpan", "ポㇰナーミㇷ゚:pókna 'amíp", "カパㇻペ:kapárpe (cimip) 《薄い物》((H))" },
+	["Yakumo"]	= { "チンパン:cínpan", "ポㇰナアミㇷ゚:pókna 'amíp", "カパㇻペ:kapárpe (cimip) 《薄い物》((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "オポㇰナサミリテニミアットゥㇱ:opóknas 'amí ritén 'imí 《'áttus の下に着る柔らかい物》((H))" },

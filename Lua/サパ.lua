@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "パケ:páke((HC))", "サパ:sápa,('-ha) (H)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "パケ:páke((HC))", "サパ:sapá [稀]((H))" },
-	["Soya"]	= { "パケ:paké((HC))", "サパ:sapá, -ha～-kehe" },
+	["Soya"]	= { "パケ:paké((HC))", "サパ:sapá, -ha", "ケヘ:-kehe" },
 	["Teshio"]	= { "ケイ:key(-he)((C3))" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "サパ:sapa((HC))", "サパキ:sapaki((C3))" },
-	["Raichishka"]	= { "サパ:sapa((HC))", "ケイキタイケヘ:keykitaykehe《頭頂》", "オトゥシㇱカ:'otusiska,-ha《後頭部》", "オㇹプイ:'ohpuy《ほんのくぼ》((H))" },
+	["Raichishka"]	= { "サパ:sapa, -ha", "ケイキタイケヘ:keykitaykehe《頭頂》", "オトゥシㇱカ:'otusiska, -ha《後頭部》", "オㇹプイ:'ohpuy《ほんのくぼ》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "サパ:sapa((HC))", "ケオロ:keoro((C3))" },
 	["Usoro"]	= { "" },

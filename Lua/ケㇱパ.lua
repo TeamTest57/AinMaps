@@ -34,17 +34,17 @@ export.syns = {
 	["Yakumo"]	= { "ケㇱパ:késpa (kés̱pa) ('an ko)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ケㇱパーンコㇿ:késpa 'an kor((H))" },
+	["Asahikawa"]	= { "ケㇱパアンコㇿ:késpa 'an kor((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ケㇱパーンコㇿ:késpa 'an kor", "パピㇱノ:pá pisno((H))" },
-	["Soya"]	= { "ケㇱパーンコㇿ:késpa 'ánkor((H))" },
+	["Nayoro"]	= { "ケㇱパアンコㇿ:késpa 'an kor", "パピㇱノ:pá pisno((H))" },
+	["Soya"]	= { "ケㇱパアンコㇿ:késpa 'ánkor((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ケㇱパーンコㇿ:kespa 'an kor((H))" },
+	["Bihoro"]	= { "ケㇱパアンコㇿ:kespa 'an kor((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ケㇱパーシンコ:kespa 'asinko(h)", "エネパオマンネーノ:'enepa'omanneeno [老]((H))" },
+	["Raichishka"]	= { "ケㇱパアシンコ:kespa 'asinko(h)", "エネパオマンネーノ:'enepa'omanneeno [老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

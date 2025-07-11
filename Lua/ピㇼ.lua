@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ピㇼ:pír, -í", "ピロピロ:pír 'ó~píro 《傷つく》", "ピロマ:pír 'omá 《''》((H))", "タㇺピㇼ:tampir(-i)((C3))" },
+	["Saru"]	= { "ピㇼ:pír, -í", "ピロ:pír 'ó", "ピロマ:pír 'omá 《''》((H))", "タㇺピㇼ:tampir(-i)((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ピㇼ:pír((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ピㇼ:pír", "ピロマピロマ:pír 'omá~píroma 《傷ついた》", "ヤイピロマレ:yáypiromare 《''》((H))", "タマピㇼ:tamapir(-i)((C3))" },
+	["Nayoro"]	= { "ピㇼ:pír", "ピロマ:pír 'omá", "ヤイピロマレ:yáypiromare 《''》((H))", "タマピㇼ:tamapir(-i)((C3))" },
 	["Soya"]	= { "ピㇼ:pír((H))" },
 	["Teshio"]	= { "" },
 

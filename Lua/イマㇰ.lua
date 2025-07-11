@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ニマㇰ:nimák((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "イマㇰ:'imak((HC))" },
-	["Saru"]	= { "ミマㇰ:mimák, -i~nimák, -i((H))" },
+	["Saru"]	= { "ミマㇰ:mimák, -i", "ニマㇰ:nimák, -i((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -90,7 +90,7 @@ export.syns = {
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "イマㇰイ:imak-i(歯)((BS))" },
+	["South Kuril"]	= { "イマキ:imak-i(歯)((BS))" },
 }
 
 return export

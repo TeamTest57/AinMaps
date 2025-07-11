@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "クホシピソモクエㇰナ:kuhósipi somó ku'ék na.((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "タネーㇰソモキ:tané 'ék somóki.((H))" },
+	["Nayoro"]	= { "タネエㇰソモキ:tané 'ék somóki.((H))" },
 	["Soya"]	= { "タネオㇿワノソモエㇰワ:tané 'órwano somo 'ék wa. (彼が)((H))" },
 	["Teshio"]	= { "" },
 
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "タネオロワノーモクエㇰ:tane 'orowano 'omo ku'ek.((H))" },
+	["Bihoro"]	= { "タネオロワノオモクエㇰ:tane 'orowano 'omo ku'ek.((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "キムンペ:kimúnpe", "キムンカムイ:kimún kamúy", "カムイ:kamúy", "カムイチャチャ:kamúy caca (～kátkemat～sáha)((H))" },
+	["Yakumo"]	= { "キムンペ:kimúnpe", "キムンカムイ:kimún kamúy", "カムイ:kamúy", "カムイチャチャ:kamúy caca (;kátkemat;sáha)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "エペレカムイ:epére kamúy", "カムイ:kamúy", "キムンカムイ:kimún kamúy", "カムイチャチャ:kamúy caca 《“年のいった熊の大将”》((H))" },
@@ -90,7 +90,7 @@ export.syns = {
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "キㇺウンカムイ:kim-un-kamuy(クマ)((BS))" },
+	["South Kuril"]	= { "キムンカムイ:kim-un-kamuy(クマ)((BS))" },
 }
 
 return export

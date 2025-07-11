@@ -34,10 +34,10 @@ export.syns = {
 	["Yakumo"]	= { "ケㇱト:késto (késto) ('an ko)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ケㇱターンコㇿ:kesta 'an kor", "ケㇱターントタ:kesta 'an to ta((H))" },
+	["Asahikawa"]	= { "ケㇱタアンコㇿ:kesta 'an kor", "ケㇱタアントタ:kesta 'an to ta((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ケㇱトアンコㇿ:késto 'ánkor((H))" },
-	["Soya"]	= { "ケㇱターシンコ:kestá 'asinko((H))" },
+	["Soya"]	= { "ケㇱタアシンコ:kestá 'asinko((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

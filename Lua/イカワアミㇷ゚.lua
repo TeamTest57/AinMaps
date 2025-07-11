@@ -34,9 +34,9 @@ export.syns = {
 	["Yakumo"]	= { "イカクㇱペ:ikákuspe《袖なしの羽織》", "イカクㇱチミㇷ゚:'ikákus cimíp((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "イカワーミㇷ゚:ikáwa 'amíp (ひざぐらいまである)((H))" },
+	["Asahikawa"]	= { "イカワアミㇷ゚:ikáwa 'amíp (ひざぐらいまである)((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "イカワーミㇷ゚:ikáwa 'amíp (羽織のように別に着る)((H))" },
+	["Nayoro"]	= { "イカワアミㇷ゚:ikáwa 'amíp (羽織のように別に着る)((H))" },
 	["Soya"]	= { "アットゥㇱ:áttus《木の皮で織った, 上に羽織る物》((H))" },
 	["Teshio"]	= { "" },
 
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "イカワーミㇷ゚:iká wa 'amíp((H))" },
+	["Obihiro"]	= { "イカワアミㇷ゚:iká wa 'amíp((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },

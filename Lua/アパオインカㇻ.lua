@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "プヨウㇱケカリーンカㇻ:púy o 'uske kari 'ínkar((H))" },
+	["Saru"]	= { "プヨウㇱケカリインカㇻ:púy o 'uske kari 'ínkar((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "スイカリオタヌ:súykari 'otánu((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "スイカリーンカㇻ:súykari 'ínkar((H))" },
+	["Nayoro"]	= { "スイカリインカㇻ:súykari 'ínkar((H))" },
 	["Soya"]	= { "アパオインカㇻ:apa 'o'ínkar((H))" },
 	["Teshio"]	= { "" },
 
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "スイカリーンカㇻ:suy kari 'inkar((H))" },
+	["Bihoro"]	= { "スイカリインカㇻ:suy kari 'inkar((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

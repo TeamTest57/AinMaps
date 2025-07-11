@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ニンタㇰ:níntak((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "トコㇺ:tokóm", "トッチェ:tótce(打たれてできた)", "ニンニンタㇰ:nin~níntak(けがや病気でできた)((H))" },
+	["Nayoro"]	= { "トコㇺ:tokóm", "トッチェ:tótce(打たれてできた)", "ニン:nin", "ニンタㇰ:níntak(けがや病気でできた)((H))" },
 	["Soya"]	= { "ニン:nín", "ニナシン:nín 'asín《こぶができた》((H))" },
 	["Teshio"]	= { "" },
 

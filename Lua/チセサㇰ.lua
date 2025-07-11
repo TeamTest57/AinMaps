@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ヤイチㇱテクㇽ:yáyciste-kur (～-menoko) (死別したもの)", "チセサㇰクㇽ:cisesákkur", "マッサㇰクㇽ:mátsakkur", "ホクサㇰクㇽ:hokusákkur", "シネンネクㇽ:sinénnekur, sineménoko", "ヤイトゥラクㇽ:yáyturakur((H))" },
+	["Yakumo"]	= { "ヤイチㇱテクㇽ:yáyciste-kur (;-menoko) (死別したもの)", "チセサㇰクㇽ:cisesákkur", "マッサㇰクㇽ:mátsakkur", "ホクサㇰクㇽ:hokusákkur", "シネンネクㇽ:sinénnekur, sineménoko", "ヤイトゥラクㇽ:yáyturakur((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "マッサコㇰカヨ:mátsak 'ókkayo(独身, 男)", "マチラヨㇰカヨ:mací ray 'ókkayo《よめさんが死んだ男》", "オクサㇰメノコ:okúsak menóko(独身, 女)", "オクフライメノコ:'okúhu ray menóko(旦那さんの死んだ女)", "ライコㇱ:ráykos(,,)((H))" },

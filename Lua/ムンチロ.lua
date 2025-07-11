@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "アワ:awá((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "トイターマㇺ:tóyta 'amám((H))" },
+	["Nayoro"]	= { "トイタアマㇺ:tóyta 'amám((H))" },
 	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
