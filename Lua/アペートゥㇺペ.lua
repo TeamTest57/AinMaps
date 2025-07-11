@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "アペートゥㇺペ:apeetumpe((C2))" },
 	["Samani"]	= { "アペートゥㇺペ:apeetumpe", "アペトゥㇺペ:apetumpe((C2))" },
-	["Saru"]	= { "スネコカリㇷ゚:sunékokarip(フクラスズメ等)", "アペートゥンヘポラㇷ゚:'apé'etunheporap(蝶のような形の)《方言:(夜の)チョウチョウ》((H))" },
+	["Saru"]	= { "スネコカリㇷ゚:sunékokarip(フクラスズメ等)", "アペエトゥンヘポラㇷ゚:'apé'etunheporap(蝶のような形の)《方言:(夜の)チョウチョウ》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "スネートゥン:sune'étun", "スネコカリㇷ゚:sunekókarip((H))" },
+	["Yakumo"]	= { "スネエトゥン:sune'étun", "スネコカリㇷ゚:sunekókarip((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "アペートゥンペ:apé 'etúnpe((H))" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "アペートゥンペ:ape'etunpe((H))", "アペートゥㇺペ:apeetumpe", "アペトゥㇺペ:apetumpe((C2))" },
+	["Bihoro"]	= { "アペエトゥンペ:ape'etunpe((H))", "アペートゥㇺペ:apeetumpe", "アペトゥㇺペ:apetumpe((C2))" },
 	["Biroo"]	= { "アペトゥㇺペ:apetumpe((C2))" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

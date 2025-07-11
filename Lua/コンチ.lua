@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "コンチ:kónci《一種の頭巾》", "サパンペ:sapánpe 《柳を削って作ったかぶりもの》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "コンチ:kónci《一種の頭巾》", "サパンペ:sapánpe 《祝いの時にかぶる一種のはちまき》((H))" },
-	["Soya"]	= { "コンチ:kónci", "サパーメㇷ゚:sapá'am'ep 《かぶりもの》((H))" },
+	["Soya"]	= { "コンチ:kónci", "サパアメㇷ゚:sapá'am'ep 《かぶりもの》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

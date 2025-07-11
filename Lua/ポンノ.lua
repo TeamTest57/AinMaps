@@ -22,7 +22,7 @@ export.syns = {
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "ポンノ:pónno((HC))" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "ポーンノ:po'onno((HC))" },
+	["Samani"]	= { "ポオンノ:po'onno((HC))" },
 	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
@@ -74,7 +74,7 @@ export.syns = {
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "ポーンノ:po'onno((HC))" },
+	["Nairo"]	= { "ポオンノ:po'onno((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "ポンノ:pónno((HC))" },
 	["Shirahama"]	= { "" },

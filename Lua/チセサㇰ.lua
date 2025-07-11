@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "マッサコㇰカヨ:mátsak 'ókkayo(独身, 男)", "マチラヨㇰカヨ:mací ray 'ókkayo《よめさんが死んだ男》", "オクサㇰメノコ:okúsak menóko(独身, 女)", "オクフライメノコ:'okúhu ray menóko(旦那さんの死んだ女)", "ライコㇱ:ráykos(,,)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ソケㇱサㇰ:sókessak 《やもめになる》(男)", "ソパサㇰ:sopásak 《,,》(女)((H))" },
-	["Soya"]	= { "マチーサㇺペ:mací'isampe(男)", "マッサㇰペ:mátsakpe(男)", "ホクイサㇺペ:hokú'isampe(独身, 女)", "ホクサㇰノアン:hokúsak no 'an 《夫に別れて一人でいる》((H))" },
+	["Soya"]	= { "マチイサㇺペ:mací'isampe(男)", "マッサㇰペ:mátsakpe(男)", "ホクイサㇺペ:hokú'isampe(独身, 女)", "ホクサㇰノアン:hokúsak no 'an 《夫に別れて一人でいる》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

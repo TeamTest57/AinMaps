@@ -5,7 +5,7 @@ export.gloss = "salmon"
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "アシッチェㇷ゚:asitcep", "チェㇷ゚:cep", "ヘレルㇱチェㇷ゚:hereruscep", "イットチェㇷ゚:ittocep", "カムイチェㇷ゚:kamuycep", "メㇱカㇱ:meskas", "オイシル:oisiru", "ペウレチェㇷ゚:pewrecep((C2))" },
-	["Azuma"]	= { "カムヨローアㇻパチェㇷ゚:kamuy oro oarpa cep", "シチェㇷ゚:sicep((C2))" },
+	["Azuma"]	= { "カムヨロオアㇻパチェㇷ゚:kamuy oro oarpa cep", "シチェㇷ゚:sicep((C2))" },
 	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },

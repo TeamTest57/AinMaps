@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ポンスヤンワカリクピーンカㇻ:pón suy 'an wa karí kupí'inkar((H))" },
+	["Yakumo"]	= { "ポンスヤンワカリクピインカㇻ:pón suy 'an wa karí kupí'inkar((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "スイカリオタヌ:súykari 'otánu((H))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "プイカーリピーンカラ:puy kaari pi'inkara((H))" },
+	["Raichishka"]	= { "プイカーリピインカラ:puy kaari pi'inkara((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

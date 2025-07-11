@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "タスㇺ:tasúm《重病》", "トゥムウェン:tumúwen(寝たり起きたりの状態)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "タスㇺ:tasúm《ねこんでいる》", "シイェイ:siyéy 《(一般に) 病気》((H))" },
-	["Soya"]	= { "シエー:sié'e 《なが病気》((H))" },
+	["Soya"]	= { "シエエ:sié'e 《なが病気》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
