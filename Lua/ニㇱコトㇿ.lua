@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ニソロ:nisoro(天)", "アンオ:gando(空)((M1892))", "カントゥスッ:kantu=sut(スカイライン)", "カント:kanto(空)", "ネㇱオㇿ:nes=qor(空)", "ニソラチェワ:niso=racewa(スカイライン)", "ニスッ:nisut(スカイライン)((V))" },
+	["Shumshu"]	= { "ニソロ:nisoro(天)", "ガンド:gando(空)((M1892))", "カントゥスッ:kantu=sut(スカイライン)", "カント:kanto(空)", "ネㇱオㇿ:nes=qor(空)", "ニソラチェワ:niso=racewa(スカイライン)", "ニスッ:nisut(スカイライン)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

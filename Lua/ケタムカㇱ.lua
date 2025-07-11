@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ノチウトゥㇷ゚:nocíw túp《星が流れる》", "ノチヲニㇱポソ:nocíw 'onísposo《星が落ちる》((H))" },
+	["Saru"]	= { "ノチウトゥㇷ゚:nocíw túp《星が流れる》", "ノチウォニㇱポソ:nocíw 'onísposo《星が落ちる》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ノチウモㇺ:nocíw móm《星が流れる》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ノチヲユプ:nocíw 'oyúpu(N)((H))" },
+	["Asahikawa"]	= { "ノチウォユプ:nocíw 'oyúpu(N)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オユプノチウ:oyúpu nociw(?)((H))" },
 	["Soya"]	= { "ケタパㇱセワ:ketá passé wa《星が流れた》((H))" },

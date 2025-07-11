@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "gong"
+export.gloss = "box, case"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "" },
+	["Horobetsu"]	= { "スヨㇷ゚:suyóp((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "スウォㇷ゚:suwóp((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ラッキカニ:rátki káni((H))" },
+	["Yakumo"]	= { "スウォㇷ゚:suwóp((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "" },
+	["Asahikawa"]	= { "スポㇷ゚:supóp(カンビ(白樺)で作る. 刀が入るくらい長い. 大事な物を入れる)((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "" },
-	["Soya"]	= { "" },
+	["Nayoro"]	= { "スポㇷ゚:supóp((H))" },
+	["Soya"]	= { "スウォㇷ゚:suwóp(玉を入れる)", "カラウトコソンテ:karáwto《kosónte 等入れる行李のような物》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "" },
+	["Bihoro"]	= { "シポㇷ゚:sipop((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "" },
+	["Kushiro"]	= { "マッシポㇷ゚:matsipop《筥迫(はこせこ)》((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "" },
+	["Obihiro"]	= { "スポㇷ゚:supóp", "ハコ:hakó((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "コンコ:konko((H))" },
+	["Raichishka"]	= { "ハク:haku", "シポㇹ:sipoh, -pihi(木製)", "イヌモロ:'inumoro(枕にする)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "アウキカニ:gaqu=ki=kani(ベル)((V))" },
+	["Shumshu"]	= { "シュボㇷ゚:shubop(149)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

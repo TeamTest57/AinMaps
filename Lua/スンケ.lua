@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "シュンエ:shunge(144)((H))", "イエキクンキ:y=ekikun=ki(嘘)", "エスンキワ:e=sunki-wa(嘘)", "オシロカイカㇱㇱル:osiro=kay=kas=sru(嘘)", "オシラカイカ:osira=kayka(嘘)", "ヲカㇱロ:woka=sro(嘘)((V))" },
+	["Shumshu"]	= { "シュンゲ:shunge(144)((H))", "イエキクンキ:y=ekikun=ki(嘘)", "エスンキワ:e=sunki-wa(嘘)", "オシロカイカㇱㇱル:osiro=kay=kas=sru(嘘)", "オシラカイカ:osira=kayka(嘘)", "ウォカㇱロ:woka=sro(嘘)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

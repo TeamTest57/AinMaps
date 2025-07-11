@@ -73,12 +73,12 @@ export.syns = {
 	["Usoro"]	= { "マㇵセタ:mahseta((C2))" },
 
 	-- Sakhalin: East Coast
-	["Aihama"]	= { "アㇵコㇹセタ:ahkohseta", "オトゥユ:otuyu", "タイタイセタ:taytayseta", "ヲイヲイ:woywoy((C2))" },
+	["Aihama"]	= { "アㇵコㇹセタ:ahkohseta", "オトゥユ:otuyu", "タイタイセタ:taytayseta", "ウォイウォイ:woywoy((C2))" },
 	["Nairo"]	= { "セタ:setá((HC))" },
 	["Niitoi"]	= { "マㇱセタ:masseta((C2))" },
 	["Ochiho"]	= { "セタ:setá((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "セタ:setá((HC))", "マㇱセタ:masseta", "マㇵセタ:mahseta", "アㇵコㇹセタ:ahkohseta", "アパチャㇺペ:apacampe", "モㇹク:mohku", "オトゥユ:otuyu", "タイタイセタ:taytayseta", "ヲイヲイ:woywoy((C2))" },
+	["Shiraura"]	= { "セタ:setá((HC))", "マㇱセタ:masseta", "マㇵセタ:mahseta", "アㇵコㇹセタ:ahkohseta", "アパチャㇺペ:apacampe", "モㇹク:mohku", "オトゥユ:otuyu", "タイタイセタ:taytayseta", "ウォイウォイ:woywoy((C2))" },
 	["Taraika"]	= { "マㇱセタ:masseta", "イㇼパチャㇷ゚:irpacap((C2))" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "シタ:shita (120)", "シタイ:shitai (122)", "ㇱヘタ:shéta (122)", "セタ:seta (150)((H))" },
+	["Shumshu"]	= { "シタ:shita (120)", "シタイ:shitai (122)", "シェタ:shéta (122)", "セタ:seta (150)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

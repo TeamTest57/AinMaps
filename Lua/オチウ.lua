@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "オチウ:ociw(人間)", "キニン:kinín[良](人間)", "ウヌプレ:'unúpure(動物)", "ウウェラマス:'uwéramasu(動物)", "トゥマㇺ:tumám[他]《抱いてねる》((H))", "ホクコヌトゥㇱテㇰノイクパパ:hoku konutustekno ikupapa", "ホクコヌトゥㇱテㇰノチㇱ:hoku konutusteknocis", "イラマッコスイェイウェンテマッ:iramatkosuyeiwentemat", "イロㇿコピウェイウェンテマッ:irorkopiweiwentemat", "イシケライケイウェンテマッ:isikeraykeiwentemat", "ケロリㇺセイウェンテマッ:kerorimseiwentemat", "セタパㇻコアッ:setaparkoat", "スクㇷ゚クㇽプリコㇿ:sukupkurpurikor(-an)", "スクㇷ゚プリコㇿ:sukuppurikor", "スクㇷ゚プリコレ:sukuppurikore", "ウコニポㇷ゚ケウコホㇿセ:ukonipopke ukohorse", "ウコサッテㇰ:ukosattek(-an)", "ウヲエ:uwoe((C3))" },
+	["Saru"]	= { "オチウ:ociw(人間)", "キニン:kinín[良](人間)", "ウヌプレ:'unúpure(動物)", "ウウェラマス:'uwéramasu(動物)", "トゥマㇺ:tumám[他]《抱いてねる》((H))", "ホクコヌトゥㇱテㇰノイクパパ:hoku konutustekno ikupapa", "ホクコヌトゥㇱテㇰノチㇱ:hoku konutusteknocis", "イラマッコスイェイウェンテマッ:iramatkosuyeiwentemat", "イロㇿコピウェイウェンテマッ:irorkopiweiwentemat", "イシケライケイウェンテマッ:isikeraykeiwentemat", "ケロリㇺセイウェンテマッ:kerorimseiwentemat", "セタパㇻコアッ:setaparkoat", "スクㇷ゚クㇽプリコㇿ:sukupkurpurikor(-an)", "スクㇷ゚プリコㇿ:sukuppurikor", "スクㇷ゚プリコレ:sukuppurikore", "ウコニポㇷ゚ケウコホㇿセ:ukonipopke ukohorse", "ウコサッテㇰ:ukosattek(-an)", "ウウォエ:uwoe((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "ウラム:uramu((C3))" },
 	["Takae"]	= { "" },
@@ -70,7 +70,7 @@ export.syns = {
 	["Raichishka"]	= { "キー:kii[他]", "オチウ:'ociw[自][卑]", "ウラーヌㇷ:'uraanuh, -p〜-k[自][老]", "ウラムノー:'uramunoo[老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "チョアウテㇱパレチョヨㇺパレ:coawtespare coyompare", "マㇵテクㇷラㇺポコンテ:mahtekuhrampokonte", "オㇹカヨラㇺポコンテ:ohkayo rampo konte", "ウトロㇹケ:utorohke(-an)", "ウトゥルキ:uturuki(-an)", "ウヲコㇹ:uwokoh(t-an)((C3))" },
+	["Usoro"]	= { "チョアウテㇱパレチョヨㇺパレ:coawtespare coyompare", "マㇵテクㇷラㇺポコンテ:mahtekuhrampokonte", "オㇹカヨラㇺポコンテ:ohkayo rampo konte", "ウトロㇹケ:utorohke(-an)", "ウトゥルキ:uturuki(-an)", "ウウォコㇹ:uwokoh(t-an)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

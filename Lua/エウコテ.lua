@@ -6,7 +6,7 @@ export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "エウヲピッテ:'e'uwópitte((HC))" },
+	["Biratori"]	= { "エウウォピッテ:'e'uwópitte((HC))" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },

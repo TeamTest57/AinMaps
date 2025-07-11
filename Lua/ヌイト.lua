@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "オカ:ōka (露西亜語なり 149. 服部註: 金銀の絹糸をチュルク語で oka)" },
+	["Shumshu"]	= { "オーカ:ōka (露西亜語なり 149. 服部註: 金銀の絹糸をチュルク語で oka)", "オカ:o=ka(糸)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

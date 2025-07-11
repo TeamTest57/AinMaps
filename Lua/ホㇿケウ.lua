@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "ホㇿケウ:hórkew((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ホㇿケウ:hórkew((H))" },
-	["Soya"]	= { "ヲセカムイ:wóse kamúy((H))" },
+	["Soya"]	= { "ウォセカムイ:wóse kamúy((H))" },
 	["Teshio"]	= { "ホㇿケウ:horkew((C2))" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ホロケウ:horokew((C2))" },
-	["Raichishka"]	= { "ホロケウ:horokew", "ヲーセカムイ:woosekamuy[老]((H))" },
+	["Raichishka"]	= { "ホロケウ:horokew", "ウォーセカムイ:woosekamuy[老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -76,7 +76,7 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "ホロケウ:horokew((C2))" },
-	["Ochiho"]	= { "ホロケウ:horokew", "ヲセカムイ:wosekamuy((C2))" },
+	["Ochiho"]	= { "ホロケウ:horokew", "ウォセカムイ:wosekamuy((C2))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "ホロケウ:horokew((C2))" },
 	["Taraika"]	= { "ホㇿケウ:horkew((C2))" },

@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ウェンイ:wen_i(雨)((BS))", "シンクアン:shinkugan(雨降ル)((M1892))", "クイ:kuy(大雨)", "シルウェン:siru=wen(雨)((V))" },
+	["Shumshu"]	= { "ウェンイ:wen_i(雨)((BS))", "シンクガン:shinkugan(雨降ル)((M1892))", "クイ:kuy(大雨)", "シルウェン:siru=wen(雨)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

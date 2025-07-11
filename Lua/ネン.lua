@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ウナッ:gunat(誰が)((V))" },
+	["Shumshu"]	= { "グナッ:gunat(誰が)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

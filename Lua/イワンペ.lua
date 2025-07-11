@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "イワㇺペ:iwampe (124)((H))", "イワン:iwan(6)((BS))", "イワㇺエ:iwambe(六)((M1892))" },
+	["Shumshu"]	= { "イワㇺペ:iwampe (124)((H))", "イワン:iwan(6)((BS))", "イワㇺベ:iwambe(六)((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

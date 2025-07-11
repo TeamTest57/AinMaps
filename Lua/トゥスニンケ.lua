@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "トゥスニカ:tusunika((C2))" },
 	["Samani"]	= { "ニウウェオ:niuweo((C2))" },
-	["Saru"]	= { "トゥスニンケ:tusúninke《方言: キネズミ》", "ルヲㇷ゚:rúwop《シマリス. 方言: シマネズミ》((H))", "トゥスニケ:tusunike((C2))" },
+	["Saru"]	= { "トゥスニンケ:tusúninke《方言: キネズミ》", "ルウォㇷ゚:rúwop《シマリス. 方言: シマネズミ》((H))", "トゥスニケ:tusunike((C2))" },
 	["Shiraoi"]	= { "トゥスニンケ:tusuninke((C2))" },
 	["Shizunai"]	= { "ニウウェオ:niuweo((C2))" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "トゥスニケ:tusuníke((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ニウエヲ:ní'u'éwo《方言: キネジミ》((H))" },
+	["Asahikawa"]	= { "ニウエウォ:ní'u'éwo《方言: キネジミ》((H))" },
 	["Chikabumi"]	= { "トゥスニンケ:tusuninke((C2))" },
 	["Nayoro"]	= { "トゥスニケ:tusúnike", "ニウェオ:níw'e'o((H))" },
 	["Soya"]	= { "" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "ニウウェオ:niuweo", "ウェㇺペ:wempe((C2))" },
-	["Bihoro"]	= { "ニウエオ:ni'u'e'o((H))", "イヲットゥスクㇽ:iwottusukur", "ニオウ:niow((C2))" },
+	["Bihoro"]	= { "ニウエオ:ni'u'e'o((H))", "イウォットゥスクㇽ:iwottusukur", "ニオウ:niow((C2))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

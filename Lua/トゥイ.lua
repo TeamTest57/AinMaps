@@ -69,7 +69,7 @@ export.syns = {
 	["Maoka"]	= { "トゥヨロㇹ:tuyoroh,ramoro(腸)((HC))" },
 	["Raichishka"]	= { "トゥヨロㇹ:tuyoroh,cuporoh[老]((HC))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "トゥヲロㇷ゚:tuworop,ramoro(腸)((HC))" },
+	["Tarantomari"]	= { "トゥウォロㇷ゚:tuworop,ramoro(腸)((HC))" },
 	["Usoro"]	= { "ハヌカ:hanuka", "シオトゥイラモロ:siotuyramoro", "トゥイヘチノイパ:tuyhecinoypa((C3))" },
 
 	-- Sakhalin: East Coast

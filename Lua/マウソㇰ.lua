@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "エヤコマウシケ:eyakomaushike (140)((H))", "エマウイアㇰ:e=mau=giak(あくび)", "イマウサㇰエン:i=mawsak=en(あくび)", "マウサㇰエン:mawsak=en(私はあくびをする)((V))" },
+	["Shumshu"]	= { "エヤコマウシケ:eyakomaushike (140)((H))", "エマウギアㇰ:e=mau=giak(あくび)", "イマウサㇰエン:i=mawsak=en(あくび)", "マウサㇰエン:mawsak=en(私はあくびをする)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
