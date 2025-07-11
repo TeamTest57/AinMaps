@@ -90,7 +90,7 @@ export.syns = {
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["SouthKuril"]	= { "" },
+	["South Kuril"]	= { "ペンチャイ:pencay(船)", "ヤㇻウㇱチㇷ゚:yar-us cip(船)((BS))" },
 }
 
 return export
