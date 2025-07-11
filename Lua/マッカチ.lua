@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "マッネカチ:mátnekaci", "ポンメノコ:pónmenóko((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "マッネエカチ:mátne 'ekáci", "マッカチ:mátkaci", "オペㇾケㇷ゚:'opérkep((H))" },
+	["Nayoro"]	= { "マッネーカチ:mátne 'ekáci", "マッカチ:mátkaci", "オペㇾケㇷ゚:'opérkep((H))" },
 	["Soya"]	= { "カンチポ:káncipo (10-12歳)", "マッネポ:mátnepo (15-16歳)((H))" },
 	["Teshio"]	= { "" },
 

@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ル:rú((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ル:rú((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "ル:rú((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ル:rú((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ル:rú((HC))" },
+	["Nayoro"]	= { "ル:rú((HC))", "チクシ:cikúsi《いつも通る山道》((H))" },
 	["Soya"]	= { "ル:rú((HC))" },
 	["Teshio"]	= { "" },
 
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "ルウ:ruu((HC))" },
-	["Raichishka"]	= { "ルウ:ruu((HC))" },
+	["Maoka"]	= { "ルー:ruu((HC))" },
+	["Raichishka"]	= { "ルー:ruu((HC))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ルウ:ruu((HC))" },
+	["Tarantomari"]	= { "ルー:ruu((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "トゥウ:tuu((HC))" },
+	["Nairo"]	= { "トゥー:tuu((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "ルウ:ruu((HC))" },
+	["Ochiho"]	= { "ルー:ruu((HC))" },
 	["Shirahama"]	= { "ル:ru(路)((CW))" },
-	["Shiraura"]	= { "ルウ:ruu((HC))" },
+	["Shiraura"]	= { "ルー:ruu((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

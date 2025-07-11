@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "swing"
+export.gloss = "cart, wagon, car"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ホチヨイ:hocíyoy((H))" },
+	["Horobetsu"]	= { "" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ヨイヤ:yóyya((H))" },
+	["Saru"]	= { "クルマ:kurúma((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "シラッキㇷ゚:sirátkip((H))" },
+	["Yakumo"]	= { "クルマ:kurumá((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "" },
+	["Asahikawa"]	= { "クルマ:kurúma((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "" },
-	["Soya"]	= { "トゥシスエ:tús'isùe((H))" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -51,13 +51,13 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "" },
+	["Kushiro"]	= { "エンㇱハ:densha《電車》((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "" },
+	["Obihiro"]	= { "クルマ:kurúma((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "シスイェ:sisuye", "チャㇵカパアパ:cahkapaapa[児]((H))" },
+	["Raichishka"]	= { "クルマ:kuruma (日本時代にはいった)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "ウントゥラーニ:un=tura=ani(カート)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

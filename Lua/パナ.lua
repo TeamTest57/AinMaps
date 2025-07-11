@@ -66,7 +66,7 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "コオムン:koomun((HC))" },
+	["Maoka"]	= { "コームン:koomun((HC))" },
 	["Raichishka"]	= { "シリマ:sirima((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "パㇱパㇱ:paspas((HC))" },
@@ -74,9 +74,9 @@ export.syns = {
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "コオムン:koomun((HC))" },
+	["Nairo"]	= { "コームン:koomun((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "コオムン:koomuɴ((HC))" },
+	["Ochiho"]	= { "コームン:koomuɴ((HC))" },
 	["Shirahama"]	= { "" },
 	["Shiraura"]	= { "シリマ:sirima((HC))" },
 	["Taraika"]	= { "" },

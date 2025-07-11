@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "last month"
+export.gloss = "street, avenue"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ホㇱキイサㇺチュㇷ゚:hóski 'isám cup((H))" },
+	["Horobetsu"]	= { "パラル:(sép) paráru((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ホㇱキチュㇷ゚:hóskicup", "ホㇱキイサㇺチュㇷ゚:hóski 'isám cup((H))" },
+	["Saru"]	= { "パラル:paráru((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ホㇱキチュㇷ゚:hóskicup((H))" },
+	["Yakumo"]	= { "コタンル:kotán (kus) ru((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ホㇱキアンチュㇷ゚:hóski 'an (nín-)cup((H))" },
+	["Asahikawa"]	= { "チクㇱル:cikús (tóy) rú((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ホㇱキチュㇷ゚:hóski cup((H))" },
-	["Soya"]	= { "ホㇱキチュㇷ゚カムイ:hóski cúpkamuy (→251(40))((H))" },
+	["Nayoro"]	= { "ル:rú", "トイル:tóy ru((H))" },
+	["Soya"]	= { "ピㇼカパラル:pírka paráru((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ホㇱキアンチュㇷ゚:hoski 'an cup((H))" },
+	["Bihoro"]	= { "パラル:pararu((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "" },
+	["Kushiro"]	= { "ル:ru《道》((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ホㇱキイサㇺチュㇷ゚:hóski 'isám cup((H))" },
+	["Obihiro"]	= { "パラル:paráru((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "タンチュヘトコタイサンチュㇷ:tancuh 'etokota 'isan cuh((H))" },
+	["Raichishka"]	= { "コタンルー:kotanruu", "ルー:ruu((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

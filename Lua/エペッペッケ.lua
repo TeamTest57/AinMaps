@@ -4,7 +4,7 @@ export.gloss = "squid"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
-	["Abuta"]	= { "エペッペッケ:epetpetke", "セタアウ:setaaw((C2))" },
+	["Abuta"]	= { "エペッペッケ:epetpetke", "セターウ:setaaw((C2))" },
 	["Azuma"]	= { "" },
 	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },

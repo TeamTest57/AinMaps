@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "マチリ:maciri((C3))" },
-	["Raichishka"]	= { "ピリ:piri (大きい)", "マチリ:maciri (小さい)", "ピリコロキイ:pirikoro kii 《傷をする》((H))" },
+	["Raichishka"]	= { "ピリ:piri (大きい)", "マチリ:maciri (小さい)", "ピリコロキー:pirikoro kii 《傷をする》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "マチㇱ:macis(r-i)((C3))" },
 	["Usoro"]	= { "" },

@@ -74,11 +74,11 @@ export.syns = {
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "オタアネ:'otaane((HC))" },
+	["Nairo"]	= { "オターネ:'otaane((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "オタアネ:'otaane((HC))" },
+	["Ochiho"]	= { "オターネ:'otaane((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "オタアネ:'otaane((HC))" },
+	["Shiraura"]	= { "オターネ:'otaane((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

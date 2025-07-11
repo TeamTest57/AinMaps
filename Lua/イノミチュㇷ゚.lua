@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ルウチュㇷ:ruucuh (日本の 2 月に当たる)((H))" },
+	["Raichishka"]	= { "ルーチュㇷ:ruucuh (日本の 2 月に当たる)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

@@ -1,10 +1,10 @@
 local export = {}
 
-export.gloss = "jellyfish"
+export.gloss = "jingle bell"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
-	["Abuta"]	= { "トンル:tonru((C2))" },
+	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
 	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "アトゥイェトㇿ:atuyetor((C2))" },
+	["Horobetsu"]	= { "エトㇿ:etór((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -20,10 +20,10 @@ export.syns = {
 	["Niikappu"]	= { "" },
 	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "トンル:tonru((C2))" },
-	["Rebun"]	= { "トンル:tonru((C2))" },
-	["Samani"]	= { "フㇺペエトㇿ:humpeetor(-i)((C2))" },
-	["Saru"]	= { "" },
+	["Oshamambe"]	= { "" },
+	["Rebun"]	= { "" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "チㇼポ:círpo は [雅]《小鳥》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,28 +31,28 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "トンル:tónru (赤くて大きい, 食用)((H))" },
+	["Yakumo"]	= { "チㇼポエトㇿ:círpo 'etor (rímse を踊るとき帯につける)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "" },
-	["Soya"]	= { "" },
+	["Soya"]	= { "コンコ:kónko((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
-	["Akan"]	= { "フㇺペエトㇿ:humpeetor(-i)((C2))" },
+	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "フンペエトㇿ:hunpe'etor((H))", "フㇺペエトㇿ:humpeetor(-i)((C2))" },
+	["Bihoro"]	= { "エトㇿ:etor((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
-	["Fupushinai"]	= { "フㇺペエトㇿ:humpeetor(-i)((C2))" },
+	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "" },
-	["Kussharo"]	= { "フㇺペエトㇿ:humpeetor(-i)((C2))" },
+	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
@@ -67,9 +67,9 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ルㇷテンタ:ruhtenta", "ルㇷテントゥㇷ:ruhtentuh, -pihi [老]", "フレタスンペ:huretasunpe《大きな赤クラゲ》((H))" },
+	["Raichishka"]	= { "ポンコンコポンコンコ:ponkonko~pon konko((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "ルステンタイ:rusutentay((C2))" },
+	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "アウキカニ:gaqu=ki=kani《ベル》((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

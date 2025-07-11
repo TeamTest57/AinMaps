@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "パ:pá, (-ha)", "エパハヘンパㇰパアン:'epáha hénpakpa 'án? 《お前の年はいくつか》((H))" },
+	["Saru"]	= { "パ:pá, (-ha)", "エパハヘンパㇰパーン:'epáha hénpakpa 'án? 《お前の年はいくつか》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "パ:pá, (-ha)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "パ:pá, (-ha)", "エパハネㇷ゚カネワネイパケパアナ:'epáha népka ne wa? ～néypak 'epá 'aná? 《お前の年はいくつか》((H))" },
+	["Asahikawa"]	= { "パ:pá, (-ha)", "エパハネㇷ゚カネワネイパケパーナ:'epáha népka ne wa? ～néypak 'epá 'aná? 《お前の年はいくつか》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "パ:pá((H))" },
 	["Soya"]	= { "シネパポロ:sinepa poro, tupa poro と数える((H))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "パア:paa", "エパアハヘンパㇵノエアニヒ:'epaaha henpahno 'e'anihi? 《お前の年はいくつか》((H))" },
+	["Raichishka"]	= { "パー:paa", "エパーハヘンパㇵノエアニヒ:'epaaha henpahno 'e'anihi? 《お前の年はいくつか》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

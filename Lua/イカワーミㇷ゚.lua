@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "porcelain bowl"
+export.gloss = "coat"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "オーホイタンキ:o'óho 'itanki((H))" },
+	["Horobetsu"]	= { "ホカナシミㇷ゚:hokánasi míp((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "パッチ:pátci《鉢》", "シトカンニマ:sitókannima《餅を作るときのねり鉢》((H))" },
+	["Saru"]	= { "イカクㇱテㇷ゚:ikákustep", "イカワーミㇷ゚:'ikáwa'amíp((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ポロイタンキ:poro'ítanki", "トンプリ:tónpuri", "パッチ:pátci《おはぐろを入れる物》((H))" },
+	["Yakumo"]	= { "イカクㇱペ:ikákuspe《袖なしの羽織》", "イカクㇱチミㇷ゚:'ikákus cimíp((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "" },
+	["Asahikawa"]	= { "イカワーミㇷ゚:ikáwa 'amíp (ひざぐらいまである)((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "パッチ:pátci《おはぐろを入れる物》((H))" },
-	["Soya"]	= { "パッチ:patcí(熊祭に使うが井ではない)((H))" },
+	["Nayoro"]	= { "イカワーミㇷ゚:ikáwa 'amíp (羽織のように別に着る)((H))" },
+	["Soya"]	= { "アットゥㇱ:áttus《木の皮で織った, 上に羽織る物》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "パッチ:patci《酒を入れる入れもの》((H))" },
+	["Bihoro"]	= { "ハンチャ:hanca", "アットゥㇱ:'attus", "イミカクㇱペ:'imikakuspe《陣羽織》((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "イタンキ:itanki《椀(わん)、食器》,patci《鉢、耳付きたらい》((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ニマ:nimá", "パッチ:pátci《ねり鉢》((H))" },
+	["Obihiro"]	= { "イカワーミㇷ゚:iká wa 'amíp((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "モオロ:mooro", "パㇵチ:pahci《酒を入れる大きな鉢》((H))" },
+	["Raichishka"]	= { "イカークシミー:ikaakus'imii", "イカークㇱペ:'ikaakuspe((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "イミ:imi(コート)((BS))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

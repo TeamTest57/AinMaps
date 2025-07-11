@@ -22,7 +22,7 @@ export.syns = {
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "テタ:téta((HC))" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "タアンタ:ta'anta((HC))" },
+	["Samani"]	= { "ターンタ:ta'anta((HC))" },
 	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
@@ -51,13 +51,13 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "タンタ:tanta((HC))", "タアン:taan(ここにある、ここにいる、この)((K2021))" },
+	["Kushiro"]	= { "タンタ:tanta((HC))", "ターン:taan(ここにある、ここにいる、この)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "タアンタ:ta'ánta((HC))" },
+	["Obihiro"]	= { "ターンタ:ta'ánta((HC))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "テエタ:teeta((HC))" },
-	["Raichishka"]	= { "テエタ:teeta((HC))" },
+	["Maoka"]	= { "テータ:teeta((HC))" },
+	["Raichishka"]	= { "テータ:teeta((HC))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "テエタ:teeta((HC))" },
+	["Tarantomari"]	= { "テータ:teeta((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "テイタ:teyta((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "テエタ:teeta((HC))" },
+	["Ochiho"]	= { "テータ:teeta((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "テエタ:teeta((HC))" },
+	["Shiraura"]	= { "テータ:teeta((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "タウアンウワ:taw-an=uwa(ここにあります)", "タンテタ:tan=te-ta(ここ)", "タウ:taw(ここにあります)", "テッアンウワ:te=t[a]=an=uwa(ここですか？)", "トアンウワ:to=an=uwa(ここにあります)((V))" },
+	["Shumshu"]	= { "タウーンウワ:taw-an=uwa(ここにあります)", "タンテタ:tan=te-ta(ここ)", "タウ:taw(ここにあります)", "テッアンウワ:te=t[a]=an=uwa(ここですか？)", "トアンウワ:to=an=uwa(ここにあります)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

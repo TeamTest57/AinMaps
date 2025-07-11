@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "コㇿ:kor(a-an-)", "オアトゥワㇰカ:oatuwakka", "オテッテㇷ゚:otettep(-i)", "パウチチㇱテ:pawciciste", "パウチコㇿ:pawcikor(-an)", "パウチコッワチㇱ:pawcikot wa cis", "ロㇱキワウコピㇼカㇷ゚コㇿ:roskiwa ukopirkapkor", "サマㇰキホㇰケワウキ:samakki hokke wa uki", "ウエ:ue(-an)", "ウカタアン:ukataan", "ウカウン:ukaun(-an)", "ウキ:uki(-an)", "ウコパウチコㇿ:ukopawcikor(-an)", "ウコピㇼカㇷ゚コㇿ:ukopirkapkor(-an)", "ウコピㇼカポマン:ukopirkapoman", "ウコプリコㇿ:ukopurikor(-an)", "ウラム:uramu", "ウトゥラホㇰケ:uturahokke(-an)", "ウトゥイコトゥㇰカ:utuykotukka(-an)((C3))" },
+	["Bihoro"]	= { "コㇿ:kor(a-an-)", "オアトゥワㇰカ:oatuwakka", "オテッテㇷ゚:otettep(-i)", "パウチチㇱテ:pawciciste", "パウチコㇿ:pawcikor(-an)", "パウチコッワチㇱ:pawcikot wa cis", "ロㇱキワウコピㇼカㇷ゚コㇿ:roskiwa ukopirkapkor", "サマㇰキホㇰケワウキ:samakki hokke wa uki", "ウエ:ue(-an)", "ウカターン:ukataan", "ウカウン:ukaun(-an)", "ウキ:uki(-an)", "ウコパウチコㇿ:ukopawcikor(-an)", "ウコピㇼカㇷ゚コㇿ:ukopirkapkor(-an)", "ウコピㇼカポマン:ukopirkapoman", "ウコプリコㇿ:ukopurikor(-an)", "ウラム:uramu", "ウトゥラホㇰケ:uturahokke(-an)", "ウトゥイコトゥㇰカ:utuykotukka(-an)((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "キイ:kii[他]", "オチウ:'ociw[自][卑]", "ウラアヌㇷ:'uraanuh, -p〜-k[自][老]", "ウラムノオ:'uramunoo[老]((H))" },
+	["Raichishka"]	= { "キー:kii[他]", "オチウ:'ociw[自][卑]", "ウラーヌㇷ:'uraanuh, -p〜-k[自][老]", "ウラムノー:'uramunoo[老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "チョアウテㇱパレチョヨㇺパレ:coawtespare coyompare", "マㇵテクㇷラㇺポコンテ:mahtekuhrampokonte", "オㇹカヨラㇺポコンテ:ohkayo rampo konte", "ウトロㇹケ:utorohke(-an)", "ウトゥルキ:uturuki(-an)", "ウヲコㇹ:uwokoh(t-an)((C3))" },

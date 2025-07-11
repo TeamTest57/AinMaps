@@ -1,29 +1,29 @@
 local export = {}
 
-export.gloss = "The wind blows."
+export.gloss = "stake"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "レラルイ:réra rúy((HC))" },
+	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "レラアㇱ:réra 'ás((HC))" },
+	["Horobetsu"]	= { "イクㇱペ:ikúspe", "トゥントゥ:túntu 《たい枕》((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "レラルイ:réra rúy((HC))" },
-	["Nukkibetsu"]	= { "レラルイ:réra rúy((HC))" },
+	["Niikappu"]	= { "" },
+	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "レラアㇱ:réra 'ás((HC))" },
+	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "レラアㇱ:rera 'as((HC))" },
-	["Saru"]	= { "" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "イクㇱペ:ikúspe", "ウライニ:'uráyni (旭に同じ)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "レラアㇱ:réra 'ás((HC))" },
+	["Yakumo"]	= { "イクㇱペ:ikúspe", "トゥントゥ:túntu", "ウライニ:'uráyni (旭に同じ)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "レラアㇱ:réra 'ás((HC))" },
+	["Asahikawa"]	= { "ウライニ:uráyni 《魚をとるため川に立てる杭》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "レラルイ:réra rúy((HC))" },
-	["Soya"]	= { "レラユㇷ゚ケ:réra yúpke((HC))" },
+	["Nayoro"]	= { "ウライニ:uráyni (旭に同じ)((H))" },
+	["Soya"]	= { "ウライニ:uráyni((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "レラアㇱ:rera 'as((HC))" },
+	["Bihoro"]	= { "イクㇱペ:ikuspe", "ウライニ:'urayni (旭に同じ)((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "レラアㇱ:rera 'as((HC))", "アㇱ:as((雨や雪が)降る、(風が)吹く),purke(びゅうびゅう吹く(風が)、舞い上がる(雪が))((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "レラルイ:réra rúy((HC))" },
+	["Obihiro"]	= { "イクㇱペ:ikúspe", "ウライニ:'uráyni (旭に同じ)((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "レエラアン:reera 'an((HC))" },
-	["Raichishka"]	= { "レエラアㇱ:reera 'as((HC))" },
+	["Maoka"]	= { "" },
+	["Raichishka"]	= { "トゥントゥ:tuntu (《柱》も)((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "レエラアㇱ:reera 'as((HC))" },
+	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "テエラアㇱ:teera 'as((HC))" },
+	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "レエラアン:reera 'aɴ((HC))" },
+	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "レエラアㇱ:reera 'as((HC))" },
+	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "ウライ:urai (ヤナ(魚を取る) 170)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

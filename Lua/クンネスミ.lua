@@ -1,29 +1,29 @@
 local export = {}
 
-export.gloss = "they / them"
+export.gloss = "(Chinese) ink"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "トオカウタㇻ:to'oká 'utàr((HC))" },
+	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "トオノカユタㇻ:to'ónokay 'utàr,to'ánkur 'utar((HC))" },
+	["Horobetsu"]	= { "クンネスミ:kúnnesumi((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "トオカウタㇻ:to'óka 'utàr((HC))" },
-	["Nukkibetsu"]	= { "トオカアイヌウタリ:to'oká 'áynu 'utàri((HC))" },
+	["Niikappu"]	= { "" },
+	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "トオンクルタㇻ:to'ónkur 'utàr((HC))" },
+	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "トオアヌタㇻ:to'o'an 'utar((HC))" },
-	["Saru"]	= { "" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "クンネスミ:kúnnesumi((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "トアンクルタㇻ:to'ánkur 'utàr((HC))" },
+	["Yakumo"]	= { "クンネスミ:kúnnesumi((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "タアヌタㇻ:ta'ánutar(?)((HC))" },
+	["Asahikawa"]	= { "" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "トカウタㇻ:toká 'utàr,to'án 'áynu 'utàr((HC))" },
+	["Nayoro"]	= { "" },
 	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
@@ -44,20 +44,20 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "トゥアヌタㇻ:tu'an 'utar((HC))" },
+	["Bihoro"]	= { "" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "トゥアヌタㇻ:tu'anutar((HC))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "トオカウタㇻ:to'óka(y) 'utàr((HC))" },
+	["Obihiro"]	= { "スミ:sumí [日本語?]((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "タラアイヌウタラ:tara 'aynu 'utara((HC))" },
-	["Raichishka"]	= { "タアノカアイヌウタㇵ:ta'anoka 'aynu'utah,taranoka 'aynu'utah((HC))" },
+	["Maoka"]	= { "" },
+	["Raichishka"]	= { "クラㇱノパㇱ:kurasno pas, -ihi", "スミ:sumi [新]((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "タラアイヌウタラ:tara 'aynu 'utara,taroka 'aynu((HC))" },
+	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "タラアイヌ:tara 'aynu('utara)((HC))" },
+	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "タラアイヌウタラ:tara 'aynu 'utara((HC))" },
+	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "タラアイヌウタラ:tara 'aynu 'utara((HC))" },
+	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "カンピヌイェㇷ゚:kanpi-nuye-p(インク)((BS))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "トゥㇱ:tús((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "チュㇱ:cus((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "トゥㇱ:tús, -í((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -67,14 +67,14 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "トゥㇱ:tus((HC))" },
-	["Raichishka"]	= { "カイタ:kayta((HC))" },
+	["Raichishka"]	= { "カイタ:kayta((HC))", "ルウェカー:ruwekaa [老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "トゥㇱ:tus((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "セルㇱカア:serus kaa((HC))" },
+	["Nairo"]	= { "セルㇱカー:serus kaa((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "カイタ:kayta((HC))" },
 	["Shirahama"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "アイトゥㇱ:ay=tus(ロープ)((V))" },
+	["Shumshu"]	= { "ハイトゥㇱㇷ:haitush (148)((H))", "アイトゥㇱ:ay=tus(ロープ)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

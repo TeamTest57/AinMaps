@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "サラニㇷ゚:saraníp(主として背負う. ブドウ・オヒョウの皮で作るリュックのような物)", "カンコ:kánko(竹の)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "サラニㇷ゚:saránip(幌に同じ. 背負ったり下げたりする)", "カロㇷ゚ハンア:károp(handbag, shoulderbag のようなもの)((H))" },
+	["Asahikawa"]	= { "サラニㇷ゚:saránip(幌に同じ. 背負ったり下げたりする)", "カロㇷ゚ハンー:károp(handbag, shoulderbag のようなもの)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "サラニㇷ゚:saránip(幌に同じ. 一種の手さげ袋)((H))" },
 	["Soya"]	= { "サラニㇷ゚:saránip(幌に同じ)((H))" },

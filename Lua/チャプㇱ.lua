@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "チャアプㇱ:caapus((HC))" },
-	["Raichishka"]	= { "チャアプㇱ:caapus, -ihi", "チャアトイ:caatoy, -ehe 《下唇の内側》((H))" },
+	["Maoka"]	= { "チャープㇱ:caapus((HC))" },
+	["Raichishka"]	= { "チャープㇱ:caapus, -ihi", "チャートイ:caatoy, -ehe 《下唇の内側》((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "チャアプㇱ:caapus((HC))" },
+	["Tarantomari"]	= { "チャープㇱ:caapus((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "チャアプㇱ:caapus((HC))" },
+	["Nairo"]	= { "チャープㇱ:caapus((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "チャアプㇱ:caapus((HC))" },
+	["Ochiho"]	= { "チャープㇱ:caapus((HC))" },
 	["Shirahama"]	= { "チャプㇱ:ċápus(口唇),ċátoy(口唇),sánca(口唇)((CW))" },
-	["Shiraura"]	= { "チャアプㇱ:caapus((HC))", "チャトイ:catoy(-e)((C3))" },
+	["Shiraura"]	= { "チャープㇱ:caapus((HC))", "チャトイ:catoy(-e)((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },

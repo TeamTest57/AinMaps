@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "シタソトゥリ:sitasoturi [自][老]", "タンネヘエセコオマンテ:tanne heese ko'omante(安心して, あるいはえらい相談を始める時, 大息をつく)((H))" },
+	["Raichishka"]	= { "シタソトゥリ:sitasoturi [自][老]", "タンネヘーセコーマンテ:tanne heese ko'omante(安心して, あるいはえらい相談を始める時, 大息をつく)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

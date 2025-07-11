@@ -74,7 +74,7 @@ export.syns = {
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "アパア:'apaa((HC))" },
+	["Nairo"]	= { "アパー:'apaa((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "オナ:'ona(父親?)((HC))", "アパ:apa((C3))" },
 	["Shirahama"]	= { "" },

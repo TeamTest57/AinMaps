@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ホロケイポ:horokeypo((C3))" },
-	["Raichishka"]	= { "イワネㇸポ:iwanehpo (15歳前後-20歳前後)", "スクㇷクル:sukuhkuru (男女とも)", "イワネㇸポオㇹカヨ:'iwanehpo 'ohkayo(30歳台まで)((H))" },
+	["Raichishka"]	= { "イワネㇸポ:iwanehpo (15歳前後-20歳前後)", "スクㇷクル:sukuhkuru (男女とも)", "イワネㇸポーㇹカヨ:'iwanehpo 'ohkayo(30歳台まで)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

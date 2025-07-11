@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "チュㇷ゚:cúp((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "チュㇷ゚:cúp((H))" },
-	["Soya"]	= { "チュㇷ゚カムイモオン:cupkamuyは<<moon>>((H))" },
+	["Soya"]	= { "チュㇷ゚カムイモーン:cupkamuyは<<moon>>((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

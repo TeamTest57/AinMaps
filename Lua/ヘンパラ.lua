@@ -74,7 +74,7 @@ export.syns = {
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "ヘンパラカアネ:henpara kaane((HC))" },
+	["Nairo"]	= { "ヘンパラカーネ:henpara kaane((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "ヘンパラ:heɴpara((HC))" },
 	["Shirahama"]	= { "" },

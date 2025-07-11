@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "プヨウㇱケカリインカㇻ:púy o 'uske kari 'ínkar((H))" },
+	["Saru"]	= { "プヨウㇱケカリーンカㇻ:púy o 'uske kari 'ínkar((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ポンスヤンワカリクピインカㇻ:pón suy 'an wa karí kupí'inkar((H))" },
+	["Yakumo"]	= { "ポンスヤンワカリクピーンカㇻ:pón suy 'an wa karí kupí'inkar((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "スイカリオタヌ:súykari 'otánu((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "スイカリインカㇻ:súykari 'ínkar((H))" },
+	["Nayoro"]	= { "スイカリーンカㇻ:súykari 'ínkar((H))" },
 	["Soya"]	= { "アパオインカㇻ:apa 'o'ínkar((H))" },
 	["Teshio"]	= { "" },
 
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "スイカリインカㇻ:suy kari 'inkar((H))" },
+	["Bihoro"]	= { "スイカリーンカㇻ:suy kari 'inkar((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "プイカアリピインカラ:puy kaari pi'inkara((H))" },
+	["Raichishka"]	= { "プイカーリピーンカラ:puy kaari pi'inkara((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

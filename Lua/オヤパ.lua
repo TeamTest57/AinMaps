@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "オヤパ:oyápa", "アシㇼパアウㇰヤクン:'asírpa 'a'úk yakun 《年が変われば》((H))" },
+	["Saru"]	= { "オヤパ:oyápa", "アシㇼパーウㇰヤクン:'asírpa 'a'úk yakun 《年が変われば》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "アシリパア:asiripaa((H))" },
+	["Raichishka"]	= { "アシリパー:asiripaa((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

@@ -70,7 +70,7 @@ export.syns = {
 	["Raichishka"]	= { "トゥスクル:tusukuru がその代わり((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "クスリカラアイヌ:kusurikaraaynu((C3))" },
+	["Usoro"]	= { "クスリカラーイヌ:kusurikaraaynu((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

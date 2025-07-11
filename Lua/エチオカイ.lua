@@ -66,15 +66,15 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "エチョオカユタラ:'ecookay 'utara,'e'ani 'utara((HC))" },
+	["Maoka"]	= { "エチョーカユタラ:'ecookay 'utara,'e'ani 'utara((HC))" },
 	["Raichishka"]	= { "エチオカヤㇵチン:'eci'okayahcin((HC))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "エチョオカウタ:'ecooka(y) 'uta(ri)((HC))" },
+	["Tarantomari"]	= { "エチョーカウタ:'ecooka(y) 'uta(ri)((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "エチョオカイ:'eco'okay('utara)((HC))" },
+	["Nairo"]	= { "エチョーカイ:'eco'okay('utara)((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "エアニウタラ:'e'ani 'utara((HC))" },
 	["Shirahama"]	= { "" },

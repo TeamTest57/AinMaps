@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "トノンミマㇰ:tonónmimak", "トットミマㇰ:tóttomimak((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "コッチャケタアンニマㇰ:kótcaketa 'án nimák", "トノンニマㇰ:tonónnimak (乳歯の前歯で, あとでおちる)((H))" },
+	["Asahikawa"]	= { "コッチャケターンニマㇰ:kótcaketa 'án nimák", "トノンニマㇰ:tonónnimak (乳歯の前歯で, あとでおちる)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "トノンニマㇰ:tonónnimak (旭に同じ)((H))" },
 	["Soya"]	= { "カトゥウェンニマㇰ:katúwennimak《らんぐい歯》((H))" },

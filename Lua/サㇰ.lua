@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "サキイタ:sakiita (7-8 月)", "サㇵノㇱキ:sahnoski (真夏. 8 月頃)", "サㇵケㇱ:sahkes (9-10 月)((H))" },
+	["Raichishka"]	= { "サキータ:sakiita (7-8 月)", "サㇵノㇱキ:sahnoski (真夏. 8 月頃)", "サㇵケㇱ:sahkes (9-10 月)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "サクノスキ:sakunosuki (133)", "サㇰノシケ:saknoshike (168)((H))", "サカン:sakan(夏)((M1892))", "サㇰアン:sak=an(夏)((V))" },
+	["Shumshu"]	= { "サクノスキ:sakunosuki (133)", "サㇰノシケ:saknoshike (168)((H))", "サカン:sakan(夏)((M1892))", "サㇰーン:sak=an(夏)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

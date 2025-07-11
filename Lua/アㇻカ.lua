@@ -67,10 +67,10 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "アラカ:araka[自](急に)", "ユウニン:yuunin[自](ひどくないが永続的に)", "タスㇺ:tasum[自](骨等ひどくキリキリと)((H))" },
+	["Raichishka"]	= { "アラカ:araka[自](急に)", "ユーニン:yuunin[自](ひどくないが永続的に)", "タスㇺ:tasum[自](骨等ひどくキリキリと)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
-	["Usoro"]	= { "チカㇵカウカㇵカアラカ:cikahkaukahkaaraka", "エコモアラカ:ekomoaraka", "エクㇷクルアラカ:ekuhkuruaraka", "ヘラリアラカ:herariaraka", "ナㇱテナㇱテアラカ:nastenastearaka", "ニウサラカ:niusaraka", "タサシケアラカ:tasasikearaka", "ウコユプ:ukoyupu(-an)((C3))" },
+	["Usoro"]	= { "チカㇵカウカㇵカーラカ:cikahkaukahkaaraka", "エコモアラカ:ekomoaraka", "エクㇷクルアラカ:ekuhkuruaraka", "ヘラリアラカ:herariaraka", "ナㇱテナㇱテアラカ:nastenastearaka", "ニウサラカ:niusaraka", "タサシケアラカ:tasasikearaka", "ウコユプ:ukoyupu(-an)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

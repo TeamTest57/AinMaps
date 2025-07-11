@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "オヤトオ:oyatoo", "オヤシンマ:'oyasinma [老]((H))" },
+	["Raichishka"]	= { "オヤトー:oyatoo", "オヤシンマ:'oyasinma [老]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

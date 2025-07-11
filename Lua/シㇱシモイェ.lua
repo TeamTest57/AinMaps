@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "シリシュミイ:shiri shumii (130)((H))", "シルスムイ:shirusumui(地震)((M1892))", "シㇼシム:sir=simuj(地震)((V))" },
+	["Shumshu"]	= { "シリシュミー:shiri shumii (130)((H))", "シルスムイ:shirusumui(地震)((M1892))", "シㇼシム:sir=simuj(地震)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

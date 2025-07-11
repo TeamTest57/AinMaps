@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ヘカチ:hekaci((HC))" },
-	["Raichishka"]	= { "ヘカチ:hekaci (10歳前後)", "ヘカチウタㇵ:hekaci'utah 《子供たち》", "ハチコオポンヘカチ:hacikoo ponhekaci (2-4歳)", "アㇵカポ:'ahkapo (5-7歳)((H))" },
+	["Raichishka"]	= { "ヘカチ:hekaci (10歳前後)", "ヘカチウタㇵ:hekaci'utah 《子供たち》", "ハチコーポンヘカチ:hacikoo ponhekaci (2-4歳)", "アㇵカポ:'ahkapo (5-7歳)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ヘカチ:hekaci((HC))" },
 	["Usoro"]	= { "" },
@@ -76,7 +76,7 @@ export.syns = {
 	["Aihama"]	= { "" },
 	["Nairo"]	= { "ヘカチ:hekaci((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "ポオ:poo(親に対する?)((HC))" },
+	["Ochiho"]	= { "ポー:poo(親に対する?)((HC))" },
 	["Shirahama"]	= { "ポ:po(子)((CW))" },
 	["Shiraura"]	= { "ヘカチ:hekaci((HC))" },
 	["Taraika"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "オンオ:bonbo (135)((H))" },
+	["Shumshu"]	= { "オンー:bonbo (135)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

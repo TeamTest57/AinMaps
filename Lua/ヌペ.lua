@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "ヌペ:nupe((C3))" },
 	["Maoka"]	= { "ヌペ:nupe((C3))" },
-	["Raichishka"]	= { "ヌウペ:nuupe, -he((H))" },
+	["Raichishka"]	= { "ヌーペ:nuupe, -he((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ヌペ:nupe((C3))" },
 	["Usoro"]	= { "" },

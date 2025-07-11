@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "パイカラ:paykara (3-4 月)", "パイカラオトゥウタン:paykara'otuutan (5-6 月)((H))" },
+	["Raichishka"]	= { "パイカラ:paykara (3-4 月)", "パイカラオトゥータン:paykara'otuutan (5-6 月)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

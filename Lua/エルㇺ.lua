@@ -38,7 +38,7 @@ export.syns = {
 	["Chikabumi"]	= { "ニヨクイ:niyokuy((C2))" },
 	["Nayoro"]	= { "エルㇺ:érum((H))" },
 	["Soya"]	= { "エルムン:erúmun((H))" },
-	["Teshio"]	= { "フレエルㇺ:hureerum", "イルラエルㇺ:iruraerum", "オニクイ:onikuy", "シトイェルㇺ:sitoyerum((C2))" },
+	["Teshio"]	= { "フレールㇺ:hureerum", "イルラエルㇺ:iruraerum", "オニクイ:onikuy", "シトイェルㇺ:sitoyerum((C2))" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },

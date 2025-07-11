@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "coat"
+export.gloss = "stick [of wood]"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ホカナシミㇷ゚:hokánasi míp((H))" },
+	["Horobetsu"]	= { "ニフㇺ:níhum((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "イカクㇱテㇷ゚:ikákustep", "イカワアミㇷ゚:'ikáwa'amíp((H))" },
+	["Saru"]	= { "ニウイペ:ní'uype", "ニルクㇺ:nírukum 《切った棒》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,20 +31,20 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "イカクㇱペ:ikákuspe《袖なしの羽織》", "イカクㇱチミㇷ゚:'ikákus cimíp((H))" },
+	["Yakumo"]	= { "ルクㇺ:(ní-)rukum", "ニフㇺ:níhum((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "イカワアミㇷ゚:ikáwa 'amíp (ひざぐらいまである)((H))" },
+	["Asahikawa"]	= { "ニルクㇺ:nírukum(《丸太》も)((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "イカワアミㇷ゚:ikáwa 'amíp (羽織のように別に着る)((H))" },
-	["Soya"]	= { "アットゥㇱ:áttus《木の皮で織った, 上に羽織る物》((H))" },
+	["Nayoro"]	= { "サㇰマ:sákma 《細い木から枝をはらった物》((H))" },
+	["Soya"]	= { "ニルクㇺ:nírukum((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ハンチャ:hanca", "アットゥㇱ:'attus", "イミカクㇱペ:'imikakuspe《陣羽織》((H))" },
+	["Bihoro"]	= { "ニフㇺ:nihum((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "イカワアミㇷ゚:iká wa 'amíp((H))" },
+	["Obihiro"]	= { "ニ:ní((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "イカアクシミイ:ikaakus'imii", "イカアクㇱペ:'ikaakuspe((H))" },
+	["Raichishka"]	= { "ニールクㇺ:niirukum, -ihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "イミ:imi(コート)((BS))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

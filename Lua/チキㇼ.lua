@@ -69,7 +69,7 @@ export.syns = {
 	["Maoka"]	= { "パルレ:parure((HC))" },
 	["Raichishka"]	= { "ケマ:kema,('urekucis)para'ure((HC))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "パルウレ:paruure,kema((HC))" },
+	["Tarantomari"]	= { "パルーレ:paruure,kema((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast

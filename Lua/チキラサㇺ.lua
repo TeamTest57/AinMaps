@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "チキリウレアサマ:cikíri 'uré'asáma((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ウレアサマ:uré'asáma", "チキラサマ:cikír'asama [稀]((H))" },
-	["Soya"]	= { "ウレトイ:urétoy", "ケマアサマ:kemá'asama((H))" },
+	["Soya"]	= { "ウレトイ:urétoy", "ケマーサマ:kemá'asama((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "ケマオシㇱテ:kemaosiste((C3))" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ケマオシㇱタアケ:kema'osistaake, -he((H))" },
+	["Raichishka"]	= { "ケマオシㇱターケ:kema'osistaake, -he((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -77,8 +77,8 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ケマアサㇺ:kema-asam(足裏、あしうら),kemera(足裏),ure-poh(足裏、あしうら)((CW))" },
-	["Shiraura"]	= { "ケマアサン:kemaasan(m-a)", "ケマオシㇱタ:kemaosista", "ウレポㇹ:urepoh(k-i)((C3))" },
+	["Shirahama"]	= { "ケマーサㇺ:kema-asam(足裏、あしうら),kemera(足裏),ure-poh(足裏、あしうら)((CW))" },
+	["Shiraura"]	= { "ケマーサン:kemaasan(m-a)", "ケマオシㇱタ:kemaosista", "ウレポㇹ:urepoh(k-i)((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "ウレポㇹ:urepoh(k-i)((C3))" },
 	["Yamambetsu"]	= { "" },

@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "オンネクㇽ:ónnekur, 'ónne'utar", "パポロクㇽ:páporokur, páporo'utar((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "オンネアイヌウタㇻ:ónne 'áynu 'utár((H))" },
+	["Asahikawa"]	= { "オンネアイヌータㇻ:ónne 'áynu 'utár((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オンネㇷ゚:ónnep", "オンネウタㇻ:'ónne'utár (老人たち)((H))" },
 	["Soya"]	= { "オンネクㇽ:ónne kur((H))" },
