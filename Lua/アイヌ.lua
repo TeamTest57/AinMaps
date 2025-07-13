@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to breathe"
+export.gloss = "person [man in general]"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "アイヌ:'áynu((HC))", "ヘセ:hése((H))" },
+	["Horobetsu"]	= { "アイヌ:'áynu((HC))", "ウタㇻ:'utár 《人々》((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "アイヌ:'áynu((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "アイヌ:'áynu((HC))" },
-	["Saru"]	= { "ヘセ:hése [自]((H))" },
+	["Saru"]	= { "アイヌ:áynu", "クㇽ:kur 《…ひと》", "ウタㇻ:'utár 《人々》((H))", "アイヌピト:aynupito((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "アイヌ:'áynu((HC))", "ヘセ:hése((H))" },
+	["Yakumo"]	= { "アイヌ:'áynu((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "アイヌ:'áynu((HC))", "ヘセ:hése", "タㇱマㇰ:tásmak 《あえぐ》((H))" },
+	["Asahikawa"]	= { "アイヌ:'áynu((HC))", "アイヌウタㇻ:'áynu 'utár 《はらから》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "アイヌ:'áynu((HC))", "ヘセ:hése((H))" },
-	["Soya"]	= { "アイヌ:'áynu((HC))", "ヘセ:hése((H))" },
+	["Nayoro"]	= { "アイヌ:'áynu((HC))", "ウタㇻ:'utár 《人々》((H))" },
+	["Soya"]	= { "アイヌ:'áynu((HC))", "トノ:tonó《上の人》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "アイヌ:'áynu((HC))", "ヘセ:hese [自]((H))" },
+	["Bihoro"]	= { "アイヌ:'áynu((HC))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "アイヌ:'áynu((HC))", "ヘセ:hese(息をする)((K2021))" },
+	["Kushiro"]	= { "アイヌ:'áynu((HC))", "ピト:pito《人》", "ピトウタリ:pito-utari《人たち》((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "" },
+	["Nemuro"]	= { "シサㇺ:sisam(人|[誠の生まれた様])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "アイヌ:'áynu((HC))", "ヘセ:hése [自]((H))" },
+	["Obihiro"]	= { "アイヌ:'áynu((HC))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "アイヌ:'áynu((HC))" },
-	["Raichishka"]	= { "アイヌ:'áynu((HC))", "ヘーセ:heese [自]((H))" },
+	["Raichishka"]	= { "アイヌ:'áynu((HC))", "エンチウ:'enciw[良]", "トノウタㇵ:tono 'utah《偉い人》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "アイヌ:'áynu((HC))" },
 	["Usoro"]	= { "" },
@@ -86,11 +86,11 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "アイノ:aino (118)", "クル:kuru (120)", "グル:guru (123)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "" },
+	["South Kuril"]	= { "アイヌ:aynu(人間)((BS))" },
 }
 
 return export

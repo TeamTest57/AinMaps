@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to drink"
+export.gloss = "horn"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "キラウ:kiráw((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "キラウ:kiráw((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "キラウ:kiráw, -e((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -41,17 +41,17 @@ export.syns = {
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
-	["Abashiri"]	= { "" },
+	["Abashiri"]	= { "ユㇰキラウ:yukkiraw(-e)((C3))" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "キラウ:kiráw((HC))" },
+	["Bihoro"]	= { "キラウ:kiráw((HC))", "キラウテㇰ:kirawtek(-e)((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "キラウ:kiráw((HC))", "イク:iku(酒を飲む、(何かを)飲む)", "ク:ku(･･･を飲む)((K2021))" },
+	["Kushiro"]	= { "キラウ:kiráw((HC))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
@@ -77,7 +77,7 @@ export.syns = {
 	["Nairo"]	= { "キラウ:kiráw((HC))" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "キラウ:kiráw((HC))" },
-	["Shirahama"]	= { "" },
+	["Shirahama"]	= { "キラッイ:kirati(角、つの)((CW))" },
 	["Shiraura"]	= { "キラウ:kiráw((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
@@ -86,11 +86,11 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "クンク:ku=n=ku(飲む )((V))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "コンペク:kon pe-ku《飲め》", "ペクルスイ:pe-ku rusuy《飲みたい》((BS))" },
+	["South Kuril"]	= { "" },
 }
 
 return export

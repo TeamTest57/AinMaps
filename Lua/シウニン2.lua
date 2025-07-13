@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "green"
+export.gloss = "green or blue"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "タラㇷ゚:tarap(緑)", "テユナ:teyuna(緑)((V))" },
+	["Shumshu"]	= { "" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

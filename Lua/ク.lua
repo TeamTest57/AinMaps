@@ -1,29 +1,29 @@
 local export = {}
 
-export.gloss = "bow"
+export.gloss = "to drink"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "" },
+	["Biratori"]	= { "ク:kú((HC))" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ク:kú((H))" },
+	["Horobetsu"]	= { "ク:kú((HC))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "" },
-	["Nukkibetsu"]	= { "" },
+	["Niikappu"]	= { "ク:kú((HC))" },
+	["Nukkibetsu"]	= { "ク:kú((HC))" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "" },
+	["Oshamambe"]	= { "ク:kú((HC))" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "" },
-	["Saru"]	= { "ク:kú,(-hu)" },
+	["Samani"]	= { "ク:kú((HC))" },
+	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ク:kú, -wé((H))" },
+	["Yakumo"]	= { "ク:kú((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ク:kú((H))" },
+	["Asahikawa"]	= { "ク:kú((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ク:kú((H))" },
-	["Soya"]	= { "ク:kú((H))" },
+	["Nayoro"]	= { "ク:kú((HC))" },
+	["Soya"]	= { "ク:kú((HC))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ク:ku((H))" },
+	["Bihoro"]	= { "ク:kú((HC))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "ク:ku(弓)((K2021))" },
+	["Kushiro"]	= { "ク:kú((HC))", "イク:iku(酒を飲む、(何かを)飲む)" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ク:kú, -yé((H))" },
+	["Obihiro"]	= { "ク:kú((HC))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "" },
-	["Raichishka"]	= { "クー:kuu((H))" },
+	["Maoka"]	= { "クー:kuu((HC))" },
+	["Raichishka"]	= { "クー:kuu((HC))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "" },
+	["Tarantomari"]	= { "クー:kuu((HC))" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "" },
+	["Nairo"]	= { "クー:kuu((HC))" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "" },
+	["Ochiho"]	= { "クー:kuu((HC))" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "" },
+	["Shiraura"]	= { "クー:kuu((HC))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,11 +86,11 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ク:ku(147)", "チアニク:chia ni ku(161)((H))", "チャニク:cani=ku(弓)((V))" },
+	["Shumshu"]	= { "クンク:ku=n=ku(飲む )((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "" },
+	["South Kuril"]	= { "コンペク:kon pe-ku《飲め》", "ペクルスイ:pe-ku rusuy《飲みたい》((BS))" },
 }
 
 return export

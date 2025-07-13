@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to be blunt; dull"
+export.gloss = "to be dull(-edged) : a dull knife"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -51,7 +51,7 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "エヌカㇻ:'enúkar((HC))" },
+	["Kushiro"]	= { "エヌカㇻ:'enúkar((HC))", "エヌカレムㇱ:enukar emus(なまくら刀)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
