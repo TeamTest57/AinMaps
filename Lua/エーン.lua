@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to be sharp(-edged) : a sharp knife"
+export.gloss = "to be cut"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "エエン:'e'én((HC))" },
+	["Horobetsu"]	= { "エエン:'e'én((HC))", "トゥイ:túy((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "エエン:'e'én((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "エエン:'e'én((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "トゥイ:túy[自]((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "エエン:'e'én((HC))" },
+	["Yakumo"]	= { "エエン:'e'én((HC))", "トゥイ:túy((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "エエン:'e'én((HC))" },
+	["Asahikawa"]	= { "エエン:'e'én((HC))", "トゥイ:túy((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "エエン:'e'én((HC))" },
+	["Nayoro"]	= { "エエン:'e'én((HC))", "トゥイ:túy((H))" },
 	["Soya"]	= { "エエンケ:'e'énke((HC))" },
 	["Teshio"]	= { "" },
 
@@ -44,20 +44,20 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "エエン:'e'én((HC))" },
+	["Bihoro"]	= { "エエン:'e'én((HC))", "トゥイ:tuy[自]((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "エエン:'e'én((HC))", "エーン:een(鋭い(するどい)、切れる、とがっている)((K2021))" },
+	["Kushiro"]	= { "エエン:'e'én((HC))", "エーン:een(鋭い(するとい)、切れる、とがっている)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "エエン:'e'én((HC))" },
+	["Obihiro"]	= { "エエン:'e'én((HC))", "トゥイ:túy[自]((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "エエンケ:'e'enke((HC))" },
-	["Raichishka"]	= { "エンケノー:'enkenoo((HC))" },
+	["Raichishka"]	= { "エンケノー:'enkenoo((HC))", "トゥイ:tuy[自]((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "エンケ:'enke((HC))" },
 	["Usoro"]	= { "" },
