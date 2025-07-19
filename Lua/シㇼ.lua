@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "シㇼ:sír- (→29; 30)((H))" },
+	["Saru"]	= { "シㇼ:sír- (→29, 30)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "シㇼ:sír (→29; 30)((H))" },
+	["Yakumo"]	= { "シㇼ:sír (→29, 30)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ニソロ:nísoro", "ト:tó", "シㇼ:sír" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "シㇼ:sír (→29; 30)((H))" },
-	["Soya"]	= { "シㇼ:sír (→29; 30)((H))" },
+	["Nayoro"]	= { "シㇼ:sír (→29, 30)((H))" },
+	["Soya"]	= { "シㇼ:sír (→29, 30)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "シリ:siri (→29; 30)((H))" },
+	["Raichishka"]	= { "シリ:siri (→29, 30)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

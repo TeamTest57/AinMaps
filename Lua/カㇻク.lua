@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "カㇻク:kárku" },
+	["Horobetsu"]	= { "カㇻク:kárku, (-hu)((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "カㇻク:kárku" },
+	["Saru"]	= { "カㇻク:kárku, (-hu)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "カㇻク:kárku" },
+	["Yakumo"]	= { "カㇻク:kárku, (-hu)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "カㇻク:kárku((H))" },

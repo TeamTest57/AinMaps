@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "サランペ:saránpe", "センカキ:sénkaki《絹布》", "コソンテ:kosónte(?)((H))" },
+	["Yakumo"]	= { "サランペ:saránpe", "コソンテ:kosónte(?)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "サランペ:saránpe", "コソンテ:kosónte は《陣羽織》((H))" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "サランペ:saranpe", "テパ:tepa《絹布》((H))" },
+	["Bihoro"]	= { "サランペ:saranpe" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

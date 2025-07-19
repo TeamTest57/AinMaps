@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "カ:ká" },
+	["Saru"]	= { "カ:ká, (-ha) ('át《オヒョウニレの皮》,nipés《シナの皮》から作る)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "カ:ká" },
+	["Yakumo"]	= { "カ:ká, (-ha)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "カ:ká ('át をよって作る)", "カタㇰカ:kátak 《ká をつないで玉にした物》((H))" },

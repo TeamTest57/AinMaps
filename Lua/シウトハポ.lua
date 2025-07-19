@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "firefly"
+export.gloss = "husband's mother"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ニンニンケㇷ゚:nínninkep((H))", "ニニンケㇷ゚ポ:nininkeppo", "ニンニンケㇷ゚ポ:ninninkeppo((C2))" },
+	["Horobetsu"]	= { "シウトハポ:síwtohapo((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -21,30 +21,30 @@ export.syns = {
 	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "" },
-	["Rebun"]	= { "ヌンヌケㇷ゚ポ:nunnukeppo((C2))" },
-	["Samani"]	= { "ニンニンケㇷ゚:ninninkep((C2))" },
-	["Saru"]	= { "ニンニンケㇷ゚ポ:nínninkeppo((H))" },
+	["Rebun"]	= { "" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "シウトハポク:síwtohapo (ku-,,(私の))", "シウト:síwto,(-ho) 'unárpe((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
 	["Takashima"]	= { "" },
 	["Toyoura"]	= { "" },
-	["Urakawa"]	= { "ニニンケㇷ゚:nininkep((C2))" },
+	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ニネケンポ:nínekenpo((H))" },
+	["Yakumo"]	= { "シウトフッチ:síwtohutci", "クコㇿフッチ:kukórhutci((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ニンニンケㇷ゚:nínninkep((H))" },
+	["Asahikawa"]	= { "フチ:húci((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ニンニンケㇷ゚:nínninkep((H))" },
+	["Nayoro"]	= { "シウトカッケマッ:síwtokatkemat((H))" },
 	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
-	["Ashoro"]	= { "ニンニンケカムイ:ninninkekamuy", "ニンニンケㇷ゚:ninninkep((C2))" },
-	["Bihoro"]	= { "ニンニンケㇷ゚:ninninkep((H))", "ニニンケㇷ゚:nininkep", "ニニンケㇷ゚カムイ:nininkepkamuy", "ニンニンケㇷ゚ポ:ninninkeppo((C2))" },
+	["Ashoro"]	= { "" },
+	["Bihoro"]	= { "ホクトット:hoku totto((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -52,22 +52,22 @@ export.syns = {
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
 	["Kushiro"]	= { "" },
-	["Kussharo"]	= { "ニニンケㇷ゚:nininkep", "ニニンケㇷ゚カムイ:nininkepkamuy", "ニンニンケㇷ゚:ninninkep((C2))" },
+	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "トㇺトㇺキキㇼ:tómtomkikir((H))" },
+	["Obihiro"]	= { "トモクヌカルナㇻペ:言えば tomó kunúkar 'unárpe((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
-	["Tokachi"]	= { "トㇺトㇺキキㇼ:tomtomkikir((C2))" },
+	["Tokachi"]	= { "" },
 	["Tooro"]	= { "" },
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ニケニケㇸ:nikenikeh, -pihi((H))" },
+	["Raichishka"]	= { "マㇵムンチリペ:mahmunciripe, -he((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

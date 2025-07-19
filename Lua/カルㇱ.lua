@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "カルㇱ:karús((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "カルㇱ:karús (食用になるのは cikísani; susú; nipés; kómni 等の茸)((H))" },
+	["Asahikawa"]	= { "カルㇱチキサニ:karús (食用になるのは cikísani, susú, nipés, kómni 等の茸)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "カルㇱ:karús((H))" },
 	["Soya"]	= { "カルㇱ:karús((H))" },
