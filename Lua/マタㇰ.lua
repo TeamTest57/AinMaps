@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "マタㇰ:mátak, -i(女の)", "マタパ:matápa,(-ha)(男の)", "トゥレㇱ:turés, -i [雅・老](男の)((H))", "チセタトゥレㇱ:cisetatures(-i)", "トゥレㇱヌ:turesnu((C3))" },
+	["Saru"]	= { "マタㇰ:mátak, -i(女の)", "マタパ:matápa", "トゥレㇱ:turés, -i [雅・老](男の)((H))", "チセタトゥレㇱ:cisetatures(-i)", "トゥレㇱヌ:turesnu((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "トゥレㇱ:turés((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "マタㇰ:mátak(女が言う)", "トゥレㇱ:turés(男が言う)((H))" },
-	["Soya"]	= { "マタㇰ:maták,-ihi(女の)", "トゥレㇱ:turés,-ihi(男の)((H))" },
+	["Soya"]	= { "マタㇰ:maták, -ihi(女の)", "トゥレㇱ:turés, -ihi(男の)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "マタㇵ:matah(k-i)((C3))" },
-	["Raichishka"]	= { "ヘーコポ:heekopo,-ho((H))" },
+	["Raichishka"]	= { "ヘーコポ:heekopo, -ho((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

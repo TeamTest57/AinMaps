@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "ニッポ:nitpo", "オペㇾポ:operpo", "サンニッポ:sannitpo((C3))" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ミッポ:mítpo,(-ho)((H))", "ニッポ:nitpo((C3))" },
+	["Horobetsu"]	= { "ミッポ:mítpo", "ニッポ:nitpo((C3))" },
 	["Horoman"]	= { "ミッポ:mitpo((C3))" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ミッポ:mitpo((C3))" },
-	["Saru"]	= { "ミッポ:mítpo,(-ho) ∼míppo,(-ho)((H))" },
+	["Saru"]	= { "ミッポ:mítpo", "ミㇷ゚ポ:(-ho) ∼míppo" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "ミッポ:mitpo((C3))" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ミッポ:mítpo,(-ho)", "オㇰカヨミッポ:'ókkayo mítpo(男)", "マッネミッポ:mátne mítpo(女)((H))" },
+	["Yakumo"]	= { "ミッポ:mítpo", "オㇰカヨミッポ:'ókkayo mítpo(男)", "マッネミッポ:mátne mítpo(女)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ミㇷ゚ポ:míppo", "オㇰカイミㇷ゚ポ:'ókkay míppo(男)", "マッネミㇷ゚ポ:mátne míppo(女)((H))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "カイヌマイ:k-aynu=mac=i(孫娘)", "クミチ:ku=mici(孫)((V))" },
+	["Shumshu"]	= { "ㇰアイヌマイ:k-aynu=mac=i(孫娘)", "クミチ:ku=mici(孫)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

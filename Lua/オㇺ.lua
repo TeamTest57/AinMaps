@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "オㇺ:óm", "オㇺメㇰカ:'ómmekka (上側)", "オㇺポネ:'ómpone《大腿骨》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オㇺ:óm, -íhi", "オㇺカㇺ:'ómkam《腿肉》", "ピンキスッ:pínkisut《鼠蹊部》((H))" },
-	["Soya"]	= { "オㇺ:óm", "オㇺカㇱケ:'om(mek)kaske, -he (外)", "オㇺコトㇿ:'ómkotor, -oho", "オㇺコトㇿケ:'ómkotorke, -he (内)((H))" },
+	["Soya"]	= { "オㇺ:óm", "オㇺカㇱケ:'om(mek)kaske, -he (外)", "オㇺコトㇿ:'ómkotor, -oho~'ómkotorke, -he (内)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

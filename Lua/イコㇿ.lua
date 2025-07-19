@@ -31,10 +31,10 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "イコㇿ:ikór", "チコシンニヌㇷ゚:cikosínninup《山で授かり, 他人には見せない秘密の物》((H))" },
+	["Yakumo"]	= { "イコㇿ:ikór", "チコシンニヌㇷ゚:cikosínninup《山で授かり" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "イコㇿ:ikór(刀(中はたけみつ), 'emús(日本刀. 中は本物), síntoko 等)((H))" },
+	["Asahikawa"]	= { "イコㇿエムㇱシントコ:ikór(刀(中はたけみつ); 'emús(日本刀. 中は本物); síntoko 等)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "イコㇿ:ikór((H))" },
 	["Soya"]	= { "イコンネㇷ゚:ikónnep", "イコㇿ:'ikor((H))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "チャアマㇵ:ca'amah, -puhu((H))" },
+	["Raichishka"]	= { "チャーマㇵ:ca'amah, -puhu((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

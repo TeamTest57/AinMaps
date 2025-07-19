@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "アマㇺ:amám（米・稲, 粟, 稗）((H))" },
+	["Saru"]	= { "アマㇺ:amám（米・稲; 粟; 稗）((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "アマㇺ:'amam《米, 飯》", "トイハル:tóyharu《貯えてある作物》((H))" },
+	["Yakumo"]	= { "アマㇺ:'amam《米", "トイハル:tóyharu《貯えてある作物》((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "アマㇺ:amám（H）((H))" },

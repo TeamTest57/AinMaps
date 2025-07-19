@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ノタカㇺ:notákam, -i(頬骨の部分)", "ノタフイ:notáhuy, -e(頬骨の下, やせるとくぼむ所)", "ノヤㇷ゚:noyáp, -i(顔の側面)((H))" },
+	["Saru"]	= { "ノタカㇺ:notákam, -i(頬骨の部分)", "ノタフイ:notáhuy, -e(頬骨の下; やせるとくぼむ所)", "ノヤㇷ゚:noyáp, -i(顔の側面)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ノタカㇺ:notakám, -i", "ノヤㇷ゚:noyáp, -í", "フイ:húy (鮭・鱒の)", "フイカㇺ:húykam (,,)", "キライカㇺ:kiráykam (熊の)((H))" },
+	["Yakumo"]	= { "ノタカㇺ:notakám, -i", "ノヤㇷ゚:noyáp, -í", "フイ:húy (鮭・鱒の)", "フイカㇺ:húykam (;;)", "キライカㇺ:kiráykam (熊の)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ノタカㇺ:notákam((H))" },

@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ポㇰナアミㇷ゚:pókna'amip((H))" },
+	["Saru"]	= { "ポㇰナーミㇷ゚:pókna'amip((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "チンパン:cínpan", "ポㇰナアミㇷ゚:pókna 'amíp", "カパㇻペ:kapárpe (cimip) 《薄い物》((H))" },
+	["Yakumo"]	= { "チンパン:cínpan", "ポㇰナーミㇷ゚:pókna 'amíp", "カパㇻペ:kapárpe (cimip) 《薄い物》((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "オポㇰナサミリテニミアットゥㇱ:opóknas 'amí ritén 'imí 《'áttus の下に着る柔らかい物》((H))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "アラペンネイミー:arapenne'imii (男のは短く, 女のは長じゅばん)((H))" },
+	["Raichishka"]	= { "アラペンネイミー:arapenne'imii (男のは短く; 女のは長じゅばん)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

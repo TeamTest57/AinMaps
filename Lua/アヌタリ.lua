@@ -51,7 +51,7 @@ export.syns = {
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "コルタㇻ:kor-utar(家族)((K2021))" },
+	["Kushiro"]	= { "コㇿウタㇻ:kor-utar(家族)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "チソルナイヌウタㇵ:cisorun 'aynu 'utah, -rikehe((H))" },
+	["Raichishka"]	= { "チソルナイヌータㇵ:cisorun 'aynu 'utah, -rikehe((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

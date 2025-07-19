@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ホッケ:hótke", "クットコ:kúttoko 《仰向けになる》", "ウㇷ゚プㇱ:'úppus 《うつぶせになる》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ホッケ:hótke", "クットコノ:kúttokono ,,(仰向けに)", "ウトㇱサㇺネ:'utóssamne ,,(横向きに)", "シトゥリワ:situri wa ,,(身体をのばして)((H))" },
+	["Asahikawa"]	= { "ホッケ:hótke", "クットコノ:kúttokono", "ウトㇱサㇺネ:'utóssamne", "シトゥリワ:situri wa" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ホッケ:hótke((H))" },
 	["Soya"]	= { "ホッケ:hótke", "ケマトゥリ:kemáturi 《方言 : ながまる》((H))" },

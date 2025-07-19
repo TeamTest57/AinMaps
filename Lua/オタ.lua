@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "オタ:'otá((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ホタ:hota((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "オタ:otá", "ピヨタ:piyóta 《火山灰》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "オタ:ota (164)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

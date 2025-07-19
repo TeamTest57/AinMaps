@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "ウナㇻペ:unarpe((C3))" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ウナㇻペ:unárpe (kónnarpe (彼の))", "ポロ:poró-'', pón-'' 等(→42)" },
+	["Saru"]	= { "ウナㇻペ:unárpe (kónnarpe (彼の))", "ポロ:poró-''", "ポン:pón-'' 等(→42)" },
 	["Shiraoi"]	= { "ウナㇻペ:unarpe((C3))" },
 	["Shizunai"]	= { "コンナㇻペ:konnarpe((C3))" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "ウナㇻペ:unarpe((C3))" },
-	["Yakumo"]	= { "ウナㇻペ:unárpe", "ポロウナㇻペ:伯 poro'únarpe, 叔 pón'unarpe" },
+	["Yakumo"]	= { "ウナㇻペ:unárpe", "ポロウナㇻペ:伯 poro'únarpe", "ポヌナㇻペ:叔 pón'unarpe" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ウナㇻペ:unárpe（父母の姉妹）((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ウナㇻペ:unárpe", "ポイサポ:póysapo（若いおば）((H))" },
-	["Soya"]	= { "ウナㇻペ:unárpe", "オンネウナㇻペ:伯 'ónne 'unárpe, 叔 pón 'unárpe" },
+	["Soya"]	= { "ウナㇻペ:unárpe", "オンネウナㇻペ:伯 'ónne 'unárpe", "ポヌナㇻペ:叔 pón 'unárpe" },
 	["Teshio"]	= { "ウナㇻペ:unarpe((C3))" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "ウナㇵペ:unahpe((C3))" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ウナㇵペ:unahpe,-he,'unarape [老]", "ポロ:伯 poro'', 叔 pon''" },
+	["Raichishka"]	= { "ウナㇵペ:unahpe, -he", "ウナラペ:'unarape [老]", "ポロ:伯 poro''", "ポン:叔 pon''" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ウナㇵペ:unahpe", "ポイサポ:poysapo", "ウナラペ:unarape((C3))" },
 	["Usoro"]	= { "" },

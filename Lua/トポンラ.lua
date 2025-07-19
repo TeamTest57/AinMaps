@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "トポンラ:topónra((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "トペンラ:topénra《石に生える水苔(N), ドロドロして長い沼の水苔(H)》((H))" },
+	["Asahikawa"]	= { "トペンラ:topénra《石に生える水苔(N)" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "" },
 	["Soya"]	= { "" },

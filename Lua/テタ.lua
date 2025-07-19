@@ -22,7 +22,7 @@ export.syns = {
 	["Ogifushi"]	= { "" },
 	["Oshamambe"]	= { "テタ:téta((HC))" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "タアンタ:ta'anta((HC))" },
+	["Samani"]	= { "ターンタ:ta'anta((HC))" },
 	["Saru"]	= { "" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "タアンタ:ta'ánta((HC))" },
+	["Obihiro"]	= { "ターンタ:ta'ánta((HC))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "タワンウワ:taw-an=uwa(ここにあります)", "タンテタ:tan=te-ta(ここ)", "タウ:taw(ここにあります)", "テッアンウワ:te=t[a]=an=uwa(ここですか？)", "トアンウワ:to=an=uwa(ここにあります)((V))" },
+	["Shumshu"]	= { "タウーンウワ:taw-an=uwa(ここにあります)", "タンテタ:tan=te-ta(ここ)", "タウ:taw(ここにあります)", "テッアンウワ:te=t[a]=an=uwa(ここですか？)", "トアンウワ:to=an=uwa(ここにあります)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

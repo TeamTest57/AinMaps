@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "アチャ:aca((C3))" },
 	["Samani"]	= { "アチャポ:acapo((C3))" },
-	["Saru"]	= { "アチャポ:acápo", "アチャ:'acá", "ポロ:2人以上いれば poró-'', pón-'' と言って区別する. 伯・叔に無関係" },
+	["Saru"]	= { "アチャポ:acápo", "アチャ:'acá", "ポロ:2人以上いれば poró-''", "ポン:pón-'' と言って区別する. 伯・叔に無関係" },
 	["Shiraoi"]	= { "アチャポ:acapo((C3))" },
 	["Shizunai"]	= { "アチャ:aca", "アチャポ:acapo((C3))" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "アチャ:aca((C3))" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "アチャポロ:acá (伯 poro-'', 叔 pon-''; 父方・母方の区別なし)", "ケウスッ:kéwsut, -u(親戚の老人)((H))" },
+	["Yakumo"]	= { "アチャ:acá (伯 poro-''; 叔 pon-''; 父方・母方の区別なし)", "ケウスッ:kéwsut, -u(親戚の老人)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ケウストゥフ:kéwsutuhu(父の兄)", "アチャポ:'ácapo(母の男兄弟)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "アチャ:áca((H))" },
-	["Soya"]	= { "ケㇱト:késto", "オンネケㇱト:伯 'ónne késto, 叔 pón késto" },
+	["Soya"]	= { "ケㇱト:késto", "オンネケㇱト:伯 'ónne késto", "ポンケㇱト:叔 pón késto" },
 	["Teshio"]	= { "アチャ:aca((C3))" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "アチャ:aca((C3))" },
-	["Raichishka"]	= { "アチャポ:acapo, -ho", "ポロ:伯 poro'', 叔 haciko''" },
+	["Raichishka"]	= { "アチャポ:acapo, -ho", "ポロ:伯 poro''", "ハチコ:叔 haciko''" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "アチャ:aca", "アチャポ:acapo((C3))" },
 	["Usoro"]	= { "アチャポ:acapo((C3))" },

@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チクニ:cikúni, ni((HC))" },
+	["Horobetsu"]	= { "チクニ:cikúni, ni((HC))", "ニ:ní" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "チクニ:cikuní((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ニ:ni((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "チクニ:cikúni", "ニ:ní((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ニ:ní, cikuní((HC))" },
+	["Yakumo"]	= { "ニ:ní, cikuní((HC))", "チクニ:cikuní((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ニ:ní((HC))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ニー:nii(木)((V))" },
+	["Shumshu"]	= { "ニ:ni (118; 164)((H))", "ニー:nii(木)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

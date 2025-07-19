@@ -5,7 +5,7 @@ export.gloss = "salmon"
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "アシッチェㇷ゚:asitcep", "チェㇷ゚:cep", "ヘレルㇱチェㇷ゚:hereruscep", "イットチェㇷ゚:ittocep", "カムイチェㇷ゚:kamuycep", "メㇱカㇱ:meskas", "オイシル:oisiru", "ペウレチェㇷ゚:pewrecep((C2))" },
-	["Azuma"]	= { "カムヨロオアㇻパチェㇷ゚:kamuy oro oarpa cep", "シチェㇷ゚:sicep((C2))" },
+	["Azuma"]	= { "カムヨローアㇻパチェㇷ゚:kamuy oro oarpa cep", "シチェㇷ゚:sicep((C2))" },
 	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "イナウコッチェㇷ゚:inawkotcep", "カムイチェㇷ゚:kamuycep((C2))" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "シペ:sípe", "カムイチェㇷ゚:kamúycep", "チュㇰチェㇷ゚:cúkcep", "チュキペ:cukipé", "シペナンポシㇷ゚ペラ:sípenanpo(生まれたばかりの)；síppera(,,)((H))" },
+	["Yakumo"]	= { "シペ:sípe", "カムイチェㇷ゚:kamúycep", "チュㇰチェㇷ゚:cúkcep", "チュキペ:cukipé", "シペナンポシㇷ゚ペラ:sípenanpo(生まれたばかりの)；síppera(;;)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "カムイチェㇷ゚:kamúy cep", "チュㇰカムイチェㇷ゚:cúk kamúy cep", "チュㇰチェㇷ゚:cúkcep", "シチャ:síca 《“秋あじの王様”》((H))" },

@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "イペオㇷ゚:ipé'op", "オㇷ゚:'op は《ほこ, 柄》", "オピペ:'opipe 《槍先》((H))" },
+	["Horobetsu"]	= { "イペオㇷ゚:ipé'op", "オㇷ゚:'op は《ほこ", "オピペ:'opipe 《槍先》((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "オㇷ゚:óp, -í", "ペラオㇷ゚:pera'óp (三叉の)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "オㇷ゚:óp 《やすの柄》", "ピンネ:pínne ,,(男の)", "マッネ:mátne ,,(女の)((H))" },
+	["Asahikawa"]	= { "オㇷ゚:óp 《やすの柄》", "ピンネ:pínne", "マッネ:mátne" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オㇷ゚:óp((H))" },
 	["Soya"]	= { "オㇷ゚:óp((H))" },

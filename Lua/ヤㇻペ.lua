@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ヤㇻペ:yárpe, (-he)((H))" },
+	["Saru"]	= { "ヤㇻペ:yárpe" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ヤㇻペ:yárpe, (-he) 《方言：どんざ》((H))" },
+	["Yakumo"]	= { "ヤㇻペ:yárpe" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ホオマㇵ:ho'omah, -puhu((H))" },
+	["Raichishka"]	= { "ホーマㇵ:ho'omah, -puhu((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

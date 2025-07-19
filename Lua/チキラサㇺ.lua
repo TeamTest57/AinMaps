@@ -37,7 +37,7 @@ export.syns = {
 	["Asahikawa"]	= { "チキリウレアサマ:cikíri 'uré'asáma((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ウレアサマ:uré'asáma", "チキラサマ:cikír'asama [稀]((H))" },
-	["Soya"]	= { "ウレトイ:urétoy", "ケマアサマ:kemá'asama((H))" },
+	["Soya"]	= { "ウレトイ:urétoy", "ケマーサマ:kemá'asama((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -77,7 +77,7 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "ケマアサㇺ:kema-asam(足裏、あしうら)", "ケメラ:kemera(足裏)", "ウレポㇹ:ure-poh(足裏、あしうら)((CW))" },
+	["Shirahama"]	= { "ケマーサㇺ:kema-asam(足裏、あしうら)", "ケメラ:kemera(足裏)", "ウレポㇹ:ure-poh(足裏、あしうら)((CW))" },
 	["Shiraura"]	= { "ケマーサン:kemaasan(m-a)", "ケマオシㇱタ:kemaosista", "ウレポㇹ:urepoh(k-i)((C3))" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "ウレポㇹ:urepoh(k-i)((C3))" },

@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ウンマ:únma((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ウマ:úma", "ㇺマ:ḿma((H))" },
+	["Asahikawa"]	= { "ウマㇺマ:úma~ḿma((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "" },
 	["Soya"]	= { "ウマ:umá((H))" },

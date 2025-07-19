@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "チセサㇰ:cisésak [自]《やもめになる》(男, 女)", "シヨンプヤㇻ:siyónpuyar《最近夫に死なれた女》((H))", "シㇼキラㇷ゚クㇽ:sirkirapkur", "シヨㇺプヤㇻ:siyompuyar((C3))" },
+	["Saru"]	= { "チセサㇰ:cisésak [自]《やもめになる》(男; 女)", "シヨンプヤㇻ:siyónpuyar《最近夫に死なれた女》((H))", "シㇼキラㇷ゚クㇽ:sirkirapkur", "シヨㇺプヤㇻ:siyompuyar((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,20 +31,20 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ヤイチㇱテクㇽ:yáyciste-kur (;-menoko) (死別したもの)", "チセサㇰクㇽ:cisesákkur", "マッサㇰクㇽ:mátsakkur", "ホクサㇰクㇽ:hokusákkur", "シネンネクㇽ:sinénnekur, sineménoko", "ヤイトゥラクㇽ:yáyturakur((H))" },
+	["Yakumo"]	= { "ヤイチㇱテクㇽ:yáyciste-kur (～-menoko) (死別したもの)", "チセサㇰクㇽ:cisesákkur", "マッサㇰクㇽ:mátsakkur", "ホクサㇰクㇽ:hokusákkur", "シネンネクㇽ:sinénnekur", "シネメノコ:sineménoko", "ヤイトゥラクㇽ:yáyturakur((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "マッサコㇰカヨ:mátsak 'ókkayo(独身, 男)", "マチラヨㇰカヨ:mací ray 'ókkayo《よめさんが死んだ男》", "オクサㇰメノコ:okúsak menóko(独身, 女)", "オクフライメノコ:'okúhu ray menóko(旦那さんの死んだ女)", "ライコㇱ:ráykos(,,)((H))" },
+	["Asahikawa"]	= { "マッサコㇰカヨ:mátsak 'ókkayo(独身; 男)", "マチラヨㇰカヨ:mací ray 'ókkayo《よめさんが死んだ男》", "オクサㇰメノコ:okúsak menóko(独身; 女)", "オクフライメノコ:'okúhu ray menóko(旦那さんの死んだ女)", "ライコㇱ:ráykos(;;)((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ソケㇱサㇰ:sókessak 《やもめになる》(男)", "ソパサㇰ:sopásak 《,,》(女)((H))" },
-	["Soya"]	= { "マチイサㇺペ:mací'isampe(男)", "マッサㇰペ:mátsakpe(男)", "ホクイサㇺペ:hokú'isampe(独身, 女)", "ホクサㇰノアン:hokúsak no 'an 《夫に別れて一人でいる》((H))" },
+	["Nayoro"]	= { "ソケㇱサㇰ:sókessak 《やもめになる》(男)", "ソパサㇰ:sopásak 《" },
+	["Soya"]	= { "マチーサㇺペ:mací'isampe(男)", "マッサㇰペ:mátsakpe(男)", "ホクイサㇺペ:hokú'isampe(独身; 女)", "ホクサㇰノアン:hokúsak no 'an 《夫に別れて一人でいる》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "チセサㇰ:cisesak [自] 《やもめになる》(男, 女)", "ヤイチㇱテ:yayciste《,,》 (男, 女)", "ウサㇻケオア:'usarke 'o'a(男)", "ロㇿケオア:rorke 'o'a(女)((H))" },
+	["Bihoro"]	= { "チセサㇰ:cisesak [自] 《やもめになる》(男; 女)", "ヤイチㇱテ:yayciste《", "ウサㇻケオア:'usarke 'o'a(男)", "ロㇿケオア:rorke 'o'a(女)((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "エホクサフナㇵペ:ehokusah 'unahpe(女), 'emahsah 'acapo(男)", "カヌチ:kanuci[悪]《“後家”＝売春婦？》", "ヤイチセコロ:yaycisekoro[自]《独身でいる》((H))" },
+	["Raichishka"]	= { "エホクサフナㇵペ:ehokusah 'unahpe(女)", "エマㇵサハチャポ:'emahsah 'acapo(男)", "カヌチ:kanuci[悪]《“後家”＝売春婦？》", "ヤイチセコロ:yaycisekoro[自]《独身でいる》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

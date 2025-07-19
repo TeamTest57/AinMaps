@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "パㇻレㇰテ:pár rékte", "パンレㇰテ:pánrekte((H))" },
+	["Yakumo"]	= { "パㇻレㇰテパンレㇰテ:pár rékte~pánrekte((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "フセ:húse((H))" },

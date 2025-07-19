@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "テイネㇷ゚:téynep", "ポナヤイ:pón 'ayay", "アヤイ:'áyay (少し笑うようになった頃)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ポンシㇱペポイシㇱペ:pón síspe〜póysispe", "ヤㇻペ:yárpe (3, 4歳まで)((H))" },
+	["Asahikawa"]	= { "ポンシㇱペポイシㇱペ:pón síspe〜póysispe", "ヤㇻペ:yárpe (3; 4歳まで)((H))" },
 	["Chikabumi"]	= { "ヌマットムㇱペ:numattomuspe", "ポㇺポㇱタ:pomposta", "ポノペㇾケ:ponoperke", "ポイシ:poysi", "ポイシオンタㇰ:poysiontak(-u)", "ポイヤㇻペ:poyyarpe", "シオンタㇰ:siontak(-i)", "ヤㇻペ:yarpe((C3))" },
 	["Nayoro"]	= { "ヤㇻペ:yárpe", "テイネㇷ゚:téynep", "シオン:si'ón", "オスㇱ:'osús", "ポンペ:pónpeは《小さなもの》((H))", "ポイシオン:poysion" },
 	["Soya"]	= { "テンネㇷ゚:ténnep((H))" },

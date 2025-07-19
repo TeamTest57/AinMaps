@@ -31,10 +31,10 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ハヨㇰペ:hayókpe,(-he)", "トゥミハヨㇰペ:tumi háyokpe((H))" },
+	["Yakumo"]	= { "ハヨㇰペ:hayókpe", "トゥミハヨㇰペ:tumi háyokpe((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ハヨㇷ゚ペン:hayóppe(N, H ともに\"見たことはない\")((H))" },
+	["Asahikawa"]	= { "ハヨㇷ゚ペ:hayóppe(N; H ともに\"見たことはない\")((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "アヨㇷ゚ペ:ayóppe((H))" },
 	["Soya"]	= { "ハヨㇷ゚ペ:hayóppe", "カニプンカサ:kánipunkasa《かぶと》((H))" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "アヨㇷ゚ペ:ayoppe(実在しない. ユー カラ, サコルペのみ)((H))" },
+	["Bihoro"]	= { "アヨㇷ゚ペ:ayoppe(実在しない. ユー カラ; サコルペのみ)((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

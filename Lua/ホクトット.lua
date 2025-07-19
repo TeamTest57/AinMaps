@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "last month"
+export.gloss = "husband's mother"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ホㇱキイサㇺチュㇷ゚:hóski 'isám cup((H))" },
+	["Horobetsu"]	= { "シウトハポ:síwtohapo((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ホㇱキチュㇷ゚:hóskicup", "ホㇱキイサㇺチュㇷ゚:hóski 'isám cup((H))" },
+	["Saru"]	= { "シウトハポ:síwtohapo (ku-;;(私の))", "シウト:síwto", "ウナㇻペ:(-ho) 'unárpe((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,20 +31,20 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ホㇱキチュㇷ゚:hóskicup((H))" },
+	["Yakumo"]	= { "シウトフッチ:síwtohutci", "クコㇿフッチ:kukórhutci((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ホㇱキアンチュㇷ゚:hóski 'an (nín-)cup((H))" },
+	["Asahikawa"]	= { "フチ:húci((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ホㇱキチュㇷ゚:hóski cup((H))" },
-	["Soya"]	= { "ホㇱキチュㇷ゚カムイ:hóski cúpkamuy (→251(40))((H))" },
+	["Nayoro"]	= { "シウトカッケマッ:síwtokatkemat((H))" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ホㇱキアンチュㇷ゚:hoski 'an cup((H))" },
+	["Bihoro"]	= { "ホクトット:hoku totto((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ホㇱキイサㇺチュㇷ゚:hóski 'isám cup((H))" },
+	["Obihiro"]	= { "トモクヌカルナㇻペ:言えば tomó kunúkar 'unárpe((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "タンチュヘトコタイサンチュㇷ:tancuh 'etokota 'isan cuh((H))" },
+	["Raichishka"]	= { "マㇵムンチリペ:mahmunciripe, -he((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

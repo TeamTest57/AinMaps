@@ -34,10 +34,10 @@ export.syns = {
 	["Yakumo"]	= { "ヌンペ:núnpe (魚の皮を煮て作る)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ヌンペ:núnpe", "チェㇷ゚ヌンペ:cép núnpe (魚の頭, あご等を乾して煮つめて作る)((H))" },
+	["Asahikawa"]	= { "ヌンペ:núnpe", "チェㇷ゚ヌンペ:cép núnpe (魚の頭; あご等を乾して煮つめて作る)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ヌンペ:núnpe (yúpepise 《川ザメのうきぶくろ》を煮つめて作る)((H))" },
-	["Soya"]	= { "ヌンペ:núnpe (魚の皮で作り, 何でもくっつける)((H))" },
+	["Soya"]	= { "ヌンペ:núnpe (魚の皮で作り; 何でもくっつける)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern

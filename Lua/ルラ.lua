@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ルラ:rúra((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ルラ:rúra<<持って行って返す, 届ける>>((H))" },
+	["Asahikawa"]	= { "ルラ:rúra<<持って行って返す" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ルラ:rúra((H))" },
 	["Soya"]	= { "ルラ:rúra", "イルラ:'irúra((H))" },

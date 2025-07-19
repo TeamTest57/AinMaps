@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "エフレ:ehúre, sapahúre", "カㇷ゚ケ:kápke, 'erúsne, 'eképne [悪]《丸はげ》((H))" },
+	["Yakumo"]	= { "エフレ:ehúre", "サパフレ:sapahúre", "カㇷ゚ケ:kápke", "エルㇱネ:'erúsne", "エケㇷ゚ネ:'eképne [悪]《丸はげ》((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ケㇷ゚ネ:képne", "エピッチェ:'epítce 《はげ》", "ユㇰケㇾコㇿ:yúkker kor 《はげ上がっている》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "トントネ:tóntone,'etóntone,'etóy", "ケㇷ゚ネ:képne《ところどころはげている》", "ロㇺコㇿ:rómkor《うすはげ》", "エピッチェ:'epítce[悪]", "エカㇷ゚ケ:'ekápke[悪]((H))" },
+	["Nayoro"]	= { "トントネ:tóntone", "エトントネ:'etóntone", "エトイ:'etóy", "ケㇷ゚ネ:képne《ところどころはげている》", "ロㇺコㇿ:rómkor《うすはげ》", "エピッチェ:'epítce[悪]", "エカㇷ゚ケ:'ekápke[悪]((H))" },
 	["Soya"]	= { "ケㇷ゚ネ:képne", "ロンコㇿ:rónkor(?)((H))" },
 	["Teshio"]	= { "" },
 

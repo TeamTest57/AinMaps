@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "チオカイ:ci'ókay [excl.]", "アノカイ:'anókay [incl.]((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "クウタリ:ku'útari", "チオカイ:ci'ókay [excl.]", "アノカイ:'anókay [incl.]((HC))" },
+	["Nayoro"]	= { "クータリ:ku'útari", "チオカイ:ci'ókay [excl.]", "アノカイ:'anókay [incl.]((HC))" },
 	["Soya"]	= { "チョカユタリ:cókay 'utàri, 'anókay 'utàri((HC))" },
 	["Teshio"]	= { "" },
 
@@ -90,7 +90,7 @@ export.syns = {
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "アイヌウタㇻ:aynu-utar(私たち)((BS))" },
+	["South Kuril"]	= { "アイヌータㇻ:aynu-utar(私たち)((BS))" },
 }
 
 return export

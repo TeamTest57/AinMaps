@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ラㇺ:rám, -ú《考え》", "ケウトゥㇺ:kéwtum, -u《気分, 根性》", "サンペ:sánpe《気持, 気分》(本来《心臓》)((H))", "サㇺペ:sampe((C3))" },
+	["Saru"]	= { "ラㇺ:rám, -ú《考え》", "ケウトゥㇺ:kéwtum, -u《気分", "サンペ:sánpe《気持", "サㇺペ:sampe((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ケウトゥㇺ:kéwtum, -u((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ラム:ramu《胸, 心持》", "ケウトゥㇺ:kéwtum《気分, 根性》", "サンペ:sánpe《胸, 気分》", "プリ:púri《根性, くせ, 性質》", "イレンカ:'irénka 《意向》((H))" },
+	["Asahikawa"]	= { "ラム:ramu《胸", "ケウトゥㇺ:kéwtum《気分", "サンペ:sánpe《胸", "プリ:púri《根性", "イレンカ:'irénka 《意向》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ラㇺ:rám 《精神》", "ケウトゥㇺ:kéwtum 《心ばえ》", "ヤイヌ:yáynu 《考え》", "イレンカ:'irénka 《意向》", "プリ:púri《性質》((H))" },
 	["Soya"]	= { "ラムフ:ramúhu", "ケウトゥㇺウェン:kéwtum wén 《気持が悪い》((H))" },

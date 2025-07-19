@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "ハウ:haw, -e", "アウ:'aw, -e((H))" },
+	["Bihoro"]	= { "ハウ:haw, -e~'aw, -e((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "ハウ:haw,-ehe((H))" },
+	["Raichishka"]	= { "ハウ:haw, -ehe((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ハウ:hau (145, 声音160)((H))", "クトゥㇺ:kutum(声)((V))" },
+	["Shumshu"]	= { "ハウ:hau (145; 声音160)((H))", "クトゥㇺ:kutum(声)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

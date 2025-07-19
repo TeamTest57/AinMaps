@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ラㇻ:rár, -ú", "ランヌマ:ránnuma,(-ha)((H))" },
+	["Yakumo"]	= { "ラㇻ:rár, -ú", "ランヌマ:ránnuma" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ラㇻ:rár, -ú((H))" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "ラㇻ:rar, -u(眉毛|[短毛])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ランヌマ:ránnuma,(-ha)((H))" },
+	["Obihiro"]	= { "ランヌマ:ránnuma" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },

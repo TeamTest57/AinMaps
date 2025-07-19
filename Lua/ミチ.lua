@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "アチャポ:'acapó((HC))" },
 	["Rebun"]	= { "アチポ:acipo((C3))" },
 	["Samani"]	= { "アチャ:'aca((HC))" },
-	["Saru"]	= { "イヤポ:iyápo《おとうさん》", "ミチ:míci, micíhi《〃》", "オナ:'oná, (-ha)《父親》((H))" },
+	["Saru"]	= { "イヤポ:iyápo《おとうさん》", "ミチ:míci", "ミチヒ:micíhi《〃》", "オナ:'oná" },
 	["Shiraoi"]	= { "ミチ:mici((C3))" },
 	["Shizunai"]	= { "アチャ:aca", "ミチ:mici((C3))" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "アチャポ:'acapó((HC))", "トットアチャポ:tótto'acapo [敬]((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ハンペ:hánpe((HC))", "オナ:'oná, (-ha)((H))" },
+	["Asahikawa"]	= { "ハンペ:hánpe((HC))", "オナ:'oná" },
 	["Chikabumi"]	= { "ハㇺペ:hampe", "ルㇷ゚ネアイヌ:rupneaynu((C3))" },
 	["Nayoro"]	= { "ハンペ:hánpe((HC))", "オナ:'oná((H))", "ハㇺペ:hampe((C3))" },
 	["Soya"]	= { "アチャ:'acá((HC))" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "アチャ:aca(父親|[片身を貰う])", "ミチ:mici(父)((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ミチ:míci((HC))" },
+	["Obihiro"]	= { "ミチ:míci((HC))", "ミチヒ:micíhi((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "アチャポ:acapo", "ハチャ:haca((C3))" },
 	["Shiranuka"]	= { "アチャ:aca", "ミチ:mici((C3))" },

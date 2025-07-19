@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ワㇰカ:wákka((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ワㇰカ:wákka((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "ワㇰカ:wákka (一般)", "ペ:pé, -he《何かから出て来る水・汁》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ワㇰカ:wákka((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ワㇰカ:wákka((HC))" },
+	["Asahikawa"]	= { "ワㇰカ:wákka((HC))", "ヤンマㇰカ:yánmakka《山から出る冷たい水》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ワㇰカ:wákka((HC))" },
 	["Soya"]	= { "ワㇰカ:wákka((HC))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ペ:pe(水)((BS))", "ペイヌハツカ:peinuhatsuka(水)((M1892))" },
+	["Shumshu"]	= { "ペㇸ:peh (wakka は古語なりと云ふ 129)", "ペー:pē (116; 122; wakka は蝦夷アイヌの語 172)", "ペ:pe(水)((BS))", "ペイヌハツカ:peinuhatsuka(水)((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

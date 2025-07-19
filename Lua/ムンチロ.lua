@@ -36,7 +36,7 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "アワ:awá((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "トイタアマㇺ:tóyta 'amám((H))" },
+	["Nayoro"]	= { "トイターマㇺ:tóyta 'amám((H))" },
 	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "トイタアマㇺ:toyta'amam((H))", "シルアマㇺ:siruamam((C1))" },
+	["Bihoro"]	= { "トイターマㇺ:toyta'amam((H))", "シルアマㇺ:siruamam((C1))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "トイタアマㇺ:tóyta'amam", "ムンチロ:múnciro (皮が少し黒い)((H))" },
+	["Obihiro"]	= { "トイターマㇺ:tóyta'amam", "ムンチロ:múnciro (皮が少し黒い)((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },

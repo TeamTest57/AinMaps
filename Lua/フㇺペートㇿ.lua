@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "トンル:tónru (赤くて大きい, 食用)((H))" },
+	["Yakumo"]	= { "トンル:tónru (赤くて大きい; 食用)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "フㇺペートㇿ:humpeetor(-i)((C2))" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "フンペエトㇿ:hunpe'etor((H))", "フㇺペートㇿ:humpeetor(-i)((C2))" },
+	["Bihoro"]	= { "フンペートㇿ:hunpe'etor((H))", "フㇺペートㇿ:humpeetor(-i)((C2))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "フㇺペートㇿ:humpeetor(-i)((C2))" },

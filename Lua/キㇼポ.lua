@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "キㇼプ:kírpu((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "キㇼポ:kirpo((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "キㇼプ:kírpu((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "キㇼプ:kírpu((HC))" },
+	["Yakumo"]	= { "キㇼプ:kírpu((HC))", "リカキㇼプ:rika(-kírpu, -hu)《鯨・イルカの白肉》((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "キㇼポ:kírpo((HC))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "キㇼポ:kírpo((HC))" },
-	["Soya"]	= { "キㇼポ:kírpo((HC))" },
+	["Soya"]	= { "キㇼポ:kírpo((HC))", "キㇼプ:kírpu((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "キリポ:kiripo((HC))" },
-	["Raichishka"]	= { "キルプ:kirupu((HC))" },
+	["Raichishka"]	= { "キルプ:kirupu, -hu((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "キリポ:kiripo((HC))" },
 	["Usoro"]	= { "" },

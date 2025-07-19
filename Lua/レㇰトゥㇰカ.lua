@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "レクㇱ:rek-us((H))" },
+	["Horobetsu"]	= { "レㇰウㇱ:rek-us((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "トゥㇰ:túk((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "レㇰトゥㇰカ:rék túkka (はえかけ)", "レㇰコㇿ:rék kór (;'ús)《ひげをたくわえている》((H))" },
+	["Asahikawa"]	= { "レㇰトゥㇰカ:rék túkka (はえかけ)", "レㇰコㇿ:rék kór (~'ús)《ひげをたくわえている》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "" },
 	["Soya"]	= { "レㇰトゥㇰカ:rék túkka((H))" },

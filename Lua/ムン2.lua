@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "ムン:mun((HC))" },
+	["Horobetsu"]	= { "ムン:mún", "キナ:kiná((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ムン:mun((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ムン:mun((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "ムン:mún", "キナ:kiná(主に食用・薬用)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ムン:mun((HC))" },
+	["Yakumo"]	= { "ムン:mún", "キナ:kiná((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ムン:mun((HC))" },
+	["Asahikawa"]	= { "ムン:mún《使えない草", "キナ:kiná《有用な草》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ムン:mun((HC))" },
-	["Soya"]	= { "ムン:mun((HC))" },
+	["Nayoro"]	= { "ムン:mún", "キナ:kiná(食用)((H))" },
+	["Soya"]	= { "ムン:mún", "フムン:húmun", "フキナ:húkina((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "オルㇱケ:or'uske?《平地|[草木が真直ぐに立つ]》", "ムニホラㇰチュㇷ゚:munihorakcup《七月|[草が枯れて倒れる]》", "ムンペ:munpe《露|[草の表面の水滴]》((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ムン:mun((HC))" },
+	["Obihiro"]	= { "ムン:mún", "キナ:kiná は《ガマ》((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ムン:mun((HC))" },
-	["Raichishka"]	= { "ムン:mun((HC))" },
+	["Raichishka"]	= { "ムン:mun, -ihi", "キナ:kina《食べられる草》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ムン:mun((HC))" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "ムン:mun(160)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

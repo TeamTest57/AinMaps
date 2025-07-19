@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "フラ:húra,(-ha)", "フラピㇼカ:húra pírka《匂が良い》", "フラウェン:húra wén《匂が悪い》((H))" },
+	["Saru"]	= { "フラ:húra", "フラピㇼカ:húra pírka《匂が良い》", "フラウェン:húra wén《匂が悪い》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ウラ:fura (115)", "フラ:hura (香 146, 159)((H))" },
+	["Shumshu"]	= { "ウラ:fura (115)", "フラ:hura (香 146; 159)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

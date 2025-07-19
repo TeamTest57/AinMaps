@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "ウレンケマ:urénkema, (-ha)((H))" },
+	["Saru"]	= { "ウレンケマ:urénkema" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ウトゥレンチㇰー:uturéncik(i,í)r, -i((H))" },
+	["Yakumo"]	= { "ウトゥレンチㇰㇼ:uturéncik(i;í)r, -i((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ウエカリチキリ:u'ékari cikíri((H))" },

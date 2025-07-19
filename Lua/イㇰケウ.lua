@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "チンケウ:cínkew, -e (脊柱に沿った部分)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "チンケウェ:cínkewe (尻の上及び骨盤のまわり全部, 内外ともに)((H))" },
+	["Asahikawa"]	= { "チンケウェ:cínkewe (尻の上及び骨盤のまわり全部; 内外ともに)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "チンケウェ:cínkewe (脚のつけね)", "トゥマㇺ:tumám (それより上も含む)((H))" },
 	["Soya"]	= { "イㇰケウ:íkkew((H))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "クㇷクルシケ:kuhkurusike((C3))" },
-	["Raichishka"]	= { "トゥマㇺ:tumam, -uhu (後)", "クㇷクルウシーケヘ:kuhkuru'usiikehe(帯をしめる所)((H))" },
+	["Raichishka"]	= { "トゥマㇺ:tumam, -uhu (後)", "クㇷクルーシーケヘ:kuhkuru'usiikehe(帯をしめる所)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

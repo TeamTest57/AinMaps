@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "オソマル:osomáru", "アシンル:'asínru", "オソマチセ:'osomácise((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "アシンル:asínru (男女とも)", "オㇰカイ:'okkay ,,(男)", "メノコ:menóko ,,(女)((H))" },
+	["Asahikawa"]	= { "アシンル:asínru (男女とも)", "オㇰカイ:'okkay", "メノコ:menóko" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オソマチセ:osómacise", "オㇰカヨル:'ókkayoru [古] (男)", "メノコル:menókoru [古] (女)((H))" },
 	["Soya"]	= { "アシンチセ:asíncise(男女大小を問わず)((H))" },

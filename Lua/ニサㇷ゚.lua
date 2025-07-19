@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ニサㇷ゚:nisáp, -í((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ニサㇷ゚メㇰカ:nisápmekka (N)", "ウッチカマメㇰカシン:'útcikama mékkasi (N, H)《膝頭からくるぶしまでの骨の上》((H))" },
+	["Asahikawa"]	= { "ニサㇷ゚メㇰカ:nisápmekka (N)", "ウッチカマメㇰカシ:'útcikama mékkasi (N; H)《膝頭からくるぶしまでの骨の上》((H))" },
 	["Chikabumi"]	= { "ニサㇷ゚メㇰカ:nisapmekka((C3))" },
 	["Nayoro"]	= { "ウッチカマ:útcikama", "ニサㇷ゚:nisáp", "キㇼケウ:kírkew《膝を含めて膝から下の部分》((H))" },
 	["Soya"]	= { "ケマメㇰカㇱケ:kemámekkàske, -he((H))" },

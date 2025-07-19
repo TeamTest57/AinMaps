@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "サト:sató", "トペンペ:tópenpe,(-he) (桑の実等も)((H))" },
+	["Yakumo"]	= { "サト:sató", "トペンペ:tópenpe" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "トペンペ:tópenpe 《甘い物》 (→32)((H))" },

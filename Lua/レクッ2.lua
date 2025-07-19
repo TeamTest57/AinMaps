@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "レクッ:rekút, -ci(頸部全体. 外も中も)", "セウリ:séwri,(-hi)(前側. 外も中も)", "クットㇺ:kúttom(声の出る所としての)", "レクップイ:rekútpuy, -e《咽喉》((H))", "クッチャㇺ:kutcam(-a)", "クッケㇱ:kutkes(-e)", "ラウンクッ:raunkut(c-i)", "セウリクㇽポㇰ:sewrikurpok(-i)((C3))" },
+	["Saru"]	= { "レクッ:rekút, -ci(頸部全体. 外も中も)", "セウリ:séwri", "クットㇺ:kúttom(声の出る所としての)", "レクップイ:rekútpuy, -e《咽喉》((H))", "クッチャㇺ:kutcam(-a)", "クッケㇱ:kutkes(-e)", "ラウンクッ:raunkut(c-i)", "セウリクㇽポㇰ:sewrikurpok(-i)((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "レクホウシ:rekuh'o'usi, -kehe, rekuto'usi, -kehe [老]", "レクㇷトㇺ:rekuhtom《のどぼとけから下の外側の部分》((H))" },
+	["Raichishka"]	= { "レクホウシ:rekuh'o'usi, -kehe", "レクトウシ:rekuto'usi, -kehe [老]", "レクㇷトㇺ:rekuhtom《のどぼとけから下の外側の部分》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },

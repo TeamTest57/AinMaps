@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "テクンペ:tekúnpe (冬の猟の時必ずつける, 常にぬらして使う)", "テㇰカㇱ:tékkas(,,)((H))" },
+	["Yakumo"]	= { "テクンペ:tekúnpe (冬の猟の時必ずつける; 常にぬらして使う)", "テㇰカㇱ:tékkas(;;)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "テクンペ:tekúnpe (死人の手にはめる)", "テㇰカㇱ:tekkas《皮手袋》((H))" },

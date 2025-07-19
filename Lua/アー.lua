@@ -70,7 +70,7 @@ export.syns = {
 	["Raichishka"]	= { "アー:'aa((HC))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "アー:'aa((HC))" },
-	["Usoro"]	= { "エケマレウテエタラㇱカネア:ekemarewte etaras kane a", "マㇵネクハ:mahnekuha", "マㇵネクハキ:mahnekuha ki", "ウレウコウシ:ureukousi(-an)((C3))" },
+	["Usoro"]	= { "エケマレウテータラㇱカネア:ekemarewte etaras kane a", "マㇵネクハ:mahnekuha", "マㇵネクハキ:mahnekuha ki", "ウレウコウシ:ureukousi(-an)((C3))" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },

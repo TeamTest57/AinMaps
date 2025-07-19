@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ペッ:pét((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ペッ:pét((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "ペッ:pét((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ナイ:nay((HC))" },
-	["Raichishka"]	= { "ナイ:nay((HC))" },
+	["Raichishka"]	= { "ナイ:nay((HC))", "ペㇸ:peh《川》は神謡に出るだけ. 老人も使わない((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ナイ:nay((HC))" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ペツテ:petsute(川)((M1892))" },
+	["Shumshu"]	= { "ペッ:pét", "ペ:pe (165)((H))", "ペツテ:petsute(川)((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

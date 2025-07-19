@@ -31,10 +31,10 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ウタリ:utarí《同朋》", "イㇼワクタㇻ:'írwak 'utár", "アパ:'apá,(-há)", "イㇼコㇿペ:'írkorpe((H))" },
+	["Yakumo"]	= { "ウタリ:utarí《同朋》", "イㇼワクタㇻ:'írwak 'utár", "アパ:'apá", "イㇼコㇿペ:'írkorpe((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ウタㇻ:utar《同族, 同じ部落の人》", "アイシラㇺコレクㇽ:'aysíramkore kur《遠くにいる知人》((H))" },
+	["Asahikawa"]	= { "ウタㇻ:utar《同族", "アイシラㇺコレクㇽ:'aysíramkore kur《遠くにいる知人》((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "ウタリ:utári", "アパウタリ:'apá 'utari", "シラㇺコレウタリ:sirámkore 'utári((H))" },
 	["Soya"]	= { "ウタリ:utári, -hi", "アパウタリ:'apá'utari", "イカッコㇿ:'ikátkor《同じ姿をしている》((H))" },

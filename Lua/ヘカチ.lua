@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ヘカッタㇻ:hekáttar((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ヘカッタㇻ:hekáttar((HC))" },
-	["Saru"]	= { "ヘカッタㇻ:hekáttar《子供たち》(7,8-15,6歳)", "ポイソン:póyson(7,8歳迄)", "シオン:sí'on(かわいがってよぶ言葉)", "ノカンクㇽ:nokánkur(大人に対する)((H))" },
+	["Saru"]	= { "ヘカッタㇻ:hekáttar《子供たち》(7;8-15;6歳)", "ポイソン:póyson(7;8歳迄)", "シオン:sí'on(かわいがってよぶ言葉)", "ノカンクㇽ:nokánkur(大人に対する)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ヘカチ:hekáci((HC))", "ヘカッタㇻ:hekáttar《子供たち》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "エカッタㇻ:'ekáttar((HC))", "ヤㇻペ:yárpe", "ポンポㇱタ:pón posta(男), pón'opérekep (女)" },
+	["Asahikawa"]	= { "エカッタㇻ:'ekáttar((HC))", "ヤㇻペ:yárpe", "ポンポㇱタ:pón posta(男)", "ポノペレケㇷ゚:pón'opérekep (女)" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "エカッタㇻ:'ekáttar((HC))", "ノカンクㇽ:nokánkur" },
 	["Soya"]	= { "ヘカチ:hekáci((HC))" },

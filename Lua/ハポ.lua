@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ハポ:hápo((HC))" },
 	["Rebun"]	= { "ハポ:hapo((C3))" },
 	["Samani"]	= { "ハポ:hápo((HC))" },
-	["Saru"]	= { "ハポ:hápo《おかあさん》", "ウヌ:'unú, (-hu)《母親》((H))" },
+	["Saru"]	= { "ハポ:hápo《おかあさん》", "ウヌ:'unú" },
 	["Shiraoi"]	= { "ハポ:hapo", "トット:totto((C3))" },
 	["Shizunai"]	= { "ハポ:hapo((C3))" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "ハポ:hápo((HC))", "トットハポ:tóttohapo [敬]", "エシコㇷ゚:'esíkop [敬]((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "トット:tótto((HC))", "ウヌ:'unú, (-hu)((H))" },
+	["Asahikawa"]	= { "トット:tótto((HC))", "ウヌ:'unú" },
 	["Chikabumi"]	= { "ルㇷ゚ネマッ:rupnemat(c-i)", "トット:totto((C3))" },
 	["Nayoro"]	= { "トット:tótto((HC))", "ウヌ:'unú((H))" },
 	["Soya"]	= { "ハポ:hápo((HC))" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "オンネケ:onneke(母親|[半身を呑ませる])", "ハポ:hapo(母)((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ハポ:hápo((HC))" },
+	["Obihiro"]	= { "ハポ:hápo((HC))", "アポ:('-ho) (kór (h)apo(彼の))((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "アポ:apo((C3))" },
 	["Shiranuka"]	= { "ハポ:hapo((C3))" },

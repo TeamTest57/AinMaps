@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ヌカㇻヤンヌカㇻー:nukár yan! nukár '(á,a)n!((H))" },
+	["Yakumo"]	= { "ヌカㇻヤンヌカㇻン:nukár yan! nukár '(á;a)n!((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "タンペヌカㇻ:tánpe nukár (yan).((H))" },
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "タンペエタㇰヌカㇻ:tanpe 'etak nukar.((H))" },
+	["Bihoro"]	= { "タンペータㇰヌカㇻ:tanpe 'etak nukar.((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

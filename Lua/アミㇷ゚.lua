@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "チミㇷ゚:cimíp, -í", "アミㇷ゚:'amíp, -í (mipí(hí) (彼の))((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ミピヒン:mipíhi (N, H)", "イミン:'imí(N, H)", "チミㇷ゚:cimíp(H)((H))" },
+	["Asahikawa"]	= { "ミピヒ:mipíhi (N; H)", "イミ:'imí(N; H)", "チミㇷ゚:cimíp(H)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "アミㇷ゚:amíp", "チミㇷ゚:cimíp《上等のきもの(?)》((H))" },
 	["Soya"]	= { "アイヌミㇷ゚:áynu míp, -ihi", "ミ:mí", "イミ:'imí((H))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ウル:uru(122, 123, 147)((H))" },
+	["Shumshu"]	= { "ウル:uru(122; 123; 147)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

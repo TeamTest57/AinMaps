@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "オㇰカヨ:ókkayo((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "オㇰカヨ:'ókkayo((HC))" },
+	["Asahikawa"]	= { "オㇰカヨ:'ókkayo((HC))", "オㇰカヤイヌ:'ókkay 'áynu (H)((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "オㇰカヨ:'ókkayo((HC))" },
 	["Soya"]	= { "オㇰカヨ:'ókkayo((HC))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "オㇰカイ:okkai (122, 136)((H))", "オㇰカヤイヌ:okkay aynu(男)((BS))", "オカイ:okay(男)((V))" },
+	["Shumshu"]	= { "オㇰカイ:okkai (122; 136)((H))", "オㇰカヤイヌ:okkay aynu(男)((BS))", "オカイ:okay(男)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

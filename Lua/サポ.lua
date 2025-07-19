@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "サポ:sapo((C3))" },
-	["Saru"]	= { "サ:sá,(-ha)", "クサポ:kusápo(私の)", "サポ:sápo(よびかけ)((H))", "イレスサポ:iresusapo((C3))" },
+	["Saru"]	= { "サ:sá", "クサポ:kusápo(私の)", "サポ:sápo(よびかけ)((H))", "イレスサポ:iresusapo((C3))" },
 	["Shiraoi"]	= { "カカポ:kakapo((C3))" },
 	["Shizunai"]	= { "サポ:sapo((C3))" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "サ:sá,(-ha)", "サポ:sápo((H))" },
+	["Yakumo"]	= { "サ:sá", "サポ:sápo((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "サポ:sápo((H))" },
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "サポ:sapo(姉|[朝種])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "サポコㇿ:sápo(kór,,彼の)((H))" },
+	["Obihiro"]	= { "サポ:sápo(kór;;彼の)((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "コㇿサㇷ゚:korsap((C3))" },
 	["Shiranuka"]	= { "サポ:sapo((C3))" },

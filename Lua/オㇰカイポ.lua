@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "ウペノㇰカヨ:upén'okkayo", "ウペンクㇽ:'upénkur", "ホクンヘカチ:hokúnhekaci (男になりつつある頃, 17,8歳)", "シクㇷ゚クㇽ:sikúpkur (中年)((H))" },
+	["Yakumo"]	= { "ウペノㇰカヨ:upén'okkayo", "ウペンクㇽ:'upénkur", "ホクンヘカチ:hokúnhekaci (男になりつつある頃; 17;8歳)", "シクㇷ゚クㇽ:sikúpkur (中年)((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "オㇰカイポ:ókkaypo", "ペウレクㇽ:péwrekur((H))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ホロケイポ:horokeypo((C3))" },
-	["Raichishka"]	= { "イワネㇸポ:iwanehpo (15歳前後-20歳前後)", "スクㇷクル:sukuhkuru (男女とも)", "イワネㇸポオㇹカヨ:'iwanehpo 'ohkayo(30歳台まで)((H))" },
+	["Raichishka"]	= { "イワネㇸポ:iwanehpo (15歳前後-20歳前後)", "スクㇷクル:sukuhkuru (男女とも)", "イワネㇸポーㇹカヨ:'iwanehpo 'ohkayo(30歳台まで)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
