@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ト:tó((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ト:tó((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "ト:tó", "メスイネウㇱケ:mesúyne (;'emémsuyne) 'uske《沢の水源の水たまり》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "トー:too((HC))" },
-	["Raichishka"]	= { "トー:too((HC))" },
+	["Raichishka"]	= { "トー:too((HC))", "ポントー:pontoo《池》((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "トー:too((HC))" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "カパㇻペン:kapar pen(沼の水)", "カパㇻㇷ゚ソイ:kaparpsoy(水たまり)", "オプㇽシ:opursi(沼地)((V))" },
+	["Shumshu"]	= { "ト:to (沼 130, 171)", "メㇺ:mem (泉, 沼 162)((H))", "カパㇻペン:kapar pen(沼の水)", "カパㇻㇷ゚ソイ:kaparpsoy(水たまり)", "オプㇽシ:opursi(沼地)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

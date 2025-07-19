@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "スマ:sumá((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "スマ:sumá((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "スマ:sumá", "ピッ:pít《敷物を編むのに使う石》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "スマ:sumá((HC))" },
+	["Yakumo"]	= { "スマ:sumá((HC))", "ワタラ:watará [古]((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "スマ:sumá((HC))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ポイン:poyn(石)", "ポインノイ:poynnoy(石)((V))" },
+	["Shumshu"]	= { "ポイナ:poina (119,130,169. shuma は古歌に)((H))", "ポイン:poyn(石)", "ポインノイ:poynnoy(石)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "カㇺ:kám((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "カㇺ:kám((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "カㇺ:kám((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "カㇺ:kám((HC))" },
+	["Yakumo"]	= { "カㇺ:kám((HC))", "カムイハル:kamúy haru 《熊の肉》((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "カㇺ:kám((HC))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "カㇺ:kam((HC))" },
-	["Raichishka"]	= { "カㇺ:kam((HC))" },
+	["Raichishka"]	= { "カㇺ:kam, -ihi((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "カㇺ:kam((HC))" },
 	["Usoro"]	= { "" },

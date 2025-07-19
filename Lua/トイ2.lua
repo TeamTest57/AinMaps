@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "トイトイ:tóytoy((HC))" },
+	["Horobetsu"]	= { "トイトイ:tóytoy((HC))", "トイ:tóy" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "トイトイ:tóytoy((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "トイトイ:tóytoy((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "トイトイ:tóytoy((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "トイトイ:tóytoy((HC))" },
+	["Yakumo"]	= { "トイトイ:tóytoy((HC))", "トイ:tóy((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "トイ:tóy((HC))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ドイガ:doiga《地》((M1892))", "トイ:toy(地球)((V))" },
+	["Shumshu"]	= { "トイ:toy(地球)((V))", "ドイガ:doiga《地》((M1892))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "チカㇷ゚:cikáp((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "チカㇷ゚:cikáp((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "チカㇷ゚:cikáp", "チㇼ:cír [雅]((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,7 +31,7 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "チカㇷ゚:cikáp, círi((HC))" },
+	["Yakumo"]	= { "チカㇷ゚:cikáp, círi((HC))", "チㇼ:cír((H))" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "チカㇷ゚:cikáp((HC))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "チカㇵ:cikah((HC))" },
-	["Raichishka"]	= { "チカㇵ:cikah((HC))" },
+	["Raichishka"]	= { "チカㇵ:cikah, -puhu((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "チカㇷ゚:cikap((HC))" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "チㇼ:cir(鳥)((BS))" },
+	["Shumshu"]	= { "チリ:chiri (158)((H))", "チㇼ:cir(鳥)((BS))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

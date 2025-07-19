@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チクニカㇷ゚:cikúnikap, níkap((HC))" },
+	["Horobetsu"]	= { "チクニカㇷ゚:cikúnikap, níkap((HC))", "ニカㇷ゚:níkap((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "チクニカㇷ゚:cikuníkap((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "カㇷ゚:kap((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "カㇷ゚:káp, -ú", "ニカㇷ゚:níkap, -u((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -36,8 +36,8 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ニカㇷ゚:níkap((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ヤㇻ:yár, níyar((HC))" },
-	["Soya"]	= { "カㇷ゚:káp, níkap((HC))" },
+	["Nayoro"]	= { "ヤㇻ:yár, níyar((HC))", "ニヤㇻ:níyar((H))" },
+	["Soya"]	= { "カㇷ゚:káp, níkap((HC))", "ニカㇷ゚:níkap((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ニカㇷ゚:níkap, káp((HC))" },
+	["Obihiro"]	= { "ニカㇷ゚:níkap, káp((HC))", "カㇷ゚:káp, -ú" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ニーカㇵ:niikah((HC))" },
-	["Raichishka"]	= { "ニーカㇵ:niikah((HC))" },
+	["Raichishka"]	= { "ニーカㇵ:niikah, -puhu((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ニーカㇷ゚:niikap((HC))" },
 	["Usoro"]	= { "" },
