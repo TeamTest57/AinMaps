@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "desert"
+export.gloss = "pheasant"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "" },
+	["Bihoro"]	= { "フミルイ:humiruy《ヤマドリ》((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },

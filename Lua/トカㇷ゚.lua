@@ -1,29 +1,29 @@
 local export = {}
 
-export.gloss = "day, daytime"
+export.gloss = "breasts [of woman]"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "トカㇷ゚:tókap((HC))" },
+	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "トカㇷ゚:tókap((HC))" },
+	["Horobetsu"]	= { "ト:tó, (-ho)", "トット:tótto", "トカㇷ゚:tókap (老婆の)((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "トカㇷ゚:tókap((HC))" },
-	["Nukkibetsu"]	= { "トカㇷ゚:tókap((HC))" },
+	["Niikappu"]	= { "" },
+	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "トカㇷ゚:tókap((HC))" },
+	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "ト:to((HC))" },
-	["Saru"]	= { "" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "トット:tótto, (-ho) (ふつうこれを使う)", "レラㇻ:rerár, -i (正式な言い方)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "トカㇷ゚:tókap((HC))" },
+	["Yakumo"]	= { "トット:tótto, (-ho)", "トカㇷ゚:tókap (年とった女の)", "トットプサ:tóttopusa (たれたもの)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "トカㇺ:tókam((HC))" },
+	["Asahikawa"]	= { "トカㇷ゚ン:tókap (N, H)", "トット:tótto (N)((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "トカㇺ:tókam,sírpeker((HC))" },
-	["Soya"]	= { "トノ:tóno((HC))" },
+	["Nayoro"]	= { "ト:tó (若い女の)", "トカㇷ゚:tókap (年とった女の)", "トット:tótto [児]", "マㇺマ:mámma [児]((H))" },
+	["Soya"]	= { "トット:tótto, -ho((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "シㇼペケㇾ:sírpeker((HC))" },
+	["Bihoro"]	= { "カㇷ゚:kap, -u((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "シㇼペケㇾ:sírpeker((HC))" },
+	["Kushiro"]	= { "カプ:kapu(乳房、おちち)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "トノノㇱケ:tononoske(昼|[日中])" },
+	["Nemuro"]	= { "トカㇷ゚:tokap(乳|[二つ並ぶ皮の袋])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "シㇼペケㇾ:sírpeker((HC))" },
+	["Obihiro"]	= { "トカㇷ゚:tókap((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "トーノ:toono((HC))" },
-	["Raichishka"]	= { "トーノ:toono((HC))" },
+	["Maoka"]	= { "" },
+	["Raichishka"]	= { "トー:too, -ho((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "トーノ:toono((HC))" },
+	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "トーノ:toono((HC))" },
+	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "トーノㇱケ:toonoske((HC))" },
-	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "トーノ:toono((HC))" },
+	["Ochiho"]	= { "" },
+	["Shirahama"]	= { "ト:to(乳房、乳腺)((CW))" },
+	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,11 +86,11 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "ノナーカ:nonāka (乳 139)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "シㇼペケㇾ:sir-peker(昼)((BS))" },
+	["South Kuril"]	= { "" },
 }
 
 return export

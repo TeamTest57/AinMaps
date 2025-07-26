@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "キノㇷ゚:kinóp((HC))" },
+	["Horobetsu"]	= { "キノㇷ゚:kinóp((HC))", "ラ:rá (魚の)((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "クンネフイペ:kúnne húype((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ラ:ra((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "フイペ:húype, (-he) (?)", "キノㇷ゚:kinóp, -i (?)《腎臓(?)》", "ラ:(rá, -ha《魚のはらわたの中のあぶら》)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "クンネラ:kúnne rá((HC))" },
+	["Yakumo"]	= { "クンネラ:kúnne rá((HC))", "ラ:rá, (-ha)", "フイペ:húype, (-he)", "クンネフイペ:kúnnehuype (熊等の)((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "ラ:ra((HC))" },
+	["Asahikawa"]	= { "ラ:rá", "シウペ:síwpe《胆嚢》", "チュㇷ゚:cúp《すい臓》", "キノピ:kinópi《腎臓》", "チョココㇷ゚:cokókop《脾臓》", "ピセ:pisé《膀胱》((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ラ:ra((HC))" },
-	["Soya"]	= { "ラ:ra((HC))" },
+	["Nayoro"]	= { "ラ:rá((H))" },
+	["Soya"]	= { "ラ:rá, (-ha)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -57,7 +57,7 @@ export.syns = {
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "ニンケニンキ:ninke/ninki《胆|[干す事ある]》((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "ラ:ra((HC))" },
+	["Obihiro"]	= { "ラ:rá, (-ha)((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ウラカ:'uraka((HC))" },
-	["Raichishka"]	= { "ウラカ:'uraka((HC))" },
+	["Raichishka"]	= { "ウラカ:uraka, -ha(人間・獣・魚の)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ウラカ:'uraka((HC))" },
 	["Usoro"]	= { "" },

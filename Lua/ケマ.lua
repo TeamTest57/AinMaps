@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チキㇼ:cikír,kemá((HC))", "キㇼケウ:kirkew(-e)", "ポキンチキㇼ:pokincikir(-i)", "ポキシㇼケ:pokisirke((C3))" },
+	["Horobetsu"]	= { "チキㇼ:cikír,kemá((HC))", "ケマ:kemá, (-ha)((H))", "キㇼケウ:kirkew(-e)", "ポキンチキㇼ:pokincikir(-i)", "ポキシㇼケ:pokisirke((C3))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "チキㇼ:cikír((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "チキㇼ:cikír((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "ケマ:kemá, (-ha)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,12 +31,12 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "チキㇼ:cikír,kemá((HC))" },
+	["Yakumo"]	= { "チキㇼ:cikír,kemá((HC))", "ケマ:kemá, (-há)" },
 
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "チキㇼ:cikír((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "ケマ:kemá((HC))" },
+	["Nayoro"]	= { "ケマ:kemá((HC))", "オㇺケマ:'ómkema", "オㇺチキㇼ:'ómcikir [稀]((H))" },
 	["Soya"]	= { "ケマクチキ:kemákuciki((HC))" },
 	["Teshio"]	= { "" },
 

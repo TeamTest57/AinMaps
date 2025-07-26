@@ -1,29 +1,29 @@
 local export = {}
 
-export.gloss = "fish"
+export.gloss = "fish [as food]"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "チェㇷ゚:cép((HC))" },
+	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チェㇷ゚:cép, ci'ép((HC))", "チエㇷ゚:ci'ép", "チエㇷ゚ポ:ci'éppo《小魚》((H))" },
+	["Horobetsu"]	= { "チェㇷ゚:cép", "チエㇷ゚:ci'ép((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "チェㇷ゚:cép((HC))" },
-	["Nukkibetsu"]	= { "チェㇷ゚:cép((HC))" },
+	["Niikappu"]	= { "" },
+	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "チエㇷ゚:ci'ép((HC))" },
+	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "チェㇷ゚:cép((HC))" },
-	["Saru"]	= { "チェㇷ゚:cép", "チェクニㇷ゚:cékunip [雅]((H))" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "チェㇷ゚:cép((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "チエㇷ゚:ci'ép((HC))", "チェㇷ゚:c(i')ép, -í((H))" },
+	["Yakumo"]	= { "チエㇷ゚:ci'ép, -í((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "チェㇷ゚:cép((HC))", "チェㇷ゚ポ:céppo 《小魚》((H))" },
+	["Asahikawa"]	= { "チェㇷ゚:cép((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "チェㇷ゚:cép((HC))" },
-	["Soya"]	= { "チェㇷ゚:cép((HC))" },
+	["Nayoro"]	= { "チェㇷ゚:cép((H))" },
+	["Soya"]	= { "チェㇷ゚:cép((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "チェㇷ゚:cép((HC))" },
+	["Bihoro"]	= { "チェㇷ゚:cep((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "チェㇷ゚:cép((HC))", "アタㇰ:atak(背割して乾燥させた魚(ウグイやサケなど))", "サッチェㇷ゚:satcep(干し魚)", "ウペンチェㇷ゚:upen-cep(生魚)((K2021))" },
+	["Kushiro"]	= { "チェㇷ゚:cep(魚)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
 	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "チェㇷ゚:cép((HC))" },
+	["Obihiro"]	= { "チェㇷ゚:cép((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "チェㇸ:ceh((HC))" },
+	["Maoka"]	= { "" },
 	["Raichishka"]	= { "チェㇸ:ceh, -pihi((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "チェㇷ゚:cep((HC))" },
+	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "チェㇷ゚:cep((HC))" },
+	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "チェㇸ:ceh((HC))" },
+	["Ochiho"]	= { "" },
 	["Shirahama"]	= { "" },
-	["Shiraura"]	= { "チェㇸ:ceh((HC))" },
+	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -86,11 +86,11 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "チェㇷ゚:chep(158)((H))" },
+	["Shumshu"]	= { "チェㇷ゚:chep (158)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "チェㇷ゚:cep(魚)((BS))" },
+	["South Kuril"]	= { "チェㇷ゚:cep《魚》((BS))" },
 }
 
 return export

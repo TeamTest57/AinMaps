@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "トペ:tópe((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "トペ:tópe((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "トペ:tópe((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,7 +34,7 @@ export.syns = {
 	["Yakumo"]	= { "トペ:tópe((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "トペ:tópe((HC))" },
+	["Asahikawa"]	= { "トペ:tópe((HC))", "トカㇷ゚トペ:tókap tópe((H))" },
 	["Chikabumi"]	= { "" },
 	["Nayoro"]	= { "トペ:tópe((HC))" },
 	["Soya"]	= { "トペ:tópe((HC))" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "トーペ:toope((HC))" },
-	["Raichishka"]	= { "トーペ:toope((HC))" },
+	["Raichishka"]	= { "トーペ:toope, -he((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "トーペ:toope((HC))" },
 	["Usoro"]	= { "" },

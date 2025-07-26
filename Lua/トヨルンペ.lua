@@ -1,29 +1,29 @@
 local export = {}
 
-export.gloss = "hand"
+export.gloss = "vegetable"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
 	["Abuta"]	= { "" },
 	["Azuma"]	= { "" },
-	["Biratori"]	= { "パラテㇰ:parátek((HC))" },
+	["Biratori"]	= { "" },
 	["Chitose"]	= { "" },
 	["Ebeotsu"]	= { "" },
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "テㇰ:ték((HC))" },
+	["Horobetsu"]	= { "トヨルンペ:tóyorunpe (畠の作物一般)", "ラタㇱケㇷ゚:ratáskep《野草》((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
 	["Muroran"]	= { "" },
-	["Niikappu"]	= { "パラテㇰ:parátek((HC))" },
-	["Nukkibetsu"]	= { "パラテㇰ:parátek((HC))" },
+	["Niikappu"]	= { "" },
+	["Nukkibetsu"]	= { "" },
 	["Ogifushi"]	= { "" },
-	["Oshamambe"]	= { "テㇰ:ték((HC))" },
+	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
-	["Samani"]	= { "テㇰ:tek((HC))" },
-	["Saru"]	= { "" },
+	["Samani"]	= { "" },
+	["Saru"]	= { "トヨルンペ:tóyorunpe (幌に同じ)", "キナ:kiná《野草》((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "パラテㇰ:paraték((HC))" },
+	["Yakumo"]	= { "ムンハル:múnharu", "チエムン:ci'émun", "ムン:mún((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "テㇰ:ték((HC))" },
+	["Asahikawa"]	= { "" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "テㇰ:ték((HC))" },
-	["Soya"]	= { "パラテㇰ:paraték((HC))" },
+	["Nayoro"]	= { "" },
+	["Soya"]	= { "" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "パラテㇰ:paratek((HC))" },
+	["Bihoro"]	= { "" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "テㇰ:tek, -e(手)((K2021))" },
+	["Kushiro"]	= { "" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "テㇰ:tek, -e(手)((F2016))" },
+	["Nemuro"]	= { "" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "パラテㇰ:parátek((HC))" },
+	["Obihiro"]	= { "" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -66,19 +66,19 @@ export.syns = {
 
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
-	["Maoka"]	= { "テㇸ:teh((HC))" },
-	["Raichishka"]	= { "パラキタ:parakita((HC))" },
+	["Maoka"]	= { "" },
+	["Raichishka"]	= { "ウサオカキナムン:usa'oka kinamun, -ihi((H))" },
 	["Shiranushi"]	= { "" },
-	["Tarantomari"]	= { "テㇰ:tek((HC))" },
+	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
 
 	-- Sakhalin: East Coast
 	["Aihama"]	= { "" },
-	["Nairo"]	= { "テㇰ:tek((HC))" },
+	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
-	["Ochiho"]	= { "テㇸ:teh((HC))" },
-	["Shirahama"]	= { "モン:mon(手)", "テㇸ:teh(手)((CW))" },
-	["Shiraura"]	= { "パラキタ:parakita((HC))" },
+	["Ochiho"]	= { "" },
+	["Shirahama"]	= { "" },
+	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
 	["Yamambetsu"]	= { "" },
@@ -90,7 +90,7 @@ export.syns = {
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "テㇰ:tek(手)((BS))" },
+	["South Kuril"]	= { "" },
 }
 
 return export

@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "ペンラㇺ:pénram((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "ペンラㇺ:pénram((HC))" },
-	["Saru"]	= { "ラㇷ゚ラㇷ゚:raprap((C3))" },
+	["Saru"]	= { "ペンラㇺ:pénram, -u((H))", "ラㇷ゚ラㇷ゚:raprap((C3))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -36,15 +36,15 @@ export.syns = {
 	-- Hokkaido: Northern
 	["Asahikawa"]	= { "ペンラㇺ:pénram((HC))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "レラㇻ:rerár((HC))" },
-	["Soya"]	= { "レラㇻ:rerár((HC))" },
+	["Nayoro"]	= { "レラㇻ:rerár((HC))", "ペンラㇺ:pénram (胸及びその上)", "パンラㇺ:pánram (腹及びその下)((H))" },
+	["Soya"]	= { "レラㇻ:rerár((HC))", "ラㇺカシケ:ramkasike (乳のところ)((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "レラㇻ:rerar((HC))", "トゥアルカㇺ:tuarukam(-i)((C3))" },
+	["Bihoro"]	= { "レラㇻ:rerar, -u", "ペンラム:penram -u(前・後・中とも含めて)((H))", "トゥアルカㇺ:tuarukam(-i)((C3))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "ラㇺ:ram((HC))", "ランカ:ranka((C3))" },
-	["Raichishka"]	= { "レラル:reraru((HC))" },
+	["Raichishka"]	= { "レラル:reraru, -hu((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "ラㇺ:ram,reraru((HC))", "ランコトロ:rankotoro((C3))" },
 	["Usoro"]	= { "ウホンナイケ:uhonnayke((C3))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "ラㇺカ:ramka(胸)", "トゥイアㇻ:tuy=ar(胸)((V))" },
+	["Shumshu"]	= { "トゥイ:tui (140)((H))", "ラㇺカ:ramka(胸)", "トゥイアㇻ:tuy=ar(胸)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

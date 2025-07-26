@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "コㇰカサパ:kókkasapa((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "コㇰカパケ:kokkapake((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "コㇰカサパ:kókkasapa, (-ha)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -34,9 +34,9 @@ export.syns = {
 	["Yakumo"]	= { "コㇰカサパ:kókkasapa((HC))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "コㇰカ:kókka(sapa)((HC))" },
+	["Asahikawa"]	= { "コㇰカ:kókka(sapa)((HC))", "コㇰカサパ:kókka sapá((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "コㇰカ:kókka((HC))" },
+	["Nayoro"]	= { "コㇰカ:kókka((HC))", "ニヨㇿポㇰ:niyórpok《ひざの裏のくぼみ》((H))" },
 	["Soya"]	= { "コㇰカサパ:kókkasapa((HC))" },
 	["Teshio"]	= { "" },
 
@@ -44,7 +44,7 @@ export.syns = {
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "コㇰカ:kokka((HC))" },
+	["Bihoro"]	= { "コㇰカ:kokka((HC))", "コㇰカパケ:kokkapake((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "クイサパ:kuysapa((HC))" },
-	["Raichishka"]	= { "クイサパ:kuysapa((HC))" },
+	["Raichishka"]	= { "クイサパ:kuysapa, -ha((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "クイサパ:kuysapa((HC))" },
 	["Usoro"]	= { "クイシ:kuysi((C3))" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "コカパカチ:koka=pa=kaci(膝)", "コカパ:koka=pa(膝)((V))" },
+	["Shumshu"]	= { "コㇰカ:kokka (139)((H))", "コカパカチ:koka=pa=kaci(膝)", "コカパ:koka=pa(膝)((V))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

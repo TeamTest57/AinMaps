@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "シンリッ:sínrit((HC))" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "シンリッ:sínrit((HC))" },
-	["Saru"]	= { "" },
+	["Saru"]	= { "シンリッ:sínrit, -ci((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,13 +31,13 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "シンリッ:sínrit((HC))" },
+	["Yakumo"]	= { "シンリッ:sínrit((HC))", "ニシンリッ:ní sínrit《木の根》((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "シンリッ:sínrit((HC))" },
+	["Asahikawa"]	= { "シンリッ:sínrit((HC))", "ニシンリッ:ní sínrit((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "シンリッ:sínrit((HC))" },
-	["Soya"]	= { "シンリッ:sínrit, cínkew((HC))" },
+	["Nayoro"]	= { "シンリッ:sínrit((HC))", "チンケウ:cínkew(地上に出ている)((H))" },
+	["Soya"]	= { "シンリッ:sínrit, cínkew((HC))", "チンケウ:cínkew, -ehe" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "チンケウ:cinkew, nii'oosikehe((HC))" },
-	["Raichishka"]	= { "チンケウ:cinkew (太い), sinris (細い)((HC))" },
+	["Raichishka"]	= { "チンケウ:cinkew (太い), sinris (細い)((HC))", "メチロㇹ:meciroh, -kihi《枝根》", "シンリㇱ:sinris, -cihi(細かい)((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "チンケウ:cinkew, niisinrit((HC))" },
 	["Usoro"]	= { "" },
@@ -86,7 +86,7 @@ export.syns = {
 	-- Kuril: Northern
 	["Kuril"]	= { "" },
 	["Paramushir"]	= { "" },
-	["Shumshu"]	= { "" },
+	["Shumshu"]	= { "ニシンリッ:ni shin rit (152)((H))" },
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },

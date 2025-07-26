@@ -1,6 +1,6 @@
 local export = {}
 
-export.gloss = "to be cooked, to be done, to be roasted"
+export.gloss = "penis"
 
 export.syns = {
 	-- Hokkaido: Southern/Central
@@ -12,7 +12,7 @@ export.syns = {
 	["Hagino"]	= { "" },
 	["Hidaka"]	= { "" },
 	["Hobetsu"]	= { "" },
-	["Horobetsu"]	= { "チ:cí((H))" },
+	["Horobetsu"]	= { "チ:cí, -yé((H))" },
 	["Horoman"]	= { "" },
 	["Mitsuishi"]	= { "" },
 	["Mukawa"]	= { "" },
@@ -23,7 +23,7 @@ export.syns = {
 	["Oshamambe"]	= { "" },
 	["Rebun"]	= { "" },
 	["Samani"]	= { "" },
-	["Saru"]	= { "チ:cí[自]((H))" },
+	["Saru"]	= { "チ:cí, -yé (全体)", "チネトパケ:cínetopake《“さお”》(císapa《陰茎亀頭》等を除いた部分)((H))" },
 	["Shiraoi"]	= { "" },
 	["Shizunai"]	= { "" },
 	["Takae"]	= { "" },
@@ -31,33 +31,33 @@ export.syns = {
 	["Toyoura"]	= { "" },
 	["Urakawa"]	= { "" },
 	["Usu"]	= { "" },
-	["Yakumo"]	= { "チ:cí((H))" },
+	["Yakumo"]	= { "チ:cí, -yé", "チカㇷ゚:cikáp, -í [俗]((H))" },
 
 	-- Hokkaido: Northern
-	["Asahikawa"]	= { "チ:cí((H))" },
+	["Asahikawa"]	= { "チイェヘ:ciyéhe((H))" },
 	["Chikabumi"]	= { "" },
-	["Nayoro"]	= { "チ:cí((H))" },
-	["Soya"]	= { "チ:cí((H))" },
+	["Nayoro"]	= { "チイェ:ciyé", "オㇷ゚:'óp (本来は《槍》)", "チョㇷ゚チョㇷ゚:cóp-cop [児]((H))" },
+	["Soya"]	= { "チカㇷ゚ポ:cikáppo, -ho《“ちんぽ”》((H))" },
 	["Teshio"]	= { "" },
 
 	-- Hokkaido: Eastern
 	["Abashiri"]	= { "" },
 	["Akan"]	= { "" },
 	["Ashoro"]	= { "" },
-	["Bihoro"]	= { "チ:ci[自]((H))" },
+	["Bihoro"]	= { "チ:ci, -ye((H))" },
 	["Biroo"]	= { "" },
 	["Chirotto"]	= { "" },
 	["Fupushinai"]	= { "" },
 	["Fushiko"]	= { "" },
 	["Harutori"]	= { "" },
 	["Kitami"]	= { "" },
-	["Kushiro"]	= { "ウフイ:uhuy(燃える、焼ける、こげる)", "ウーイ:uuy(燃える、焼ける、こげる)((K2021))" },
+	["Kushiro"]	= { "チイェ:ciye(男性の陰部)((K2021))" },
 	["Kussharo"]	= { "" },
 	["Memuro"]	= { "" },
 	["Mokoto"]	= { "" },
-	["Nemuro"]	= { "" },
+	["Nemuro"]	= { "チ:ci, -ye(陰茎|[筋がのびる])", "ポンチョ:ponco(子供|[小陰茎、肛門のふちを言う])((F2016))" },
 	["Nijibetsu"]	= { "" },
-	["Obihiro"]	= { "チ:cí[自]((H))" },
+	["Obihiro"]	= { "チ:cí, -yé((H))" },
 	["Otofuke"]	= { "" },
 	["Shari"]	= { "" },
 	["Shiranuka"]	= { "" },
@@ -67,7 +67,7 @@ export.syns = {
 	-- Sakhalin: West Coast
 	["Chirai"]	= { "" },
 	["Maoka"]	= { "" },
-	["Raichishka"]	= { "チー:cii[自](実が<<熟する>>も)((H))" },
+	["Raichishka"]	= { "チー:cii, -yehe((H))" },
 	["Shiranushi"]	= { "" },
 	["Tarantomari"]	= { "" },
 	["Usoro"]	= { "" },
@@ -77,7 +77,7 @@ export.syns = {
 	["Nairo"]	= { "" },
 	["Niitoi"]	= { "" },
 	["Ochiho"]	= { "" },
-	["Shirahama"]	= { "" },
+	["Shirahama"]	= { "チ:či(陰茎)((CW))" },
 	["Shiraura"]	= { "" },
 	["Taraika"]	= { "" },
 	["Tonnai"]	= { "" },
@@ -90,7 +90,7 @@ export.syns = {
 
 	-- Kuril: Southern
 	["Etorofu"]	= { "" },
-	["South Kuril"]	= { "" },
+	["South Kuril"]	= { "チ:ci(男性器)((BS))" },
 }
 
 return export
